@@ -51,6 +51,16 @@ This command:
 On Linux:
 
 ```bash
-find "$(pwd)" -type f -name "*.wav" | parallel 'ffmpeg -y -
-hide_banner -loglevel error -i "{}" -q:a 0 "$(dirname "{}")/$(basename "{}" .wav).mp3"'
+sudo apt install parallel
+find "$(pwd)" -type f -name "*.wav" | parallel 'ffmpeg -y -hide_banner -loglevel error -i "{}" -q:a 0 "$(dirname "{}")/$(basename "{}" .wav).mp3"'
+```
+
+## Renaming files to remove `.seg`/`.wav`
+
+On Linux:
+
+```bash
+sudo apt install rename
+rename 's/\.SEG|\.seg//' *
+rename 's/\.WAV|\.wav//' *
 ```
