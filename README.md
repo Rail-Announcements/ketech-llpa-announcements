@@ -66,6 +66,7 @@ rename 's/\.WAV|\.wav//' *
 ```
 
 ## .seg file format
+
 Most seg files start with a 48 character header, e.g.
 `1483                                        12FF`
 
@@ -84,7 +85,11 @@ Examples:
 * `0400                                        FFFF`
 * `2439                                    FROM8440`
 
-## Unusual .seg files
+### Unusual .seg files
+
+A small number of the .seg files contain strange header contents that don't
+match this pattern in some way, or have odd file descriptions.
+
 * segs/default/306.seg  (`                                            FFFF\x9d` only)
 * segs/default/1871.seg (`                                            ffff` only)
 * segs/default/199.seg  (`                                            FFFFt` only)
