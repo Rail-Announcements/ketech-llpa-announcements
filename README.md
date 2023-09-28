@@ -64,3 +64,32 @@ sudo apt install rename
 rename 's/\.SEG|\.seg//' *
 rename 's/\.WAV|\.wav//' *
 ```
+
+## .seg file format
+Most seg files start with a 48 character header, e.g.
+`1483                                        12FF`
+
+The first four characters are a space padded ID (which may be absent, or padded
+with zeroes instead of spaces), the last four characters are mandatory, are in
+hexadecimal range, and may be uppercase or lowercase. The ID will usually (but
+not always) match the filename.
+
+A very small number also include a transcription.
+
+Examples:
+* `1483                                        12FF`
+* ` 130                                        FFFF`
+* `                                            12ff`
+* `2456                       a security alert.04FF`
+* `0400                                        FFFF`
+* `2439                                    FROM8440`
+
+## Unusual .seg files
+* segs/default/306.seg  (`                                            FFFF\x9d` only)
+* segs/default/1871.seg (`                                            ffff` only)
+* segs/default/199.seg  (`                                            FFFFt` only)
+* segs/Male3/306.seg    (`                                            FFFF\x9d` only)
+* segs/Male3/199.seg    (`                                            FFFFt` only)
+* segs/Male1/399.seg    (` 399ader->End,HeaderEnd,3);           /*RecoFFFF`, ...)
+* segs/Female2/0.seg    (Header is correct length, but is padded with null bytes instead of spaces, ends `FFFF`)
+* segs/Female2/1400.seg (Has no header)
