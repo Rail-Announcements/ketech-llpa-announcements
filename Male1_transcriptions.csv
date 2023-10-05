@@ -1218,91 +1218,91 @@
 1237,The North,m,
 1238,The West,m,
 1239,The South,m,
-1240,00 - midnight,s,
-1241,1,s,
-1242,2,s,
-1243,3,s,
-1244,4,s,
-1245,5,s,
-1246,6,s,
-1247,7,s,
-1248,8,s,
-1249,9,s,
-1250,10,s,
-1251,11,s,
-1252,12,s,
-1253,13,s,
-1254,14,s,
-1255,15,s,
-1256,16,s,
-1257,17,s,
-1258,18,s,
-1259,19,s,
-1260,20,s,
-1261,21,s,
-1262,22,s,
-1263,23,s,
-1265,1,m,
-1266,2,m,
-1267,3,m,
-1268,4,m,
-1269,5,m,
-1270,6,m,
-1271,7,m,
-1272,8,m,
-1273,9,m,
-1274,10,m,
-1275,11,m,
-1276,12,m,
-1277,13,m,
-1278,14,m,
-1279,15,m,
-1280,16,m,
-1281,17,m,
-1282,18,m,
-1283,19,m,
-1284,20,m,
-1285,21,m,
-1286,22,m,
-1287,23,m,
-1288,24,m,
-1289,25,m,
-1290,26,m,
-1291,27,m,
-1292,28,m,
-1293,29,m,
-1294,30,m,
-1295,31,m,
-1296,32,m,
-1297,33,m,
-1298,34,m,
-1299,35,m,
-1300,36,m,
-1301,37,m,
-1302,38,m,
-1303,39,m,
-1304,40,m,
-1305,41,m,
-1306,42,m,
-1307,43,m,
-1308,44,m,
-1309,45,m,
-1310,46,m,
-1311,47,m,
-1312,48,m,
-1313,49,m,
-1314,50,m,
-1315,51,m,
-1316,52,m,
-1317,53,m,
-1318,54,m,
-1319,55,m,
-1320,56,m,
-1321,57,m,
-1322,58,m,
-1323,59,m,
-1324,00 - hundred,m,
-1325,00 - hundred-hours,m,
+1240,00 - midnight,s,time - hour
+1241,1,s,time - hour
+1242,2,s,time - hour
+1243,3,s,time - hour
+1244,4,s,time - hour
+1245,5,s,time - hour
+1246,6,s,time - hour
+1247,7,s,time - hour
+1248,8,s,time - hour
+1249,9,s,time - hour
+1250,10,s,time - hour
+1251,11,s,time - hour
+1252,12,s,time - hour
+1253,13,s,time - hour
+1254,14,s,time - hour
+1255,15,s,time - hour
+1256,16,s,time - hour
+1257,17,s,time - hour
+1258,18,s,time - hour
+1259,19,s,time - hour
+1260,20,s,time - hour
+1261,21,s,time - hour
+1262,22,s,time - hour
+1263,23,s,time - hour
+1265,01,m,time - mins
+1266,02,m,time - mins
+1267,03,m,time - mins
+1268,04,m,time - mins
+1269,05,m,time - mins
+1270,06,m,time - mins
+1271,07,m,time - mins
+1272,08,m,time - mins
+1273,09,m,time - mins
+1274,10,m,time - mins
+1275,11,m,time - mins
+1276,12,m,time - mins
+1277,13,m,time - mins
+1278,14,m,time - mins
+1279,15,m,time - mins
+1280,16,m,time - mins
+1281,17,m,time - mins
+1282,18,m,time - mins
+1283,19,m,time - mins
+1284,20,m,time - mins
+1285,21,m,time - mins
+1286,22,m,time - mins
+1287,23,m,time - mins
+1288,24,m,time - mins
+1289,25,m,time - mins
+1290,26,m,time - mins
+1291,27,m,time - mins
+1292,28,m,time - mins
+1293,29,m,time - mins
+1294,30,m,time - mins
+1295,31,m,time - mins
+1296,32,m,time - mins
+1297,33,m,time - mins
+1298,34,m,time - mins
+1299,35,m,time - mins
+1300,36,m,time - mins
+1301,37,m,time - mins
+1302,38,m,time - mins
+1303,39,m,time - mins
+1304,40,m,time - mins
+1305,41,m,time - mins
+1306,42,m,time - mins
+1307,43,m,time - mins
+1308,44,m,time - mins
+1309,45,m,time - mins
+1310,46,m,time - mins
+1311,47,m,time - mins
+1312,48,m,time - mins
+1313,49,m,time - mins
+1314,50,m,time - mins
+1315,51,m,time - mins
+1316,52,m,time - mins
+1317,53,m,time - mins
+1318,54,m,time - mins
+1319,55,m,time - mins
+1320,56,m,time - mins
+1321,57,m,time - mins
+1322,58,m,time - mins
+1323,59,m,time - mins
+1324,00 - hundred,m,time - mins
+1325,00 - hundred-hours,m,time - mins
 1326,via Maidstone East,"s,m",
 1327,via Maidstone East,e,
 1328,via Maidstone East and Ashford International,"s,m",
@@ -2187,67 +2187,67 @@
 2261,LWS,m,
 2262,LFD,m,
 2263,MHM,m,
-2265,1,e,
-2266,2,e,
-2267,3,e,
-2268,4,e,
-2269,5,e,
-2270,6,e,
-2271,7,e,
-2272,8,e,
-2273,9,e,
-2274,10,e,
-2275,11,e,
-2276,12,e,
-2277,13,e,
-2278,14,e,
-2279,15,e,
-2280,16,e,
-2281,17,e,
-2282,18,e,
-2283,19,e,
-2284,20,e,
-2285,21,e,
-2286,22,e,
-2287,23,e,
-2288,24,e,
-2289,25,e,
-2290,26,e,
-2291,27,e,
-2292,28,e,
-2293,29,e,
-2294,30,e,
-2295,31,e,
-2296,32,e,
-2297,33,e,
-2298,34,e,
-2299,35,e,
-2300,36,e,
-2301,37,e,
-2302,38,e,
-2303,39,e,
-2304,40,e,
-2305,41,e,
-2306,42,e,
-2307,43,e,
-2308,44,e,
-2309,45,e,
-2310,46,e,
-2311,47,e,
-2312,48,e,
-2313,49,e,
-2314,50,e,
-2315,51,e,
-2316,52,e,
-2317,53,e,
-2318,54,e,
-2319,55,e,
-2320,56,e,
-2321,57,e,
-2322,58,e,
-2323,59,e,
-2324,00 - hundred,e,
-2325,00 - hundred-hours,e,
+2265,01,e,time - mins
+2266,02,e,time - mins
+2267,03,e,time - mins
+2268,04,e,time - mins
+2269,05,e,time - mins
+2270,06,e,time - mins
+2271,07,e,time - mins
+2272,08,e,time - mins
+2273,09,e,time - mins
+2274,10,e,time - mins
+2275,11,e,time - mins
+2276,12,e,time - mins
+2277,13,e,time - mins
+2278,14,e,time - mins
+2279,15,e,time - mins
+2280,16,e,time - mins
+2281,17,e,time - mins
+2282,18,e,time - mins
+2283,19,e,time - mins
+2284,20,e,time - mins
+2285,21,e,time - mins
+2286,22,e,time - mins
+2287,23,e,time - mins
+2288,24,e,time - mins
+2289,25,e,time - mins
+2290,26,e,time - mins
+2291,27,e,time - mins
+2292,28,e,time - mins
+2293,29,e,time - mins
+2294,30,e,time - mins
+2295,31,e,time - mins
+2296,32,e,time - mins
+2297,33,e,time - mins
+2298,34,e,time - mins
+2299,35,e,time - mins
+2300,36,e,time - mins
+2301,37,e,time - mins
+2302,38,e,time - mins
+2303,39,e,time - mins
+2304,40,e,time - mins
+2305,41,e,time - mins
+2306,42,e,time - mins
+2307,43,e,time - mins
+2308,44,e,time - mins
+2309,45,e,time - mins
+2310,46,e,time - mins
+2311,47,e,time - mins
+2312,48,e,time - mins
+2313,49,e,time - mins
+2314,50,e,time - mins
+2315,51,e,time - mins
+2316,52,e,time - mins
+2317,53,e,time - mins
+2318,54,e,time - mins
+2319,55,e,time - mins
+2320,56,e,time - mins
+2321,57,e,time - mins
+2322,58,e,time - mins
+2323,59,e,time - mins
+2324,00 - hundred,e,time - mins
+2325,00 - hundred-hours,e,time - mins
 2326,this is an emergency announcement,s,
 2327,for customers at castleford station,e,
 2328,for customers at newton aycliffe station,e,
