@@ -1242,15 +1242,15 @@
 1261,21,s,time - hour
 1262,22,s,time - hour
 1263,23,s,time - hour
-1265,01,m,time - mins
-1266,02,m,time - mins
-1267,03,m,time - mins
-1268,04,m,time - mins
-1269,05,m,time - mins
-1270,06,m,time - mins
-1271,07,m,time - mins
-1272,08,m,time - mins
-1273,09,m,time - mins
+1265,1,m,time - mins
+1266,2,m,time - mins
+1267,3,m,time - mins
+1268,4,m,time - mins
+1269,5,m,time - mins
+1270,6,m,time - mins
+1271,7,m,time - mins
+1272,8,m,time - mins
+1273,9,m,time - mins
 1274,10,m,time - mins
 1275,11,m,time - mins
 1276,12,m,time - mins
@@ -2187,15 +2187,15 @@
 2261,LWS,m,
 2262,LFD,m,
 2263,MHM,m,
-2265,01,e,time - mins
-2266,02,e,time - mins
-2267,03,e,time - mins
-2268,04,e,time - mins
-2269,05,e,time - mins
-2270,06,e,time - mins
-2271,07,e,time - mins
-2272,08,e,time - mins
-2273,09,e,time - mins
+2265,1,e,time - mins
+2266,2,e,time - mins
+2267,3,e,time - mins
+2268,4,e,time - mins
+2269,5,e,time - mins
+2270,6,e,time - mins
+2271,7,e,time - mins
+2272,8,e,time - mins
+2273,9,e,time - mins
 2274,10,e,time - mins
 2275,11,e,time - mins
 2276,12,e,time - mins
@@ -9902,132 +9902,132 @@
 11917,in the interests of safety please stand clear while the train attaches,w,
 11918,in the interests of safety stand clear while the train attaches,w,
 11919,please stand clear while the train attaches,w,
-12000,,,
-12001,,,
-12002,,,
-12003,,,
-12004,,,
-12005,,,
-12006,,,
-12007,,,
-12008,,,
-12009,,,
-12010,,,
-12011,,,
-12012,,,
-12013,,,
-12014,,,
-12015,,,
-12016,,,
-12017,,,
-12018,,,
-12019,,,
-12020,,,
-12021,,,
-12022,,,
-12023,,,
-12024,,,
-12025,,,
-12026,,,
-12027,,,
-12028,,,
-12029,,,
-12030,,,
-12031,,,
-12032,,,
-12033,,,
-12034,,,
-12035,,,
-12036,,,
-12037,,,
-12038,,,
-12039,,,
-12040,,,
-12041,,,
-12042,,,
-12043,,,
-12044,,,
-12045,,,
-12046,,,
-12047,,,
-12048,,,
-12049,,,
-12050,,,
-12062,,,
-12089,,,
-12090,,,
-12091,,,
-12092,,,
-12094,,,
-12098,,,
-12100,,,
-12101,,,
-12102,,,
-12103,,,
-12105,,,
-12106,,,
-12107,,,
-12108,,,
-12109,,,
-12110,,,
-12111,,,
-12112,,,
-12113,,,
-12114,,,
-12115,,,
-12116,,,
-12117,,,
-12118,,,
-12120,,,
-12121,,,
-12122,,,
-12123,,,
-12124,,,
-12125,,,
-12126,,,
-12127,,,
-12128,,,
-12129,,,
-12130,,,
-12131,,,
-12132,,,
-12133,,,
-12134,,,
-12135,,,
-12136,,,
-12137,,,
-12138,,,
-12139,,,
-12140,,,
-12141,,,
-12142,,,
-12143,,,
-12144,,,
-12145,,,
-12146,,,
-12147,,,
-12148,,,
-12149,,,
-12150,,,
-12151,,,
-12152,,,
-12153,,,
-12154,,,
-12155,,,
-12156,,,
-12157,,,
-12158,,,
-12159,,,
-12160,,,
-12161,,,
-12162,,,
-12163,,,
-12164,,,
-12165,,,
-12166,,,
-12167,,,
-12168,,,
-12170,,,
+12000,KMP,m,
+12001,Kempton Park Racecourse,m,
+12002,Glynde Gap,m,
+12003,Airport,m,Tyne & Wear Metro
+12004,Callerton Parkway,m,Tyne & Wear Metro
+12005,Bank Foot,m,Tyne & Wear Metro
+12006,Kingston Park,m,Tyne & Wear Metro
+12007,Fawdon,m,Tyne & Wear Metro
+12008,Wansbeck Road,m,Tyne & Wear Metro
+12009,Regent Centre,m,Tyne & Wear Metro
+12010,South Gosforth,m,Tyne & Wear Metro
+12011,Ilford Road,m,Tyne & Wear Metro
+12012,West Jesmond,m,Tyne & Wear Metro
+12013,Jesmond,m,
+12014,Monument,m,Tyne & Wear Metro
+12015,Central Station,m,Tyne & Wear Metro
+12016,Gateshead Stadium,m,Tyne & Wear Metro
+12017,Felling,m,Tyne & Wear Metro
+12018,Pelaw,m,Tyne & Wear Metro
+12019,Hebburn,m,Tyne & Wear Metro
+12020,Jarrow,m,Tyne & Wear Metro
+12021,Bede,m,Tyne & Wear Metro
+12022,Tyne Dock,m,Tyne & Wear Metro
+12023,South Shields,m,Tyne & Wear Metro
+12024,Longbenton,m,Tyne & Wear Metro
+12025,Four Lane Ends,m,Tyne & Wear Metro
+12026,Benton,m,Tyne & Wear Metro
+12027,Palmersville,m,Tyne & Wear Metro
+12028,Shiremoor,m,Tyne & Wear Metro
+12029,West Monkseaton,m,Tyne & Wear Metro
+12030,Monkseaton,m,
+12031,Whitley Bay,m,Tyne & Wear Metro
+12032,Cullercoats,m,Tyne & Wear Metro
+12033,Tynemouth,m,Tyne & Wear Metro
+12034,North Shields,m,Tyne & Wear Metro
+12035,Meadow Well,m,Tyne & Wear Metro
+12036,Percy Main,m,Tyne & Wear Metro
+12037,Howdon,m,Tyne & Wear Metro
+12038,Hadrian Road,m,Tyne & Wear Metro
+12039,Wallsend,m,Tyne & Wear Metro
+12040,Walkergate,m,Tyne & Wear Metro
+12041,Chillingham Road,m,Tyne & Wear Metro
+12042,Byker,m,Tyne & Wear Metro
+12043,St James,m,Tyne & Wear Metro
+12044,Fellgate,m,Tyne & Wear Metro
+12045,Stadium of Light,m,Tyne & Wear Metro
+12046,St Peters,m,Tyne & Wear Metro
+12047,Park Lane,m,Tyne & Wear Metro
+12048,Millfield,m,Tyne & Wear Metro
+12049,Pallion,m,Tyne & Wear Metro
+12050,South Hylton,m,Tyne & Wear Metro
+12062,Earls Court,m,
+12089,Rother Valley Parkway,m,
+12090,Rother Valley Parkway Sheffield,m,
+12091,Rother Valley Parkway for Sheffield,m,
+12092,Worcester Parkway,m,
+12094,CFR,m,
+12098,Brinsford,m,Proposed station near Wolverhampton
+12100,St Pancras Thameslink,m,
+12101,Kings Cross St Pancras Thameslink,m,
+12102,STP - St Pancras International,m,
+12103,STP - St Pancras Midland Mainline,m,
+12105,HHY,m,
+12106,CNN,m,
+12107,DLJ,m,
+12108,HGG,m,
+12109,HOX,m,
+12110,Shoreditch,m,
+12111,ZLW,m,
+12112,SDE,m,
+12113,this station,m,
+12114,northbound services,,
+12115,southbound services,,
+12116,eastbound services,,
+12117,westbound services,,
+12118,london-bound services,,
+12120,Bank Foot,m,Tyne & Wear Metro
+12121,Bede,m,Tyne & Wear Metro
+12122,Benton,m,Tyne & Wear Metro
+12123,Brockley Whins,m,Tyne & Wear Metro
+12124,Byker,m,Tyne & Wear Metro
+12125,Callerton Parkway,m,Tyne & Wear Metro
+12126,Central Station,m,Tyne & Wear Metro
+12127,Chichester,m,Tyne & Wear Metro
+12128,Chillingham Road,m,Tyne & Wear Metro
+12129,Cullercoats,m,Tyne & Wear Metro
+12130,East Boldon,m,Tyne & Wear Metro
+12131,Fawdon,m,Tyne & Wear Metro
+12132,Fellgate,m,Tyne & Wear Metro
+12133,Felling,m,Tyne & Wear Metro
+12134,Four Lane Ends,m,Tyne & Wear Metro
+12135,Gateshead Stadium,m,Tyne & Wear Metro
+12136,Gateshead,m,Tyne & Wear Metro
+12137,Hadrian Road,m,Tyne & Wear Metro
+12138,Hebburn,m,Tyne & Wear Metro
+12139,Heworth,m,Tyne & Wear Metro
+12140,Howdon,m,Tyne & Wear Metro
+12141,Ilford Road,m,Tyne & Wear Metro
+12142,Jarrow,m,Tyne & Wear Metro
+12143,Jesmond,m,Tyne & Wear Metro
+12144,Kingston Park,m,Tyne & Wear Metro
+12145,Longbenton,m,Tyne & Wear Metro
+12146,Manors,m,Tyne & Wear Metro
+12147,Meadow Well,m,Tyne & Wear Metro
+12148,Millfield,m,Tyne & Wear Metro
+12149,Monkseaton,m,Tyne & Wear Metro
+12150,Monument,m,Tyne & Wear Metro
+12151,Newcastle Airport,m,Tyne & Wear Metro
+12152,Newcastle Central Station,m,Tyne & Wear Metro
+12153,Newcastle City Centre,m,Tyne & Wear Metro
+12154,Newcastle Monument,m,Tyne & Wear Metro
+12155,Newcastle St James,m,Tyne & Wear Metro
+12156,North Shields,m,Tyne & Wear Metro
+12157,Pallion,m,Tyne & Wear Metro
+12158,Palmersville,m,Tyne & Wear Metro
+12159,Park Lane,m,Tyne & Wear Metro
+12160,Pelaw,m,Tyne & Wear Metro
+12161,Percy Main,m,Tyne & Wear Metro
+12162,Pruder(?),m,Tyne & Wear Metro
+12163,Regent Centre,m,Tyne & Wear Metro
+12164,Seaburn,m,Tyne & Wear Metro
+12165,Shiremoor,m,Tyne & Wear Metro
+12166,South Gosforth,m,Tyne & Wear Metro
+12167,South Hylton,m,Tyne & Wear Metro
+12168,South Shields,m,Tyne & Wear Metro
+12170,St Peters,m,Tyne & Wear Metro
 12171,,,
 12172,,,
 12173,,,
