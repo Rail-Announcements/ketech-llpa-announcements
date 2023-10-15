@@ -1,4 +1,4 @@
-﻿id,script,inflection,comment
+id,script,inflection,comment
 0,sfx - silence,,
 1,platform,s,
 2,platform,"m,e",
@@ -1057,7 +1057,7 @@
 1071,FTN,m,
 1072,FFD,m,
 1073,FRO,m,
-1074,"GIL",m,
+1074,GIL,m,
 1075,GOD,m,
 1076,GBS,m,
 1077,GWN,m,
@@ -1242,15 +1242,15 @@
 1261,21,s,time - hour
 1262,22,s,time - hour
 1263,23,s,time - hour
-1265,1,m,time - mins
-1266,2,m,time - mins
-1267,3,m,time - mins
-1268,4,m,time - mins
-1269,5,m,time - mins
-1270,6,m,time - mins
-1271,7,m,time - mins
-1272,8,m,time - mins
-1273,9,m,time - mins
+1265,01,m,time - mins
+1266,02,m,time - mins
+1267,03,m,time - mins
+1268,04,m,time - mins
+1269,05,m,time - mins
+1270,06,m,time - mins
+1271,07,m,time - mins
+1272,08,m,time - mins
+1273,09,m,time - mins
 1274,10,m,time - mins
 1275,11,m,time - mins
 1276,12,m,time - mins
@@ -2016,7 +2016,7 @@
 2071,FTN,e,
 2072,FFD,e,
 2073,FRO,e,
-2074,"GIL",e,
+2074,GIL,e,
 2075,GOD,e,
 2076,GBS,e,
 2077,GWN,e,
@@ -2187,15 +2187,15 @@
 2261,LWS,m,
 2262,LFD,m,
 2263,MHM,m,
-2265,1,e,time - mins
-2266,2,e,time - mins
-2267,3,e,time - mins
-2268,4,e,time - mins
-2269,5,e,time - mins
-2270,6,e,time - mins
-2271,7,e,time - mins
-2272,8,e,time - mins
-2273,9,e,time - mins
+2265,01,e,time - mins
+2266,02,e,time - mins
+2267,03,e,time - mins
+2268,04,e,time - mins
+2269,05,e,time - mins
+2270,06,e,time - mins
+2271,07,e,time - mins
+2272,08,e,time - mins
+2273,09,e,time - mins
 2274,10,e,time - mins
 2275,11,e,time - mins
 2276,12,e,time - mins
@@ -10040,260 +10040,260 @@
 12180,West Jesmond,m,Tyne & Wear Metro
 12181,West Monkseaton,m,Tyne & Wear Metro
 12182,Whitley Bay,m,Tyne & Wear Metro
-12183,ACC,m,
-12184,Acton Park,m,
-12185,Aldgate East,m,
-12186,Aldgate,m,
-12187,Alperton,m,
-12188,Amersham,m,
-12189,Angel,m,
-12190,Archway,m,
-12191,Arnos Grove,m,
-12192,Arsenal,m,
-12193,Baker Street,m,
-12194,BAL,m,
-12195,Bank,m,
+12183,Acton Central,m,TfL
+12184,Acton Park,m,TfL
+12185,Aldgate East,m,TfL
+12186,Aldgate,m,TfL
+12187,Alperton,m,TfL
+12188,Amersham,m,TfL
+12189,Angel,m,TfL
+12190,Archway,m,TfL
+12191,Arnos Grove,m,TfL
+12192,Arsenal,m,TfL
+12193,Baker Street,m,TfL
+12194,Balham,m,TfL
+12195,Bank,m,TfL
 12196,Barbican,m,CRS: ZBB
-12197,BKG,m,
-12204,Belsize Park,m,
-12205,Bermondsey,m,
-12206,Bethnal Green,m,
+12197,Barking,m,TfL
+12204,Belsize Park,m,TfL
+12205,Bermondsey,m,TfL
+12206,Bethnal Green,m,TfL
 12207,Blackfriars,m,CRS: BFR
-12208,Blackhorse Road,m,
-12209,Blackwall,m,
-12210,BDS,m,
-12211,Borough,m,
-12212,Boston Manor,m,
-12213,Bounds Green,m,
-12214,Bow Church,m,
-12215,Bow Road,m,
+12208,Blackhorse Road,m,TfL
+12209,Blackwall,m,TfL
+12210,BDS,m,Bond Street
+12211,Borough,m,TfL
+12212,Boston Manor,m,TfL
+12213,Bounds Green,m,TfL
+12214,Bow Church,m,TfL
+12215,Bow Road,m,TfL
 12216,Brent Cross,m,Could be combined for Brent Cross West (BCZ)
-12217,BRX,m,
-12218,,,
-12219,,,
-12220,,,
-12221,,,
-12222,,,
-12223,,,
-12224,,,
-12225,,,
-12226,,,
-12227,,,
-12228,,,
-12229,,,
-12230,,,
-12231,,,
-12232,,,
-12233,,,
-12234,,,
-12235,,,
-12236,,,
-12237,,,
-12238,,,
-12239,,,
-12240,,,
-12241,,,
-12242,,,
-12243,,,
-12244,,,
-12245,,,
-12246,,,
-12247,,,
-12248,,,
-12249,,,
-12250,,,
-12251,,,
-12252,,,
+12217,Brixton,m,TfL
+12218,Bromley-by-Bow,m,TfL
+12219,Brondesbury Park,m,TfL
+12220,Brondesbury,m,TfL
+12221,Buckhurst Hill,m,TfL
+12222,Burnt Oak,m,TfL
+12223,Coledonian Road & Barnsbury,m,CRS: CIR
+12224,Coledonian Road,m,TfL
+12225,Camden Road,m,CRS: CMD
+12226,Camden Town,m,TfL
+12227,Canada Water,m,CRS: ZCW
+12228,Canary Wharf,m,CRS: CWX
+12229,Canning Town,m,TfL
+12230,Cannon Street,m,TfL
+12231,Cannonbury,m,TfL
+12232,Canons Park,m,TfL
+12233,Chalfont & Latimer,m,TfL
+12234,Chalk Farm,m,TfL
+12235,Chancery Lane,m,TfL
+12236,Charing Cross,m,TfL
+12237,Chesham,m,TfL
+12238,Chigwell,m,TfL
+12239,Cheswick Park,m,TfL
+12240,Chorleywood,m,TfL
+12241,Clapham Common,m,TfL
+12242,Clapham North,m,TfL
+12243,Clapham South,m,TfL
+12244,Cockfosters,m,TfL
+12245,Colindale,m,TfL
+12246,Colliers Wood,m,TfL
+12247,Covent Garden,m,TfL
+12248,Crossharbour and London Arena,m,TfL
+12249,Croxley,m,TfL
+12250,Custom House,m,CRS: CUS
+12251,Cyprus,m,TfL
+12252,Dagenham East,m,TfL
 12253,ABD,m,
-12254,,,
-12255,,,
-12256,,,
-12257,,,
-12258,,,
-12259,,,
-12260,,,
-12261,,,
-12262,,,
-12263,,,
-12264,,,
-12265,,,
-12266,,,
-12267,,,
-12268,,,
-12269,,,
-12270,,,
-12271,,,
-12272,,,
-12273,,,
-12274,,,
-12275,,,
-12276,,,
-12277,,,
-12278,,,
-12279,,,
-12280,,,
-12281,,,
-12282,,,
-12283,,,
-12284,,,
-12285,,,
-12286,,,
-12287,,,
-12288,,,
-12289,,,
-12290,,,
-12291,,,
-12292,,,
-12293,,,
-12294,,,
-12295,,,
-12296,,,
-12297,,,
-12298,,,
-12299,,,
-12300,,,
-12301,,,
-12302,,,
-12303,,,
-12304,,,
-12305,,,
-12306,,,
-12307,,,
-12308,,,
-12309,,,
-12310,,,
-12311,,,
-12312,,,
-12313,,,
-12314,,,
-12315,,,
-12316,,,
-12317,,,
-12318,,,
-12319,,,
-12320,,,
-12321,,,
-12322,,,
-12323,,,
-12324,,,
-12325,,,
-12326,,,
-12327,,,
-12328,,,
-12329,,,
-12330,,,
-12331,,,
-12332,,,
-12333,,,
-12334,,,
-12335,,,
-12336,,,
-12337,,,
-12338,,,
-12339,,,
-12340,,,
-12341,,,
-12342,,,
-12343,,,
-12344,,,
-12345,,,
-12346,,,
-12347,,,
-12348,,,
-12349,,,
-12350,,,
-12351,,,
-12352,,,
-12353,,,
-12354,,,
-12355,,,
-12356,,,
-12357,,,
-12358,,,
-12359,,,
-12360,,,
-12361,,,
-12362,,,
-12363,,,
-12364,,,
-12460,,,
-12462,,,
-12465,,,
-12484,,,
-12501,,,
-12502,,,
-12527,,,
-12528,,,
-12603,,,
-12604,,,
-12605,,,
-12606,,,
-12607,,,
-12608,,,
-12609,,,
-12610,,,
-12611,,,
-12612,,,
-12613,,,
-12614,,,
-12615,,,
-12616,,,
-12617,,,
-12618,,,
-12619,,,
-12620,,,
-12621,,,
-12622,,,
-12623,,,
-12624,,,
-12625,,,
-12626,,,
-12627,,,
-12628,,,
-12629,,,
-12630,,,
-12631,,,
-12632,,,
-12633,,,
-12634,,,
-12635,,,
-12636,,,
-12637,,,
-12638,,,
-12639,,,
-12640,,,
-12641,,,
-12642,,,
-12643,,,
-12644,,,
-12645,,,
-12646,,,
-12647,,,
-12648,,,
-12649,,,
-12650,,,
-12651,,,
-12652,,,
-12653,,,
-12654,,,
-12655,,,
-12656,,,
-12657,,,
-12658,,,
-12659,,,
-12660,,,
-12661,,,
-12662,,,
-12663,,,
-12664,,,
-12665,,,
-12666,,,
-12667,,,
-12668,,,
-12669,,,
-12670,,,
-12671,,,
-12672,,,
+12254,Alexandra Palace,m,TfL
+12255,ALM,m,
+12256,ARB,m,
+12257,ARL,m,
+12258,AWM,m,
+12259,AUD,m,
+12260,BDK,m,
+12261,BAY,m,
+12262,BWK,m,
+12263,BIW,m,
+12264,BIS,m,
+12265,BOP,m,
+12266,BDQ,m,
+12267,BPK,m,
+12268,BXB,m,
+12269,CBG,m,
+12270,CHN,m,
+12271,CWH,m,
+12272,CUF,m,
+12273,DAR,m,
+12274,DON,m,
+12275,DOW,m,
+12276,DYP,m,
+12277,DUN,m,
+12278,DEE,m,
+12279,DHM,m,
+12280,EDB,m,
+12281,ESM,m,
+12282,ELY,m,
+12283,ENC,m,
+12284,EXR,m,
+12285,FPK,m,
+12286,FXN,m,
+12287,GLC,m,
+12288,GDH,m,
+12289,GPK,m,
+12290,GRA,m,
+12291,GRC,m,
+12292,HDW,m,
+12293,HWN,m,
+12294,HGY,m,
+12295,HGT,m,
+12296,HAT,m,
+12297,HYM,m,
+12298,HFN,m,
+12299,"NEW,NWP",m,
+12300,HIT,m,
+12301,HRN,m,
+12302,HRS,m,
+12303,HUS,m,
+12304,HUN,m,
+12305,INK,m,
+12306,Kings Cross,m,CRS: KGX
+12307,KLN,m,
+12308,KDY,m,
+12309,KBW,m,
+12310,LDS,m,
+12311,LET,m,
+12312,LET - Letchworth,m,
+12313,LEU,m,
+12314,LTP,m,
+12315,Liverpool Street,m,CRS: LST - Useful for Lizzy Line
+12316,HHY,m,
+12317,KGX,m,
+12318,LST,m,
+12319,MEL,m,
+12320,MTS,m,
+12321,MOG,m,
+12322,MPT,m,
+12323,MTH,m,
+12324,NBA,m,
+12325,NSG,m,
+12326,NNG,m,
+12327,NCL,m,
+12328,NEW,m,
+12329,NTR,m,
+12330,OKL,m,
+12331,OLD,m,
+12332,PAL,m,
+12333,PBO,m,
+12334,PBR,m,
+12335,RET,m,
+12336,RYS,m,
+12337,Sandringham Norwich Gates,m,
+12338,Sandringham Visitor Centre,m,
+12339,Sandringham,m,
+12340,SDY,m,
+12341,SAW,m,
+12342,SED,m,
+12343,STH,m,
+12344,SKI,m,
+12345,SNO,m,
+12346,SSD,m,
+12347,SST,m,
+12348,SVG,m,
+12349,STN,m,
+12350,TOM,m,
+12351,WKF,m,
+12352,WBC,m,
+12353,WTG,m,
+12354,WAS,m,
+12355,WMG,m,
+12356,WGC,m,
+12357,WLW,m,
+12358,WLF - Whittlesford,m,
+12359,WIH,m,
+12360,YRK,m,
+12361,LMR,m,
+12362,Willenhall,m,"Disused, now being rebuilt station in TfWM"
+12363,Aldridge,m,"Disused, now being rebuilt station in TfWM"
+12364,Streetly,m,"Disused, now being rebuilt station in TfWM"
+12460,Tower Hill,m,TfL
+12462,Turnham Green,m,TfL
+12465,Upminster,m,TfL
+12484,West Ham,m,TfL
+12501,Dagenham,m,TfL
+12502,Kensington High Street,m,TfL
+12527,Corsham,m,Disused station in Wiltshire
+12528,EDP,m,
+12603,Wapping,m,TfL
+12604,Rotherhithe,m,TfL
+12605,Canada Water,m,TfL
+12606,Surrey Quays,m,TfL
+12607,New Cross,m,TfL
+12608,New Cross Gate,m,TfL
+12609,Surrey Canal Road,m,Proposed LOROL station in Bermondsey
+12610,Queens Road Peckham,m,TfL
+12611,Peckham Rye,m,TfL
+12612,Denmark Hill,m,TfL
+12613,Loughborough Junction,m,TfL
+12614,Brixton,m,TfL
+12615,Clapham High Street,m,TfL
+12616,Cody Road,m,TfL
+12617,West Ham,m,TfL
+12618,Abbey Road,m,TfL
+12619,Stratford Market,m,TfL
+12620,Stratford,m,TfL
+12621,SFA,m,
+12622,Langdon Park,m,TfL
+12623,Thames Wharf,m,
+12624,northern subway,m,
+12625,southern subway,m,
+12626,western subway,m,
+12627,eastern subway,m,
+12628,central subway,m,
+12629,the northern subway,m,
+12630,the southern subway,m,
+12631,the western subway,m,
+12632,the eastern subway,m,
+12633,the central subway,m,
+12634,ticket barrier,m,
+12635,ticket barriers,m,
+12636,station entrance,m,
+12637,station concourse,m,
+12638,concourse,m,
+12639,the ticket barrier,m,
+12640,the ticket barriers,m,
+12641,the station entrance,m,
+12642,the station concourse,m,
+12643,the concourse,m,
+12644,ticket hall,m,
+12645,northern ticket hall,m,
+12646,southern ticket hall,m,
+12647,eastern ticket hall,m,
+12648,western ticket hall,m,
+12649,the ticket hall,m,
+12650,the northern ticket hall,m,
+12651,the southern ticket hall,m,
+12652,the eastern ticket hall,m,
+12653,the western ticket hall,m,
+12654,northern footbridge,m,
+12655,southern footbridge,m,
+12656,western footbridge,m,
+12657,eastern footbridge,m,
+12658,central footbridge,m,
+12659,the northern footbridge,m,
+12660,the southern footbridge,m,
+12661,the western footbridge,m,
+12662,the eastern footbridge,m,
+12663,the central footbridge,m,
+12664,the olympic village,m,
+12665,the olympic stadium,m,
+12666,the olympic games stadium,m,
+12667,the olympic games arena,m,
+12668,olympic village,m,
+12669,olympic stadium,m,
+12670,olympic games stadium,m,
+12671,olympic games arena,m,
+12672,LPY,m,
 12673,,,
 12674,,,
 12675,,,
