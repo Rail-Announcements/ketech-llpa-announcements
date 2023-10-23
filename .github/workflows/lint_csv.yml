@@ -11,7 +11,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: csvlinter
+      - name: Lint CSV
         uses: kcheriyath/csvlinter@V0.6.0
         with:
           find_pattern: "*.csv"
