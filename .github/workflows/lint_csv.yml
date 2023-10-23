@@ -21,4 +21,3 @@ jobs:
         with:
           find_pattern: "*.csv"
           find_path: "."
-          extra_params: "--lazyquotes"
