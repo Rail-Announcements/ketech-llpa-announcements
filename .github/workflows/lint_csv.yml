@@ -1,6 +1,8 @@
 on:
   push:
 
+name: Lint CSV
+
 jobs:
   lint_csv:
     name: Lint CSV
@@ -11,7 +13,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          sparse-checkout: '*.csv'
+          sparse-checkout: ''
+          sparse-checkout-cone-mode: true
 
       - name: Lint CSV
         uses: kcheriyath/csvlinter@V0.6.0
