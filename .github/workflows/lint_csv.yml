@@ -13,7 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          sparse-checkout: ''
+          sparse-checkout: './'
           sparse-checkout-cone-mode: true
 
       - name: Lint CSV
