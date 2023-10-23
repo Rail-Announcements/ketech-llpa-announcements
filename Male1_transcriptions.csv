@@ -5635,23 +5635,23 @@ id,script,inflection,comment
 6231,special charter service to,m,
 6232,cardiff railways service to,m,
 6233,for seat reservations holders only service to,m,
-6234,(hello celia?) the swanage railway,m,
-6235,(hello celia?) the swanage railway service to,m,
-6236,(hello celia?) the swanage railway service from,m,
-6237,(hello celia?) a trolley service of drinks and light refreshments,s,
+6234,the swanage railway,m,celia
+6235,the swanage railway service to,m,celia
+6236,the swanage railway service from,m,celia
+6237,a trolley service of drinks and light refreshments,s,celia
 6238,is available on this train,e,
-6239,(hello celia?) a trolley service of drinks and light,s,
-6240,(hello celia?) refreshments is available on this train between,m,
-6241,(hello celia?) an at-seat service of drinks and light refreshments is,s,
-6242,(hello celia?) available on this train,e,
-6243,(hello celia?) an at-seat service of drinks and light refreshments is,s,
-6244,(hello celia?) available on this train between,m,
-6245,(hello celia?) a buffet service is available on this train,w,
-6246,(hello celia?) a buffet service is available on this train between,s,
-6247,(hello celia?) a restaurant service is available on this train,w,
-6248,(hello celia?) a restaurant service is available on this train between,s,
-6249,(hello celia?) refreshments will be provided between,s,
-6250,(hello celia?) a quiet carriage is available on this train,w,
+6239,a trolley service of drinks and light,s,celia
+6240,refreshments is available on this train between,m,celia
+6241,an at-seat service of drinks and light refreshments is,s,celia
+6242,available on this train,e,celia
+6243,an at-seat service of drinks and light refreshments is,s,celia
+6244,available on this train between,m,celia
+6245,a buffet service is available on this train,w,celia
+6246,a buffet service is available on this train between,s,celia
+6247,a restaurant service is available on this train,w,celia
+6248,a restaurant service is available on this train between,s,celia
+6249,refreshments will be provided between,s,celia
+6250,a quiet carriage is available on this train,w,celia
 6251,a temporary speed restriction because of signalling equipment repairs,e,
 6252,a temporary speed restriction because of track repairs,e,
 6253,a lift is available behind the footbridge,w,
@@ -6357,52 +6357,52 @@ id,script,inflection,comment
 7037,do not run,w,
 7038,please do not run,w,
 7039,passengers holding super saver return tickets are reminded that,s,
-7040,(hello celia??) trespassers on the line,m,
-7041,(hello celia??) animals on the railway line,m,
-7042,(hello celia??) debris blown onto the railway line,m,
-7043,(hello celia??) a passenger having been taken ill on this train,m,
-7044,(hello celia??) a passenger having been taken ill on a preceding train,m,
-7045,(hello celia??) police persuing suspects on the railway line,m,
-7046,(hello celia??) the action of vandals,m,
-7047,(hello celia??) a fire,m,
-7048,(hello celia??) a failure of signalling equipment,m,
-7049,(hello celia??) a train failure,m,
-7050,(hello celia??) congestion caused by a failed train,m,
-7051,(hello celia??) a shortage of serviceable trains,m,
-7052,(hello celia??) severe weather conditions,m,
-7053,(hello celia??) adverse weather conditions,m,
-7054,(hello celia??) an external cause beyond our control,m,
-7055,(hello celia??) a road vehicle damaging a level crossing,m,
-7056,(hello celia??) a failure of level crossing apparatus,m,
-7057,(hello celia??) a points failure,m,
-7058,(hello celia??) staff sickness,m,
-7059,(hello celia??) a problem on property adjacent to the railway,m,
-7060,(hello celia??) emergency services attending an adjacent,m,
-7061,(hello celia??) to the railway line,m,
-7062,(hello celia??) a lack of suitable carriages,,
-7063,(hello celia??) i am sorry to inform you that this service has standing passengers already,s,
-7064,(hello celia??) and no seats are available for passengers joining at this station,e,
-7065,(hello celia??) please stand behind the yellow line,s,
-7066,(hello celia??) until your train comes to a complete halt,e,
-7067,(hello celia??) first class accomodation on this train,s,
-7068,(hello celia??) can be used by standard class ticket holders,e,
-7069,(hello celia??) club class accomodation on this train,s,
-7070,(hello celia??) can be used by standard class ticket holders,e,
-7071,(hello celia??) i am sorry to inform you,s,
-7072,(hello celia??) that there is no first class accomodation on this train today,e,
-7073,(hello celia??) i am sorry to inform you,s,
-7074,(hello celia??) that there is no club class accomodation on this train today,e,
-7075,(hello celia??) first class accomodation on this train,s,
-7076,(hello celia??) can be used by standard class ticket holders,e,
-7077,(hello celia??) club class accomodation on this train,s,
-7078,(hello celia??) can be used by standard class ticket holders,e,
-7079,(hello celia??) first class accomodation is situated at the front of the train,w,
-7080,(hello celia??) first class accomodation is situated at the rear of the train,w,
-7081,(hello celia??) first class accomodation is situated in the middle of the train,w,
-7082,(hello celia??) club class accomodation is situated at the front of the train,w,
-7083,(hello celia??) club class accomodation is situated at the rear of the train,w,
-7084,(hello celia??) club class accomodation is situated in the middle of the train,w,
-7085,(hello celia??) first class accomodation is situated in the,s,
+7040,trespassers on the line,m,celia
+7041,animals on the railway line,m,celia
+7042,debris blown onto the railway line,m,celia
+7043,a passenger having been taken ill on this train,m,celia
+7044,a passenger having been taken ill on a preceding train,m,celia
+7045,police persuing suspects on the railway line,m,celia
+7046,the action of vandals,m,celia
+7047,a fire,m,celia
+7048,a failure of signalling equipment,m,celia
+7049,a train failure,m,celia
+7050,congestion caused by a failed train,m,celia
+7051,a shortage of serviceable trains,m,celia
+7052,severe weather conditions,m,celia
+7053,adverse weather conditions,m,celia
+7054,an external cause beyond our control,m,celia
+7055,a road vehicle damaging a level crossing,m,celia
+7056,a failure of level crossing apparatus,m,celia
+7057,a points failure,m,celia
+7058,staff sickness,m,celia
+7059,a problem on property adjacent to the railway,m,celia
+7060,emergency services attending an adjacent,m,celia
+7061,to the railway line,m,celia
+7062,a lack of suitable carriages,,celia
+7063,i am sorry to inform you that this service has standing passengers already,s,celia
+7064,and no seats are available for passengers joining at this station,e,celia
+7065,please stand behind the yellow line,s,celia
+7066,until your train comes to a complete halt,e,celia
+7067,first class accomodation on this train,s,celia
+7068,can be used by standard class ticket holders,e,celia
+7069,club class accomodation on this train,s,celia
+7070,can be used by standard class ticket holders,e,celia
+7071,i am sorry to inform you,s,celia
+7072,that there is no first class accomodation on this train today,e,celia
+7073,i am sorry to inform you,s,celia
+7074,that there is no club class accomodation on this train today,e,celia
+7075,first class accomodation on this train,s,celia
+7076,can be used by standard class ticket holders,e,celia
+7077,club class accomodation on this train,s,celia
+7078,can be used by standard class ticket holders,e,celia
+7079,first class accomodation is situated at the front of the train,w,celia
+7080,first class accomodation is situated at the rear of the train,w,celia
+7081,first class accomodation is situated in the middle of the train,w,celia
+7082,club class accomodation is situated at the front of the train,w,celia
+7083,club class accomodation is situated at the rear of the train,w,celia
+7084,club class accomodation is situated in the middle of the train,w,celia
+7085,first class accomodation is situated in the,s,celia
 7140,trespassers on the line,e,
 7141,animals on the railway line,e,
 7142,debris blown onto the railway line,e,
@@ -10406,17 +10406,17 @@ id,script,inflection,comment
 12960,cycles are not permitted on the train,e,
 12961,please make sure you join the correct train,m,
 12962,please make sure you join the correct train,e,
-12963,if your traveling to this station please wait on the concourse,m,
+12963,if youre traveling to this station please wait on the concourse,m,
 12964,and listen for further announcements,e,
-12965,if your traveling to this station please wait on the platform,m,
-12966,if your traveling to this station please wait on the concourse,m,
-12967,if your traveling to this station please remain on the concourse,m,
-12969,if your traveling to this station please remain on the platform,m,
-12971,if your traveling to these stations please wait on the concourse,m,
-12973,if your traveling to these stations please wait on the platform,m,
-12975,if your traveling to these stations please remain on the concourse,m,
-12977,if your traveling to these stations please remain on the platform,m,
-12979,if your traveling in first class accommodation,m,
+12965,if youre traveling to this station please wait on the platform,m,
+12966,if youre traveling to this station please wait on the concourse,m,
+12967,if youre traveling to this station please remain on the concourse,m,
+12969,if youre traveling to this station please remain on the platform,m,
+12971,if youre traveling to these stations please wait on the concourse,m,
+12973,if youre traveling to these stations please wait on the platform,m,
+12975,if youre traveling to these stations please remain on the concourse,m,
+12977,if youre traveling to these stations please remain on the platform,m,
+12979,if youre traveling in first class accommodation,m,
 12980,you must ensure you have a valid first class ticket,e,
 12981,im sorry for the late running of this train,m,
 12982,which has been caused by,m,
