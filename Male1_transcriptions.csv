@@ -10302,9 +10302,7 @@ id,script,inflection,comment
 12698,SPB,m,
 12699,EMD,m,
 12727,the train being diverted from its scheduled route,e,
-
 12728,the train being diverted from its scheduled route,m,
-
 12847,please join the front,m,
 12848,coach,m,
 12849,of this train,e,
@@ -10375,7 +10373,6 @@ id,script,inflection,comment
 12914,please note a faster service is available to,m,
 12915,and,m,
 12916,if youre travelling to,m,
-
 12917,this station,m,
 12918,these stations,m,
 12919,please wait on the concourse,m,
@@ -10422,7 +10419,6 @@ id,script,inflection,comment
 12979,if your traveling in first class accommodation,m,
 12980,you must ensure you have a valid first class ticket,e,
 12981,im sorry for the late running of this train,m,
-
 12982,which has been caused by,m,
 12983,and transferred to a,m,
 12984,and can be found in the front of the train,e,
