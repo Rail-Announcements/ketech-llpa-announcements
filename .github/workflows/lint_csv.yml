@@ -1,0 +1,19 @@
+on:
+  push:
+
+jobs:
+  lint_csv:
+    name: Lint CSV
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: csvlinter
+        uses: kcheriyath/csvlinter@V0.6.0
+        with:
+          find_pattern: "*.csv"
+          find_path: "."
+          extra_params: "--lazyquotes"
