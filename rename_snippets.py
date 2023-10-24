@@ -63,9 +63,20 @@ for name in names:
     renamed[name] = {}
 
     for entry in read_csv(get_path_to_csv(name)):
+        if entry["suppress"] == "Y":
+            # Ignore this in renaming process
+            continue
+
+        group = entry["type"]
+
         # Get every record in the CSV
         for inflection in entry["inflection"].split(","):
-            base = os.path.join(full_out_dir, inflection)
+            g_base = os.path.join(full_out_dir, group if group != "" else "")
+            base = os.path.join(g_base, inflection)
+
+            if not os.path.exists(g_base):
+                # Make path to snippet if not exists
+                os.mkdir(g_base)
 
             if not os.path.exists(base):
                 # Make path to snippet if not exists
