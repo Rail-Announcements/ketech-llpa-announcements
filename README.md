@@ -21,13 +21,15 @@ systems.
 
 ## Transcriptions
 
-We're currently working to transcribe all announcements within CSV files in this repository, starting
-with Phil Sayer (`Male1`).
+We're currently working to transcribe all announcements within CSV files in this repository.
 
-This is a mammoth task, and takes some time. The hope is that, with one voice transcribed, the IDs of
-other voices' audio snippets, or at least Celia's, will predominantly match Phil's.
-
-You can see the [current progress here](./Male1_transcriptions.csv).
+| Voice                      | Progress                                                |
+| -------------------------- | ------------------------------------------------------- |
+| Phil Sayer (`Male1`)       | ✅ [Complete](./Male1_transcriptions.csv) (11382/11382) |
+| Michael Comyn (`Male3`)    | ❌ Not yet started                                      |
+| Michael Comyn (`default`)  | ❌ Not yet started                                      |
+| Celia Drummond (`Female1`) | ❌ Not yet started                                      |
+| Alison McKay (`Female1`)   | ❌ Not yet started                                      |
 
 ## Decoding .seg files
 
@@ -78,23 +80,24 @@ not always) match the filename.
 A very small number also include a transcription.
 
 Examples:
-* `1483                                        12FF`
-* ` 130                                        FFFF`
-* `                                            12ff`
-* `2456                       a security alert.04FF`
-* `0400                                        FFFF`
-* `2439                                    FROM8440`
+
+- `1483                                        12FF`
+- ` 130                                        FFFF`
+- `                                            12ff`
+- `2456                       a security alert.04FF`
+- `0400                                        FFFF`
+- `2439                                    FROM8440`
 
 ### Unusual .seg files
 
 A small number of the .seg files contain strange header contents that don't
 match this pattern in some way, or have odd file descriptions.
 
-* segs/default/306.seg  (`                                            FFFF\x9d` only)
-* segs/default/1871.seg (`                                            ffff` only)
-* segs/default/199.seg  (`                                            FFFFt` only)
-* segs/Male3/306.seg    (`                                            FFFF\x9d` only)
-* segs/Male3/199.seg    (`                                            FFFFt` only)
-* segs/Male1/399.seg    (` 399ader->End,HeaderEnd,3);           /*RecoFFFF`, ...)
-* segs/Female2/0.seg    (Header is correct length, but is padded with null bytes instead of spaces, ends `FFFF`)
-* segs/Female2/1400.seg (Has no header)
+- `segs/default/306.seg ` (`                                            FFFF\x9d` only)
+- `segs/default/1871.seg` (`                                            ffff` only)
+- `segs/default/199.seg ` (`                                            FFFFt` only)
+- `segs/Male3/306.seg   ` (`                                            FFFF\x9d` only)
+- `segs/Male3/199.seg   ` (`                                            FFFFt` only)
+- `segs/Male1/399.seg   ` (` 399ader->End,HeaderEnd,3);           /*RecoFFFF`, ...)
+- `segs/Female2/0.seg   ` (Header is correct length, but is padded with null bytes instead of spaces, ends `FFFF`)
+- `segs/Female2/1400.seg` (Has no header)
