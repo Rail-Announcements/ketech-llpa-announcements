@@ -93,11 +93,13 @@ Examples:
 A small number of the .seg files contain strange header contents that don't
 match this pattern in some way, or have odd file descriptions.
 
-- `segs/default/306.seg ` (`                                            FFFF\x9d` only)
-- `segs/default/1871.seg` (`                                            ffff` only)
-- `segs/default/199.seg ` (`                                            FFFFt` only)
-- `segs/Male3/306.seg   ` (`                                            FFFF\x9d` only)
-- `segs/Male3/199.seg   ` (`                                            FFFFt` only)
-- `segs/Male1/399.seg   ` (` 399ader->End,HeaderEnd,3);           /*RecoFFFF`, ...)
-- `segs/Female2/0.seg   ` (Header is correct length, but is padded with null bytes instead of spaces, ends `FFFF`)
-- `segs/Female2/1400.seg` (Has no header)
+| File                  | Description                                                                            |
+| --------------------- | -------------------------------------------------------------------------------------- |
+| segs/default/306.seg  | `                                            FFFF\x9d` only                            |
+| segs/default/1871.seg | `                                            ffff` only                                |
+| segs/default/199.seg  | `                                            FFFFt` only                               |
+| segs/Male3/306.seg    | `                                            FFFF\x9d` only                            |
+| segs/Male3/199.seg    | `                                            FFFFt` only                               |
+| segs/Male1/399.seg    | ` 399ader->End,HeaderEnd,3);           /*RecoFFFF`, ...                                |
+| segs/Female2/0.seg    | Header is correct length, but is padded with null bytes instead of spaces, ends `FFFF` |
+| segs/Female2/1400.seg | Has no header                                                                          |
