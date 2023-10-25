@@ -49,7 +49,13 @@ def process_name(name: str) -> list[str]:
 
     if "," in name:
         # Split multi-station files into individual files
-        return [x for x in process_name(n.strip()) for n in name.split(",")]
+        split = name.split(",")
+        names = []
+
+        for n in split:
+            names += process_name(n.strip())
+
+        return names
 
     return [name.replace("'", "").replace("?", "")]
 
