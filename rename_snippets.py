@@ -47,10 +47,6 @@ def process_name(name: str) -> list[str]:
     multi-station files into individual files.
     """
 
-    if "/" in name:
-        # Split multi-station files into individual files
-        return [x for x in process_name(n.strip()) for n in name.split("/")]
-
     if "," in name:
         # Split multi-station files into individual files
         return [x for x in process_name(n.strip()) for n in name.split(",")]
