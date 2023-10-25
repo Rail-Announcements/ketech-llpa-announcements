@@ -73,12 +73,15 @@ for name in names:
             # Ignore this in renaming process
             continue
 
-        group = entry["type"]
+        group = entry["type"] if entry["type"] != "" else "_"
 
         # Get every record in the CSV
         for inflection in entry["inflection"].split(","):
-            g_base = os.path.join(full_out_dir, group if group != "" else "")
+            g_base = os.path.join(full_out_dir, entry["type"])
             base = os.path.join(g_base, inflection)
+
+            if (group) not in renamed[name]:
+                renamed[name][group] = {}
 
             if not os.path.exists(g_base):
                 # Make path to snippet if not exists
@@ -89,15 +92,15 @@ for name in names:
                 os.mkdir(base)
 
             for n in process_name(entry["script"]):
-                if n not in renamed[name]:
-                    renamed[name][n] = {}
+                if n not in renamed[name][group]:
+                    renamed[name][group][n] = {}
 
-                if inflection not in renamed[name][n]:
-                    renamed[name][n][inflection] = 1
+                if inflection not in renamed[name][group][n]:
+                    renamed[name][group][n][inflection] = 1
                 else:
-                    renamed[name][n][inflection] += 1
+                    renamed[name][group][n][inflection] += 1
 
-                count = renamed[name][n][inflection]
+                count = renamed[name][group][n][inflection]
 
                 # Copy the snippet to the new location
                 copy(
