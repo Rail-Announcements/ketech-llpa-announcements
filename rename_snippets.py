@@ -66,6 +66,11 @@ def process_name(name: str) -> list[str]:
 for name in names:
     print(f"Processing {name}")
 
+    name_output_dir = os.path.join(full_out_dir, name)
+
+    if not os.path.exists(name_output_dir):
+        os.mkdir(name_output_dir)
+
     renamed[name] = {}
 
     for entry in read_csv(get_path_to_csv(name)):
@@ -77,7 +82,7 @@ for name in names:
 
         # Get every record in the CSV
         for inflection in entry["inflection"].split(","):
-            g_base = os.path.join(full_out_dir, entry["type"])
+            g_base = os.path.join(name_output_dir, entry["type"])
             base = os.path.join(g_base, inflection)
 
             if (group) not in renamed[name]:
