@@ -1,5 +1,9 @@
 # ketech-llpa-announcements
 
+> **Note**
+>
+> Please remember to use these files with courtesy. Information released under Freedom of Information retains its copyright status and protections even after being released into the public domain, and you could face penalties for using these files without prior permission, particularly for commercial purposes.
+
 - `segs/` contains the raw data from the FOI to Irish Rail
 - `wavs/` contains decoded audio from the `.seg` files
 - `mp3s/` contains the decoded audio in MP3 format for wider compatibility and lower file size
