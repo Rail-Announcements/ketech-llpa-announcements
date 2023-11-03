@@ -3,6 +3,7 @@
 - `segs/` contains the raw data from the FOI to Irish Rail
 - `wavs/` contains decoded audio from the `.seg` files
 - `mp3s/` contains the decoded audio in MP3 format for wider compatibility and lower file size
+- `renamed/` contains the MP3 files for each voice, renamed and grouped using their transcriptions csv file
 
 ## Contents
 
