@@ -1335,7 +1335,7 @@ id,script,inflection,comment,type,suppress
 1387,please stand well away from the train at platform,s,,,
 1388,north western trains,m,,toc,
 1389,crosscountry intercity,m,,toc,
-1390,this train is the service from,s,,toc,
+1390,this train is the service from,s,,,
 1391,regional railways north east,m,,toc,
 1392,connex south central,m,,toc,
 1393,virgin trains,m,,toc,
