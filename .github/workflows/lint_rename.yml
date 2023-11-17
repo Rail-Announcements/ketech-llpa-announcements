@@ -52,7 +52,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add renamed/
           git commit -m "chore: rename snippets"
           git push
