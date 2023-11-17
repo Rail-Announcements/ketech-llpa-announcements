@@ -4103,7 +4103,7 @@ id,script,inflection,comment,type,suppress
 4467,please make sure you travel in the correct part of this train,w,,,
 4468,the train,e,,,
 4469,is delayed,e,,,
-4470,is being delayed,e,,,
+4470,is being delayed,m,,,
 4471,im very sorry,s,,,
 4472,for the delay to this service,e,,,
 4473,for this delay,e,,,
