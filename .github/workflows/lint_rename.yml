@@ -50,6 +50,7 @@ jobs:
           python3 ./rename_snippets.py
 
       - name: Commit and push changes
+        continue-on-error: true
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
