@@ -1,0 +1,41 @@
+on:
+  push:
+    branches: 
+      - main
+
+name: Rename snippets
+
+permissions:
+  contents: write
+
+jobs:
+  lint_csv:
+    name: Rename snippets
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+          cache: "pip"
+
+      - name: Remove existing renamed files
+        run: |
+          rm -rf renamed/
+
+      - name: Rename files using transcriptions
+        run: |
+          python3 ./rename_snippets.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions@github.com"
+          git add renamed/
+          git commit -m "chore: rename snippets"
+          git push
