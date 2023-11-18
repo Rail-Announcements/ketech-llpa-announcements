@@ -2,7 +2,7 @@ import csv
 import os
 
 # Config
-names = ["Male1"]
+names = ["Male1", "Female1"]
 output_dir = "renamed/"
 
 # Globals
