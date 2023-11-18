@@ -28,13 +28,13 @@ systems.
 
 We're currently working to transcribe all announcements within CSV files in this repository.
 
-| Voice                      | Progress                                                |
-| -------------------------- | ------------------------------------------------------- |
-| Phil Sayer (`Male1`)       | ✅ [Complete](./Male1_transcriptions.csv) (11382/11382) |
-| Michael Comyn (`Male3`)    | ❌ Not yet started                                      |
-| Michael Comyn (`default`)  | ❌ Not yet started                                      |
-| Celia Drummond (`Female1`) | ❌ Not yet started                                      |
-| Alison McKay (`Female1`)   | ❌ Not yet started                                      |
+| Voice                      | Progress                                                 |
+| -------------------------- | -------------------------------------------------------- |
+| Phil Sayer (`Male1`)       | ✅ [Complete](./Male1_transcriptions.csv) (11382/11382)  |
+| Michael Comyn (`Male3`)    | ❌ Not yet started                                       |
+| Michael Comyn (`default`)  | ❌ Not yet started                                       |
+| Celia Drummond (`Female1`) | ✅ [Complete](./Female1_transcriptions.csv) (10570/10570)|
+| Alison McKay (`Female1`)   | ❌ Not yet started                                       |
 
 ## Decoding .seg files
 
