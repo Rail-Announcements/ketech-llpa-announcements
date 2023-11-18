@@ -4,6 +4,7 @@ import os
 # Config
 names = ["Male1", "Female1"]
 output_dir = "renamed/"
+filetype = "mp3"
 
 # Globals
 root = os.path.dirname(os.path.realpath(__file__))
@@ -19,7 +20,7 @@ if not os.path.exists(full_out_dir):
 
 
 def get_path_to_snippet(voice: str, snippet: str) -> str:
-    return os.path.join(root, "mp3s", voice, f"{snippet}.mp3")
+    return os.path.join(root, f"{filetype}s", voice, f"{snippet}.{filetype}")
 
 
 def get_path_to_csv(voice: str) -> str:
@@ -110,5 +111,5 @@ for name in names:
                 # Copy the snippet to the new location
                 copy(
                     get_path_to_snippet(name, entry["id"]),
-                    os.path.join(base, f"{n}{f'-{count}' if count > 1 else ''}.mp3"),
+                    os.path.join(base, f"{n}{f'-{count}' if count > 1 else ''}.{filetype}"),
                 )
