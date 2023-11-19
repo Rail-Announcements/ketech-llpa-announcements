@@ -2,7 +2,7 @@ import csv
 import os
 
 # Config
-names = ["Male1", "Female1"]
+names = ["Male1", "Female1", "Female2"]
 output_dir = "renamed/"
 filetype = "mp3"
 
