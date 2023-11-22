@@ -1064,7 +1064,7 @@ id,script,inflection,comment,type,suppress
 1078,HME,m,,station,
 1079,HAM,m,,station,
 1080,HTF,m,,station,
-1081,HSL,m,,station,
+1081,HSL (old),m,,station,
 1082,HSK,m,,station,
 1083,HGS,m,,station,
 1084,HAV,m,,station,
