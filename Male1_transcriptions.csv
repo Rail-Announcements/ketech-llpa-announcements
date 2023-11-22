@@ -274,7 +274,7 @@ id,script,inflection,comment,type,suppress
 276,intercity crosscountry,m,,toc,
 277,metro train,m,,toc,
 278,transpennine express,m,,toc,
-279,where the train will continue to,m,,toc,
+279,where the train will continue to,m,,,
 280,yorkshire pullman,m,,toc,
 281,the armada,m,,toc,
 282,the devonian,m,,toc,
