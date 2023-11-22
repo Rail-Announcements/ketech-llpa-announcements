@@ -309,7 +309,7 @@ id,script,inflection,comment,type,suppress
 311,where the train will restart for,m,,,
 312,where the train will then divide,m,,,
 313,eurostar services to,m,,,
-314,please make sure you travel in the correct part of this train,e,,,
+314,please make sure you travel in the correct part of this train,w,,,
 315,must travel in the,m,,,
 316,a security alert,e,,disruption-reason,
 317,where the train will divide,e,newer recording,,
