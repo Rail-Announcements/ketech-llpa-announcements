@@ -9349,7 +9349,7 @@ id,script,inflection,comment,type,suppress
 12091,Rother Valley Parkway for Sheffield,m,,station,
 12092,Worcester Parkway,m,,station,
 12094,CFR,m,,station,
-12097,GRH,m,alison mckay,station,
+12097,GRH,m,alison mckay,station,Y
 12098,Brinsford,m,Proposed station near Wolverhampton,station,
 12100,St Pancras Thameslink,m,,station,
 12101,Kings Cross St Pancras Thameslink,m,,station,
@@ -9787,7 +9787,7 @@ id,script,inflection,comment,type,suppress
 13091,Rother Valley Parkway for Sheffield,e,,station,
 13092,Worcester Parkway,e,,station,
 13094,CFR,e,,station,
-13097,GRH,e,alison mckay,station,
+13097,GRH,e,alison mckay,station,Y
 13098,Brinsford,e,,station,
 13100,St Pancras Thameslink,e,,station,
 13101,Kings Cross St Pancras Thameslink,e,,station,
