@@ -3413,7 +3413,7 @@ id,script,inflection,comment,type,suppress
 3715,GNW,e,,station,
 3716,HCB,e,,station,
 3717,HAI,e,,station,
-3718,HMT,e,,station,
+3718,HMT,m,,station,
 3719,HMD,e,,station,
 3720,green zone,m,,,
 3721,green zone,e,,,
