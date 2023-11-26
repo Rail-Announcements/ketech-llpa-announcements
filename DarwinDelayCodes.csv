@@ -1,5 +1,5 @@
 delayCode,description,Male1(e),Male1(m),Female1(e),Female1(m)
-100,This train has been delayed by a broken down train,,,,
+100,This train has been delayed by a broken down train,disruption-reason.e.a broken down train,disruption-reason.m.a broken down train,disruption-reason.e.a broken down train,disruption-reason.m.a broken down train
 101,This train has been delayed by a delay on a previous journey,,,,
 102,This train has been delayed by a derailed train,,,,
 104,This train has been delayed by a fire at a station,,,,
