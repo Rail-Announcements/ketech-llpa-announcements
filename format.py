@@ -9,19 +9,29 @@ csvs = [
     "default_transcriptions",
 ]
 
-for c in csvs:
-    print(f"Formatting {c}.csv")
-    
+defaultKeys = [
+    "id",
+    "script",
+    "inflection",
+    "comment",
+    "type",
+    "suppress",
+]
+
+
+def format(path: str, keys: list):
+    print(f"Formatting {path}.csv")
+
     # Read in csv
-    with open(f"{c}.csv", "r") as f:
+    with open(f"{path}.csv", "r") as f:
         reader = csv.DictReader(f)
         your_list = list(reader)
 
     # Create new csv
-    with open(f"{c}_formatted.csv", "w") as csvfile:
+    with open(f"{path}_formatted.csv", "w") as csvfile:
         writer = csv.DictWriter(
             csvfile,
-            fieldnames=["id", "script", "inflection", "comment", "type", "suppress"],
+            fieldnames=keys,
         )
 
         # Write header
@@ -30,17 +40,15 @@ for c in csvs:
         # Write rows
         for row in your_list:
             try:
-                writer.writerow(
-                    {
-                        "id": row["id"],
-                        "script": row["script"],
-                        "inflection": row["inflection"],
-                        "comment": row["comment"],
-                        "type": row["type"],
-                        "suppress": row["suppress"],
-                    }
-                )
-            except KeyError:
-                print(f"KeyError in {c}.csv")
+                writer.writerow({k: row[k] for k in keys})
+            except KeyError as e:
+                print(f"KeyError in {path}.csv")
                 print(row)
+                print(e)
                 break
+
+
+for c in csvs:
+    format(c, defaultKeys)
+
+format("DarwinDelayCodes", ["delayCode", "description", "Male1", "Female1"])
