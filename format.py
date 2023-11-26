@@ -51,4 +51,7 @@ def format(path: str, keys: list):
 for c in csvs:
     format(c, defaultKeys)
 
-format("DarwinDelayCodes", ["delayCode", "description", "Male1", "Female1"])
+format(
+    "DarwinDelayCodes",
+    ["delayCode", "description", "Male1(e)", "Male1(m)", "Female1(e)", "Female1(m)"],
+)
