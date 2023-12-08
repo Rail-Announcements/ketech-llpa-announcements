@@ -1,506 +1,506 @@
 delayCode,description,Male1(e),Male1(m),Female1(e),Female1(m)
 100,This train has been delayed by a broken down train,disruption-reason.e.a broken down train,disruption-reason.m.a broken down train,disruption-reason.e.a broken down train,disruption-reason.m.a broken down train
-101,This train has been delayed by a delay on a previous journey,,,,
-102,This train has been delayed by a derailed train,,,,
-104,This train has been delayed by a fire at a station,,,,
-105,This train has been delayed by a fire at a station earlier,,,,
-106,This train has been delayed by a landslip,,,,
-107,This train has been delayed by a line-side fire,,,,
-108,This train has been delayed by a member of train crew being unavailable,,,,
-109,This train has been delayed by a passenger being taken ill,,,,
-110,This train has been delayed by a passenger having been taken ill earlier,,,,
-111,This train has been delayed by a person hit by a train,,,,
-112,This train has been delayed by a person hit by a train earlier,,,,
-113,This train has been delayed by a problem at a level crossing,,,,
-114,This train has been delayed by a problem currently under investigation,,,,
-115,This train has been delayed by a problem near the railway,,,,
-116,This train has been delayed by a problem with a river bridge,,,,
-117,This train has been delayed by a problem with line side equipment,,,,
-118,This train has been delayed by a security alert,,,,
-119,This train has been delayed by a train derailed earlier,,,,
-120,This train has been delayed by a train fault,,,,
-121,This train has been delayed by a train late from the depot,,,,
-122,This train has been delayed by a train late from the depot earlier,,,,
-123,This train has been delayed by a trespass incident,,,,
-124,This train has been delayed by a vehicle striking a bridge,,,,
-125,This train has been delayed by a vehicle striking a bridge earlier,,,,
-126,This train has been delayed by an earlier broken down train,,,,
-128,This train has been delayed by an earlier landslip,,,,
-129,This train has been delayed by an earlier line-side fire,,,,
-130,This train has been delayed by an earlier operating incident,,,,
-131,This train has been delayed by an earlier problem at a level crossing,,,,
-132,This train has been delayed by an earlier problem near the railway,,,,
-133,This train has been delayed by an earlier problem with a river bridge,,,,
-134,This train has been delayed by an earlier problem with line side equipment,,,,
-135,This train has been delayed by an earlier security alert,,,,
-136,This train has been delayed by an earlier train fault,,,,
-137,This train has been delayed by an earlier trespass incident,,,,
-138,This train has been delayed by an obstruction on the line,,,,
-139,This train has been delayed by an obstruction on the line earlier,,,,
-140,This train has been delayed by an operating incident,,,,
-141,This train has been delayed by an unusually large passenger flow,,,,
-142,This train has been delayed by an unusually large passenger flow earlier,,,,
-143,This train has been delayed by animals on the line,,,,
-144,This train has been delayed by animals on the line earlier,,,,
-145,This train has been delayed by congestion caused by earlier delays,,,,
-146,This train has been delayed by disruptive passengers,,,,
-147,This train has been delayed by disruptive passengers earlier,,,,
-148,This train has been delayed by earlier electrical supply problems,,,,
-149,This train has been delayed by earlier emergency engineering works,,,,
-150,This train has been delayed by earlier industrial action,,,,
-151,This train has been delayed by earlier overhead wire problems,,,,
-152,This train has been delayed by earlier over-running engineering works,,,,
-153,This train has been delayed by earlier signalling problems,,,,
-154,This train has been delayed by earlier vandalism,,,,
-155,This train has been delayed by electrical supply problems,,,,
-156,This train has been delayed by emergency engineering works,,,,
-157,This train has been delayed by emergency services dealing with a prior incident,,,,
-158,This train has been delayed by emergency services dealing with an incident,,,,
+101,This train has been delayed by a delay on a previous journey,disruption-reason.e.late running of the previous train,disruption-reason.m.late running of the previous train,disruption-reason.e.late running of the previous train,disruption-reason.m.late running of the previous train
+102,This train has been delayed by a derailed train,disruption-reason.e.a derailment,disruption-reason.m.a derailment,disruption-reason.e.a derailment,disruption-reason.m.a derailment
+104,This train has been delayed by a fire at a station,disruption-reason.e.a fire,disruption-reason.m.a fire,disruption-reason.e.a fire,disruption-reason.m.a fire
+105,This train has been delayed by a fire at a station earlier,disruption-reason.e.a fire,disruption-reason.m.a fire,disruption-reason.e.a fire,disruption-reason.m.a fire
+106,This train has been delayed by a landslip,disruption-reason.e.a landslide,disruption-reason.m.a landslide,disruption-reason.e.a landslide,disruption-reason.m.a landslide
+107,This train has been delayed by a line-side fire,disruption-reason.e.a lineside fire,disruption-reason.m.a lineside fire,disruption-reason.e.a lineside fire,disruption-reason.m.a lineside fire
+108,This train has been delayed by a member of train crew being unavailable,disruption-reason.e.a temporary shortage of train crews,disruption-reason.m.a temporary shortage of train crews,disruption-reason.e.a temporary shortage of train crews,disruption-reason.m.a temporary shortage of train crews
+109,This train has been delayed by a passenger being taken ill,disruption-reason.e.a customer having been taken ill on this train,disruption-reason.m.a customer having been taken ill on this train,disruption-reason.e.a customer having been taken ill on this train,disruption-reason.m.a customer having been taken ill on this train
+110,This train has been delayed by a passenger having been taken ill earlier,disruption-reason.e.a customer having been taken ill on a preceding train,disruption-reason.m.a customer having been taken ill on a preceding train,disruption-reason.e.a customer having been taken ill on a preceding train,disruption-reason.m.a customer having been taken ill on a preceding train
+111,This train has been delayed by a person hit by a train,disruption-reason.e.a suspected fatality,disruption-reason.m.a suspected fatality,disruption-reason.e.a suspected fatality,disruption-reason.m.a suspected fatality
+112,This train has been delayed by a person hit by a train earlier,disruption-reason.e.an earlier fatality,disruption-reason.m.an earlier fatality,disruption-reason.e.an earlier fatality,disruption-reason.m.an earlier fatality
+113,This train has been delayed by a problem at a level crossing,disruption-reason.e.a fault on a level crossing,disruption-reason.m.a fault on a level crossing,disruption-reason.e.a fault on a level crossing,disruption-reason.m.a fault on a level crossing
+114,This train has been delayed by a problem currently under investigation,disruption-reason.e.a currently unidentified reason which is under investigation,disruption-reason.m.a currently unidentified reason which is under investigation,disruption-reason.e.a currently unidentified reason which is under investigation,disruption-reason.m.a currently unidentified reason which is under investigation
+115,This train has been delayed by a problem near the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway
+116,This train has been delayed by a problem with a river bridge,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge
+117,This train has been delayed by a problem with line side equipment,disruption-reason.e.a fault on trackside equipment,disruption-reason.m.a fault on trackside equipment,disruption-reason.e.a fault on trackside equipment,disruption-reason.m.a fault on trackside equipment
+118,This train has been delayed by a security alert,disruption-reason.e.a security alert,disruption-reason.m.a security alert,disruption-reason.e.a security alert,disruption-reason.m.a security alert
+119,This train has been delayed by a train derailed earlier,disruption-reason.e.a derailment,disruption-reason.m.a derailment,disruption-reason.e.a derailment,disruption-reason.m.a derailment
+120,This train has been delayed by a train fault,disruption-reason.e.a fault on the train,disruption-reason.m.a fault on the train,disruption-reason.e.a fault on the train,disruption-reason.m.a fault on the train
+121,This train has been delayed by a train late from the depot,disruption-reason.e.the late arrival of the coaches and train crew to form this service,disruption-reason.m.the late arrival of the coaches and train crew to form this service,disruption-reason.e.the late arrival of the coaches and train crew to form this service,disruption-reason.m.the late arrival of the coaches and train crew to form this service
+122,This train has been delayed by a train late from the depot earlier,disruption-reason.e.the late arrival of the coaches and train crew to form this service,disruption-reason.m.the late arrival of the coaches and train crew to form this service,disruption-reason.e.the late arrival of the coaches and train crew to form this service,disruption-reason.m.the late arrival of the coaches and train crew to form this service
+123,This train has been delayed by a trespass incident,disruption-reason.e.trespassers on the line,disruption-reason.m.trespassers on the line,disruption-reason.e.trespassers on the line,disruption-reason.m.trespassers on the line
+124,This train has been delayed by a vehicle striking a bridge,disruption-reason.e.a road vehicle striking a railway bridge,disruption-reason.m.a road vehicle striking a railway bridge,disruption-reason.e.a road vehicle striking a railway bridge,disruption-reason.m.a road vehicle striking a railway bridge
+125,This train has been delayed by a vehicle striking a bridge earlier,disruption-reason.e.an earlier road vehicle striking a railway bridge,disruption-reason.m.an earlier road vehicle striking a railway bridge,disruption-reason.e.an earlier road vehicle striking a railway bridge,disruption-reason.m.an earlier road vehicle striking a railway bridge
+126,This train has been delayed by an earlier broken down train,disruption-reason.e.an earlier broken down train,disruption-reason.m.an earlier broken down train,disruption-reason.e.an earlier broken down train,disruption-reason.m.an earlier broken down train
+128,This train has been delayed by an earlier landslip,disruption-reason.e.an earlier landslide,disruption-reason.m.an earlier landslide,disruption-reason.e.an earlier landslide,disruption-reason.m.an earlier landslide
+129,This train has been delayed by an earlier line-side fire,disruption-reason.e.an earlier lineside fire,disruption-reason.m.an earlier lineside fire,disruption-reason.e.an earlier lineside fire,disruption-reason.m.an earlier lineside fire
+130,This train has been delayed by an earlier operating incident,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+131,This train has been delayed by an earlier problem at a level crossing,disruption-reason.e.an earlier fault on a level crossing,disruption-reason.m.an earlier fault on a level crossing,disruption-reason.e.an earlier fault on a level crossing,disruption-reason.m.an earlier fault on a level crossing
+132,This train has been delayed by an earlier problem near the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway
+133,This train has been delayed by an earlier problem with a river bridge,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge
+134,This train has been delayed by an earlier problem with line side equipment,disruption-reason.e.a fault on trackside equipment,disruption-reason.m.a fault on trackside equipment,disruption-reason.e.a fault on trackside equipment,disruption-reason.m.a fault on trackside equipment
+135,This train has been delayed by an earlier security alert,disruption-reason.e.an earlier security alert,disruption-reason.m.an earlier security alert,disruption-reason.e.an earlier security alert,disruption-reason.m.an earlier security alert
+136,This train has been delayed by an earlier train fault,disruption-reason.e.a fault on a preceding train,disruption-reason.m.a fault on a preceding train,disruption-reason.e.a fault on a preceding train,disruption-reason.m.a fault on a preceding train
+137,This train has been delayed by an earlier trespass incident,disruption-reason.e.an earlier trespassing incident,disruption-reason.m.an earlier trespassing incident,disruption-reason.e.an earlier trespassing incident,disruption-reason.m.an earlier trespassing incident
+138,This train has been delayed by an obstruction on the line,disruption-reason.e.an obstruction on the line,disruption-reason.m.an obstruction on the line,disruption-reason.e.an obstruction on the line,disruption-reason.m.an obstruction on the line
+139,This train has been delayed by an obstruction on the line earlier,disruption-reason.e.an obstruction on the line,disruption-reason.m.an obstruction on the line,disruption-reason.e.an obstruction on the line,disruption-reason.m.an obstruction on the line
+140,This train has been delayed by an operating incident,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+141,This train has been delayed by an unusually large passenger flow,disruption-reason.e.large numbers of passengers joining the trains,disruption-reason.m.large numbers of passengers joining the trains,disruption-reason.e.large numbers of passengers joining the trains,disruption-reason.m.large numbers of passengers joining the trains
+142,This train has been delayed by an unusually large passenger flow earlier,disruption-reason.e.large numbers of passengers joining the trains,disruption-reason.m.large numbers of passengers joining the trains,disruption-reason.e.large numbers of passengers joining the trains,disruption-reason.m.large numbers of passengers joining the trains
+143,This train has been delayed by animals on the line,disruption-reason.e.animals on the railway line,disruption-reason.m.animals on the railway line,disruption-reason.e.animals on the railway line,disruption-reason.m.animals on the railway line
+144,This train has been delayed by animals on the line earlier,disruption-reason.e.earlier reports of animals on the line,disruption-reason.m.earlier reports of animals on the line,disruption-reason.e.earlier reports of animals on the line,disruption-reason.m.earlier reports of animals on the line
+145,This train has been delayed by congestion caused by earlier delays,disruption-reason.e.congestion,disruption-reason.m.congestion,disruption-reason.e.congestion,disruption-reason.m.congestion
+146,This train has been delayed by disruptive passengers,disruption-reason.e.police attending a disturbance on this train,disruption-reason.m.police attending a disturbance on this train,disruption-reason.e.police attending a disturbance on this train,disruption-reason.m.police attending a disturbance on this train
+147,This train has been delayed by disruptive passengers earlier,disruption-reason.e.police attending a disturbance on a preceding train,disruption-reason.m.police attending a disturbance on a preceding train,disruption-reason.e.police attending a disturbance on a preceding train,disruption-reason.m.police attending a disturbance on a preceding train
+148,This train has been delayed by earlier electrical supply problems,disruption-reason.e.an earlier electrical power supply problem,disruption-reason.m.an earlier electrical power supply problem,disruption-reason.e.an earlier electrical power supply problem,disruption-reason.m.an earlier electrical power supply problem
+149,This train has been delayed by earlier emergency engineering works,disruption-reason.e.emergency engineering work,disruption-reason.m.emergency engineering work,disruption-reason.e.emergency engineering work,disruption-reason.m.emergency engineering work
+150,This train has been delayed by earlier industrial action,disruption-reason.e.industrial action,disruption-reason.m.industrial action,disruption-reason.e.industrial action,disruption-reason.m.industrial action
+151,This train has been delayed by earlier overhead wire problems,disruption-reason.e.overhead electric line problems,disruption-reason.m.overhead electric line problems,disruption-reason.e.overhead electric line problems,disruption-reason.m.overhead electric line problems
+152,This train has been delayed by earlier over-running engineering works,disruption-reason.e.overrunning engineering work,disruption-reason.m.overrunning engineering work,disruption-reason.e.overrunning engineering work,disruption-reason.m.overrunning engineering work
+153,This train has been delayed by earlier signalling problems,disruption-reason.e.an earlier fault with the signalling equipment,disruption-reason.m.an earlier fault with the signalling equipment,disruption-reason.e.an earlier fault with the signalling equipment,disruption-reason.m.an earlier fault with the signalling equipment
+154,This train has been delayed by earlier vandalism,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism
+155,This train has been delayed by electrical supply problems,disruption-reason.e.an electrical power supply problem,disruption-reason.m.an electrical power supply problem,disruption-reason.e.an electrical power supply problem,disruption-reason.m.an electrical power supply problem
+156,This train has been delayed by emergency engineering works,disruption-reason.e.emergency engineering work,disruption-reason.m.emergency engineering work,disruption-reason.e.emergency engineering work,disruption-reason.m.emergency engineering work
+157,This train has been delayed by emergency services dealing with a prior incident,"disruption-reason.m.emergency services attending an incident adjacent,disruption-reason.e.to the railway line",,"disruption-reason.m.emergency services attending an incident adjacent,disruption-reason.e.to the railway line",
+158,This train has been delayed by emergency services dealing with an incident,"disruption-reason.m.emergency services attending an incident adjacent,disruption-reason.e.to the railway line",,"disruption-reason.m.emergency services attending an incident adjacent,disruption-reason.e.to the railway line",
 159,This train has been delayed by fire alarms sounding at a station,,,,
 160,This train has been delayed by fire alarms sounding earlier at a station,,,,
-161,This train has been delayed by flooding,,,,
-162,This train has been delayed by flooding earlier,,,,
-163,This train has been delayed by fog,,,,
-164,This train has been delayed by fog earlier,,,,
-165,This train has been delayed by high winds,,,,
-166,This train has been delayed by high winds earlier,,,,
-167,This train has been delayed by industrial action,,,,
-168,This train has been delayed by lightning having damaged equipment,,,,
-169,This train has been delayed by overhead wire problems,,,,
-170,This train has been delayed by over-running engineering works,,,,
-171,This train has been delayed by passengers transferring between trains,,,,
-172,This train has been delayed by passengers transferring between trains earlier,,,,
-173,This train has been delayed by poor rail conditions,,,,
-174,This train has been delayed by poor rail conditions earlier,,,,
-175,This train has been delayed by poor weather conditions,,,,
-176,This train has been delayed by poor weather conditions earlier,,,,
-177,This train has been delayed by safety checks being made,,,,
-178,This train has been delayed by safety checks having been made earlier,,,,
-179,This train has been delayed by signalling problems,,,,
-180,This train has been delayed by snow,,,,
-181,This train has been delayed by snow earlier,,,,
-182,This train has been delayed by speed restrictions having been imposed,,,,
-183,This train has been delayed by train crew having been unavailable earlier,,,,
-184,This train has been delayed by vandalism,,,,
-185,This train has been delayed by waiting earlier for a train crew member,,,,
-186,This train has been delayed by waiting for a train crew member,,,,
-187,This train has been delayed by engineering works,,,,
-501,This train has been delayed by a broken down train,,,,
-502,This train has been delayed by a broken windscreen on the train,,,,
-503,This train has been delayed by a shortage of trains because of accident damage,,,,
-504,This train has been delayed by a shortage of trains because of extra safety inspections,,,,
-505,This train has been delayed by a shortage of trains because of vandalism,,,,
-506,This train has been delayed by a shortage of trains following damage by snow and ice,,,,
-507,This train has been delayed by more trains than usual needing repairs at the same time,,,,
-508,This train has been delayed by the train for this service having broken down,,,,
-509,This train has been delayed by this train breaking down,,,,
-510,This train has been delayed by a collision between trains,,,,
-511,This train has been delayed by a collision with the buffers at a station,,,,
-512,This train has been delayed by a derailed train,,,,
-513,This train has been delayed by a derailment within the depot,,,,
-514,This train has been delayed by a low speed derailment,,,,
-515,This train has been delayed by a train being involved in an accident,,,,
-516,This train has been delayed by trains being involved in an accident,,,,
-517,This train has been delayed by a fire at a station,,,,
-518,This train has been delayed by a fire at a station earlier today,,,,
-519,This train has been delayed by a landslip,,,,
-520,This train has been delayed by a fire next to the track,,,,
-521,This train has been delayed by a fire on a train,,,,
-522,This train has been delayed by a member of on train staff being taken ill,,,,
-523,This train has been delayed by a shortage of on train staff,,,,
-524,This train has been delayed by a shortage of train conductors,,,,
-525,This train has been delayed by a shortage of train crew,,,,
-526,This train has been delayed by a shortage of train drivers,,,,
-527,This train has been delayed by a shortage of train guards,,,,
-528,This train has been delayed by a shortage of train managers,,,,
-529,This train has been delayed by severe weather preventing train crew getting to work,,,,
-530,This train has been delayed by the train conductor being taken ill,,,,
-531,This train has been delayed by the train driver being taken ill,,,,
-532,This train has been delayed by the train guard being taken ill,,,,
-533,This train has been delayed by the train manager being taken ill,,,,
-534,This train has been delayed by a passenger being taken ill at a station,,,,
-535,This train has been delayed by a passenger being taken ill on a train,,,,
-536,This train has been delayed by a passenger being taken ill on this train,,,,
-537,This train has been delayed by a passenger being taken ill at a station earlier today,,,,
-538,This train has been delayed by a passenger being taken ill on a train earlier today,,,,
-539,This train has been delayed by a passenger being taken ill on this train earlier in its journey,,,,
-540,This train has been delayed by a person being hit by a train,,,,
-541,This train has been delayed by a person being hit by a train earlier today,,,,
-542,This train has been delayed by a collision at a level crossing,,,,
-543,This train has been delayed by a fault with barriers at a level crossing,,,,
-544,This train has been delayed by a road accident at a level crossing,,,,
-545,This train has been delayed by a road vehicle colliding with level crossing barriers,,,,
-546,This train has been delayed by a road vehicle damaging track at a level crossing,,,,
-547,This train has been delayed by a problem currently under investigation,,,,
-548,This train has been delayed by a burst water main near the railway,,,,
-549,This train has been delayed by a chemical spillage near the railway,,,,
-550,This train has been delayed by a fire near the railway involving gas cylinders,,,,
-551,This train has been delayed by a fire near the railway suspected to involve gas cylinders,,,,
-552,This train has been delayed by a fire on property near the railway,,,,
-553,This train has been delayed by a gas leak near the railway,,,,
-554,This train has been delayed by a road accident near the railway,,,,
-555,This train has been delayed by a wartime bomb near the railway,,,,
-556,This train has been delayed by ambulance service dealing with an incident near the railway,,,,
-557,This train has been delayed by emergency services dealing with an incident near the railway,,,,
-558,This train has been delayed by fire brigade dealing with an incident near the railway,,,,
-559,This train has been delayed by police dealing with an incident near the railway,,,,
-560,This train has been delayed by a boat colliding with a bridge,,,,
-561,This train has been delayed by a fault with a swing bridge over a river,,,,
-562,This train has been delayed by a problem with a river bridge,,,,
-563,This train has been delayed by a problem with line-side equipment,,,,
-564,This train has been delayed by a security alert at a station,,,,
-565,This train has been delayed by a security alert on another train,,,,
-566,This train has been delayed by a security alert on this train,,,,
-567,This train has been delayed by a train derailment earlier today,,,,
-568,This train has been delayed by a train derailment yesterday,,,,
-569,This train has been delayed by a fault occurring when attaching a part of a train,,,,
-570,This train has been delayed by a fault occurring when attaching a part of this train,,,,
-571,This train has been delayed by a fault occurring when detaching a part of a train,,,,
-572,This train has been delayed by a fault occurring when detaching a part of this train,,,,
-573,This train has been delayed by a fault on a train in front of this one,,,,
-574,This train has been delayed by a fault on this train,,,,
-575,This train has been delayed by this train being late from the depot,,,,
-576,This train has been delayed by trespassers on the railway,,,,
-577,This train has been delayed by a bus colliding with a bridge,,,,
-578,This train has been delayed by a lorry colliding with a bridge,,,,
-579,This train has been delayed by a road vehicle colliding with a bridge,,,,
-580,This train has been delayed by a bus colliding with a bridge earlier on this train's journey,,,,
-581,This train has been delayed by a bus colliding with a bridge earlier today,,,,
-582,This train has been delayed by a lorry colliding with a bridge earlier on this train's journey,,,,
-583,This train has been delayed by a lorry colliding with a bridge earlier today,,,,
-584,This train has been delayed by a road vehicle colliding with a bridge earlier on this train's journey,,,,
-585,This train has been delayed by a road vehicle colliding with a bridge earlier today,,,,
-586,This train has been delayed by a broken down train earlier today,,,,
-587,This train has been delayed by an earlier landslip,,,,
-588,This train has been delayed by a fire next to the track earlier today,,,,
-589,This train has been delayed by a fire on a train earlier today,,,,
-590,This train has been delayed by a coach becoming uncoupled on a train earlier in its journey,,,,
-591,This train has been delayed by a coach becoming uncoupled on a train earlier today,,,,
-592,This train has been delayed by a coach becoming uncoupled on this train earlier in its journey,,,,
-593,This train has been delayed by a coach becoming uncoupled on this train earlier today,,,,
-594,This train has been delayed by a train not stopping at a station it was supposed to earlier in its journey,,,,
-595,This train has been delayed by a train not stopping at a station it was supposed to earlier today,,,,
-596,This train has been delayed by a train not stopping in the correct position at a station earlier in its journey,,,,
-597,This train has been delayed by a train not stopping in the correct position at a station earlier today,,,,
-598,This train has been delayed by a train's automatic braking system being activated earlier in its journey,,,,
-599,This train has been delayed by a train's automatic braking system being activated earlier today,,,,
-600,This train has been delayed by an operational incident earlier in its journey,,,,
-601,This train has been delayed by an operational incident earlier today,,,,
-602,This train has been delayed by this train not stopping at a station it was supposed to earlier in its journey,,,,
-603,This train has been delayed by this train not stopping at a station it was supposed to earlier today,,,,
-604,This train has been delayed by this train not stopping in the correct position at a station earlier in its journey,,,,
-605,This train has been delayed by this train not stopping in the correct position at a station earlier today,,,,
-606,This train has been delayed by this train's automatic braking system being activated earlier in its journey,,,,
-607,This train has been delayed by this train's automatic braking system being activated earlier today,,,,
-608,This train has been delayed by a collision at a level crossing earlier today,,,,
-609,This train has been delayed by a collision at a level crossing yesterday,,,,
-610,This train has been delayed by a fault with barriers at a level crossing earlier today,,,,
-611,This train has been delayed by a fault with barriers at a level crossing yesterday,,,,
-612,This train has been delayed by a road accident at a level crossing earlier today,,,,
-613,This train has been delayed by a road accident at a level crossing yesterday,,,,
-614,This train has been delayed by a road vehicle colliding with level crossing barriers earlier today,,,,
-615,This train has been delayed by a road vehicle colliding with level crossing barriers yesterday,,,,
-616,This train has been delayed by a road vehicle damaging track at a level crossing earlier today,,,,
-617,This train has been delayed by a road vehicle damaging track at a level crossing yesterday,,,,
-618,This train has been delayed by a burst water main near the railway earlier today,,,,
-619,This train has been delayed by a burst water main near the railway yesterday,,,,
-620,This train has been delayed by a chemical spillage near the railway earlier today,,,,
-621,This train has been delayed by a chemical spillage near the railway yesterday,,,,
-622,This train has been delayed by a fire near the railway involving gas cylinders earlier today,,,,
-623,This train has been delayed by a fire near the railway involving gas cylinders yesterday,,,,
-624,This train has been delayed by a fire near the railway suspected to involve gas cylinders earlier today,,,,
-625,This train has been delayed by a fire near the railway suspected to involve gas cylinders yesterday,,,,
-626,This train has been delayed by a fire on property near the railway earlier today,,,,
-627,This train has been delayed by a fire on property near the railway yesterday,,,,
-628,This train has been delayed by a gas leak near the railway earlier today,,,,
-629,This train has been delayed by a gas leak near the railway yesterday,,,,
-630,This train has been delayed by a road accident near the railway earlier today,,,,
-631,This train has been delayed by a road accident near the railway yesterday,,,,
-632,This train has been delayed by a wartime bomb near the railway earlier today,,,,
-633,This train has been delayed by a wartime bomb near the railway yesterday,,,,
-634,This train has been delayed by a wartime bomb which has now been made safe,,,,
-635,This train has been delayed by ambulance service dealing with an incident near the railway earlier today,,,,
-636,This train has been delayed by ambulance service dealing with an incident near the railway yesterday,,,,
-637,This train has been delayed by emergency services dealing with an incident near the railway earlier today,,,,
-638,This train has been delayed by emergency services dealing with an incident near the railway yesterday,,,,
-639,This train has been delayed by fire brigade dealing with an incident near the railway earlier today,,,,
-640,This train has been delayed by fire brigade dealing with an incident near the railway yesterday,,,,
-641,This train has been delayed by police dealing with an incident near the railway earlier today,,,,
-642,This train has been delayed by police dealing with an incident near the railway yesterday,,,,
-643,This train has been delayed by a boat colliding with a bridge earlier today,,,,
-644,This train has been delayed by a fault with a swing bridge over a river earlier today,,,,
-645,This train has been delayed by a problem with a river bridge earlier today,,,,
-646,This train has been delayed by an earlier problem with line-side equipment,,,,
-647,This train has been delayed by a security alert earlier today,,,,
-648,This train has been delayed by a fault on this train which is now fixed,,,,
-649,This train has been delayed by trespassers on the railway earlier in this train's journey,,,,
-650,This train has been delayed by trespassers on the railway earlier today,,,,
-651,This train has been delayed by a bicycle on the track,,,,
-652,This train has been delayed by a road vehicle blocking the railway,,,,
-653,This train has been delayed by a supermarket trolley on the track,,,,
-654,This train has been delayed by a train hitting an obstruction on the line,,,,
-655,This train has been delayed by a tree blocking the railway,,,,
-656,This train has been delayed by an obstruction on the track,,,,
-657,This train has been delayed by checking reports of an obstruction on the line,,,,
-658,This train has been delayed by this train hitting an obstruction on the line,,,,
-659,This train has been delayed by a bicycle on the track earlier on this train's journey,,,,
-660,This train has been delayed by a bicycle on the track earlier today,,,,
-661,This train has been delayed by a road vehicle blocking the railway earlier on this train's journey,,,,
-662,This train has been delayed by a road vehicle blocking the railway earlier today,,,,
-663,This train has been delayed by a supermarket trolley on the track earlier on this train's journey,,,,
-664,This train has been delayed by a supermarket trolley on the track earlier today,,,,
-665,This train has been delayed by a train hitting an obstruction on the line earlier on this train's journey,,,,
-666,This train has been delayed by a train hitting an obstruction on the line earlier today,,,,
-667,This train has been delayed by a tree blocking the railway earlier on this train's journey,,,,
-668,This train has been delayed by a tree blocking the railway earlier today,,,,
-669,This train has been delayed by an obstruction on the track earlier on this train's journey,,,,
-670,This train has been delayed by an obstruction on the track earlier today,,,,
-671,This train has been delayed by checking reports of an obstruction on the line earlier on this train's journey,,,,
-672,This train has been delayed by checking reports of an obstruction on the line earlier today,,,,
-673,This train has been delayed by this train hitting an obstruction on the line earlier in its journey,,,,
-674,This train has been delayed by this train hitting an obstruction on the line earlier on this train's journey,,,,
-675,This train has been delayed by this train hitting an obstruction on the line earlier today,,,,
-676,This train has been delayed by a coach becoming uncoupled on a train,,,,
-677,This train has been delayed by a coach becoming uncoupled on this train,,,,
-678,This train has been delayed by a train not stopping at a station it was supposed to,,,,
-679,This train has been delayed by a train not stopping in the correct position at a station,,,,
-680,This train has been delayed by a train's automatic braking system being activated,,,,
-681,This train has been delayed by an operational incident,,,,
-682,This train has been delayed by this train not stopping at a station it was supposed to,,,,
-683,This train has been delayed by this train not stopping in the correct position at a station,,,,
-684,This train has been delayed by this train's automatic braking system being activated,,,,
-685,This train has been delayed by overcrowding,,,,
-686,This train has been delayed by overcrowding as this train has fewer coaches than normal,,,,
-687,This train has been delayed by overcrowding because an earlier train had fewer coaches than normal,,,,
-688,This train has been delayed by overcrowding because of a concert,,,,
-689,This train has been delayed by overcrowding because of a football match,,,,
-690,This train has been delayed by overcrowding because of a marathon,,,,
-691,This train has been delayed by overcrowding because of a rugby match,,,,
-692,This train has been delayed by overcrowding because of a sporting event,,,,
-693,This train has been delayed by overcrowding because of an earlier cancellation,,,,
-694,This train has been delayed by overcrowding because of an event,,,,
-695,This train has been delayed by overcrowding earlier on this train's journey,,,,
-696,This train has been delayed by animals on the railway,,,,
-697,This train has been delayed by cattle on the railway,,,,
-698,This train has been delayed by horses on the railway,,,,
-699,This train has been delayed by sheep on the railway,,,,
-700,This train has been delayed by animals on the railway earlier today,,,,
-701,This train has been delayed by cattle on the railway earlier today,,,,
-702,This train has been delayed by horses on the railway earlier today,,,,
-703,This train has been delayed by sheep on the railway earlier today,,,,
-704,This train has been delayed by passengers causing a disturbance on a train,,,,
-705,This train has been delayed by passengers causing a disturbance on this train,,,,
-706,This train has been delayed by passengers causing a disturbance earlier in this train's journey,,,,
-707,This train has been delayed by passengers causing a disturbance on a train earlier today,,,,
-708,This train has been delayed by a fault with the electric third rail earlier on this train's journey,,,,
-709,This train has been delayed by a fault with the electric third rail earlier today,,,,
-710,This train has been delayed by damage to the electric third rail earlier on this train's journey,,,,
-711,This train has been delayed by damage to the electric third rail earlier today,,,,
-712,This train has been delayed by failure of the electricity supply earlier on this train's journey,,,,
-713,This train has been delayed by failure of the electricity supply earlier today,,,,
-714,This train has been delayed by the electricity being switched off for safety reasons earlier on this train's journey,,,,
-715,This train has been delayed by the electricity being switched off for safety reasons earlier today,,,,
-716,This train has been delayed by urgent repairs to a bridge earlier today,,,,
-717,This train has been delayed by urgent repairs to a tunnel earlier today,,,,
-718,This train has been delayed by urgent repairs to the railway earlier today,,,,
-719,This train has been delayed by urgent repairs to the track earlier today,,,,
-720,This train has been delayed by expected industrial action earlier today,,,,
-721,This train has been delayed by expected industrial action yesterday,,,,
-722,This train has been delayed by industrial action earlier today,,,,
-723,This train has been delayed by industrial action yesterday,,,,
-724,This train has been delayed by an object being caught on the overhead electric wires earlier on this train's journey,,,,
-725,This train has been delayed by an object being caught on the overhead electric wires earlier today,,,,
-726,This train has been delayed by damage to the overhead electric wires earlier on this train's journey,,,,
-727,This train has been delayed by damage to the overhead electric wires earlier today,,,,
-728,This train has been delayed by earlier engineering works not being finished on time,,,,
-729,This train has been delayed by a fault with the on train signalling system earlier on this train's journey,,,,
-730,This train has been delayed by a fault with the on train signalling system earlier today,,,,
-731,This train has been delayed by a fault with the radio system between the driver and the signaller earlier on this train's journey,,,,
-732,This train has been delayed by a fault with the radio system between the driver and the signaller earlier today,,,,
-733,This train has been delayed by a fault with the signalling system earlier on this train's journey,,,,
-734,This train has been delayed by a fault with the signalling system earlier today,,,,
-735,This train has been delayed by signalling staff being taken ill earlier on this train's journey,,,,
-736,This train has been delayed by signalling staff being taken ill earlier today,,,,
-737,This train has been delayed by the fire alarm sounding in a signalbox earlier on this train's journey,,,,
-738,This train has been delayed by the fire alarm sounding in a signalbox earlier today,,,,
-739,This train has been delayed by the fire alarm sounding in the signalling centre earlier on this train's journey,,,,
-740,This train has been delayed by the fire alarm sounding in the signalling centre earlier today,,,,
-741,This train has been delayed by attempted theft of overhead line electrification equipment earlier today,,,,
-742,This train has been delayed by attempted theft of overhead line electrification equipment yesterday,,,,
-743,This train has been delayed by attempted theft of railway equipment earlier today,,,,
-744,This train has been delayed by attempted theft of railway equipment yesterday,,,,
-745,This train has been delayed by attempted theft of signalling cables earlier today,,,,
-746,This train has been delayed by attempted theft of signalling cables yesterday,,,,
-747,This train has been delayed by attempted theft of third rail electrification equipment earlier today,,,,
-748,This train has been delayed by attempted theft of third rail electrification equipment yesterday,,,,
-749,This train has been delayed by theft of overhead line electrification equipment earlier today,,,,
-750,This train has been delayed by theft of overhead line electrification equipment yesterday,,,,
-751,This train has been delayed by theft of railway equipment earlier today,,,,
-752,This train has been delayed by theft of railway equipment yesterday,,,,
-753,This train has been delayed by theft of signalling cables earlier today,,,,
-754,This train has been delayed by theft of signalling cables yesterday,,,,
-755,This train has been delayed by theft of third rail electrification equipment earlier today,,,,
-756,This train has been delayed by theft of third rail electrification equipment yesterday,,,,
-757,This train has been delayed by vandalism at a station earlier today,,,,
-758,This train has been delayed by vandalism at a station yesterday,,,,
-759,This train has been delayed by vandalism of railway equipment earlier today,,,,
-760,This train has been delayed by vandalism of railway equipment yesterday,,,,
-761,This train has been delayed by vandalism on a train earlier today,,,,
-762,This train has been delayed by vandalism on a train yesterday,,,,
-763,This train has been delayed by vandalism on this train earlier today,,,,
-764,This train has been delayed by vandalism on this train yesterday,,,,
-765,This train has been delayed by a fault with the electric third rail,,,,
-766,This train has been delayed by damage to the electric third rail,,,,
-767,This train has been delayed by failure of the electricity supply,,,,
-768,This train has been delayed by the electricity being switched off for safety reasons,,,,
-769,This train has been delayed by urgent repairs to a bridge,,,,
-770,This train has been delayed by urgent repairs to a tunnel,,,,
-771,This train has been delayed by urgent repairs to the railway,,,,
-772,This train has been delayed by urgent repairs to the track,,,,
-773,This train has been delayed by the emergency services dealing with an incident earlier today,,,,
-774,This train has been delayed by ambulance service dealing with an incident,,,,
-775,This train has been delayed by fire brigade dealing with an incident,,,,
-776,This train has been delayed by police dealing with an incident,,,,
-777,This train has been delayed by the emergency services dealing with an incident,,,,
+161,This train has been delayed by flooding,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+162,This train has been delayed by flooding earlier,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+163,This train has been delayed by fog,disruption-reason.e.adverse weather conditions,disruption-reason.m.adverse weather conditions,disruption-reason.e.adverse weather conditions,disruption-reason.m.adverse weather conditions
+164,This train has been delayed by fog earlier,disruption-reason.e.adverse weather conditions,disruption-reason.m.adverse weather conditions,disruption-reason.e.adverse weather conditions,disruption-reason.m.adverse weather conditions
+165,This train has been delayed by high winds,disruption-reason.e.high winds,disruption-reason.m.high winds,disruption-reason.e.high winds,disruption-reason.m.high winds
+166,This train has been delayed by high winds earlier,disruption-reason.e.high winds,disruption-reason.m.high winds,disruption-reason.e.high winds,disruption-reason.m.high winds
+167,This train has been delayed by industrial action,disruption-reason.e.industrial action,disruption-reason.m.industrial action,disruption-reason.e.industrial action,disruption-reason.m.industrial action
+168,This train has been delayed by lightning having damaged equipment,disruption-reason.e.a lightning strike affecting the signalling equipment,disruption-reason.m.a lightning strike affecting the signalling equipment,disruption-reason.e.a lightning strike affecting the signalling equipment,disruption-reason.m.a lightning strike affecting the signalling equipment
+169,This train has been delayed by overhead wire problems,disruption-reason.e.overhead electric line problems,disruption-reason.m.overhead electric line problems,disruption-reason.e.overhead electric line problems,disruption-reason.m.overhead electric line problems
+170,This train has been delayed by over-running engineering works,disruption-reason.e.overrunning engineering work,disruption-reason.m.overrunning engineering work,disruption-reason.e.overrunning engineering work,disruption-reason.m.overrunning engineering work
+171,This train has been delayed by passengers transferring between trains,disruption-reason.e.being held awaiting a late running connection,disruption-reason.m.being held awaiting a late running connection,disruption-reason.e.being held awaiting a late running connection,disruption-reason.m.being held awaiting a late running connection
+172,This train has been delayed by passengers transferring between trains earlier,disruption-reason.e.being held awaiting a late running connection,disruption-reason.m.being held awaiting a late running connection,disruption-reason.e.being held awaiting a late running connection,disruption-reason.m.being held awaiting a late running connection
+173,This train has been delayed by poor rail conditions,disruption-reason.e.poor rail conditions,disruption-reason.m.poor rail conditions,disruption-reason.e.poor rail conditions,disruption-reason.m.poor rail conditions
+174,This train has been delayed by poor rail conditions earlier,disruption-reason.e.poor rail conditions,disruption-reason.m.poor rail conditions,disruption-reason.e.poor rail conditions,disruption-reason.m.poor rail conditions
+175,This train has been delayed by poor weather conditions,disruption-reason.e.severe weather conditions,disruption-reason.m.severe weather conditions,disruption-reason.e.severe weather conditions,disruption-reason.m.severe weather conditions
+176,This train has been delayed by poor weather conditions earlier,disruption-reason.e.severe weather conditions,disruption-reason.m.severe weather conditions,disruption-reason.e.severe weather conditions,disruption-reason.m.severe weather conditions
+177,This train has been delayed by safety checks being made,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train
+178,This train has been delayed by safety checks having been made earlier,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train
+179,This train has been delayed by signalling problems,disruption-reason.e.a temporary fault with the signalling equipment,disruption-reason.m.a temporary fault with the signalling equipment,disruption-reason.e.a temporary fault with the signalling equipment,disruption-reason.m.a temporary fault with the signalling equipment
+180,This train has been delayed by snow,disruption-reason.e.snow,disruption-reason.m.snow,disruption-reason.e.snow,disruption-reason.m.snow
+181,This train has been delayed by snow earlier,disruption-reason.e.snow,disruption-reason.m.snow,disruption-reason.e.snow,disruption-reason.m.snow
+182,This train has been delayed by speed restrictions having been imposed,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+183,This train has been delayed by train crew having been unavailable earlier,disruption-reason.e.a temporary shortage of train crews,disruption-reason.m.a temporary shortage of train crews,disruption-reason.e.a temporary shortage of train crews,disruption-reason.m.a temporary shortage of train crews
+184,This train has been delayed by vandalism,disruption-reason.e.vandalism,disruption-reason.m.vandalism,disruption-reason.e.vandalism,disruption-reason.m.vandalism
+185,This train has been delayed by waiting earlier for a train crew member,disruption-reason.e.awaiting a member of the train crew,disruption-reason.m.awaiting a member of the train crew,disruption-reason.e.awaiting a member of the train crew,disruption-reason.m.awaiting a member of the train crew
+186,This train has been delayed by waiting for a train crew member,disruption-reason.e.awaiting a member of the train crew,disruption-reason.m.awaiting a member of the train crew,disruption-reason.e.awaiting a member of the train crew,disruption-reason.m.awaiting a member of the train crew
+187,This train has been delayed by engineering works,disruption-reason.e.engineering work,disruption-reason.m.engineering work,disruption-reason.e.engineering work,disruption-reason.m.engineering work
+501,This train has been delayed by a broken down train,disruption-reason.e.a broken down train,disruption-reason.m.a broken down train,disruption-reason.e.a broken down train,disruption-reason.m.a broken down train
+502,This train has been delayed by a broken windscreen on the train,disruption-reason.e.additional maintenance requirements at the depot,disruption-reason.m.additional maintenance requirements at the depot,disruption-reason.e.additional maintenance requirements at the depot,disruption-reason.m.additional maintenance requirements at the depot
+503,This train has been delayed by a shortage of trains because of accident damage,disruption-reason.e.a shortage of serviceable trains,disruption-reason.m.a shortage of serviceable trains,disruption-reason.e.a shortage of serviceable trains,disruption-reason.m.a shortage of serviceable trains
+504,This train has been delayed by a shortage of trains because of extra safety inspections,disruption-reason.e.a shortage of serviceable trains,disruption-reason.m.a shortage of serviceable trains,disruption-reason.e.a shortage of serviceable trains,disruption-reason.m.a shortage of serviceable trains
+505,This train has been delayed by a shortage of trains because of vandalism,disruption-reason.e.a shortage of serviceable trains,disruption-reason.m.a shortage of serviceable trains,disruption-reason.e.a shortage of serviceable trains,disruption-reason.m.a shortage of serviceable trains
+506,This train has been delayed by a shortage of trains following damage by snow and ice,disruption-reason.e.a shortage of serviceable trains,disruption-reason.m.a shortage of serviceable trains,disruption-reason.e.a shortage of serviceable trains,disruption-reason.m.a shortage of serviceable trains
+507,This train has been delayed by more trains than usual needing repairs at the same time,disruption-reason.e.a shortage of serviceable trains,disruption-reason.m.a shortage of serviceable trains,disruption-reason.e.a shortage of serviceable trains,disruption-reason.m.a shortage of serviceable trains
+508,This train has been delayed by the train for this service having broken down,disruption-reason.e.a fault on the train,disruption-reason.m.a fault on the train,disruption-reason.e.a fault on the train,disruption-reason.m.a fault on the train
+509,This train has been delayed by this train breaking down,disruption-reason.e.a fault on the train,disruption-reason.m.a fault on the train,disruption-reason.e.a fault on the train,disruption-reason.m.a fault on the train
+510,This train has been delayed by a collision between trains,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line
+511,This train has been delayed by a collision with the buffers at a station,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line
+512,This train has been delayed by a derailed train,disruption-reason.e.a derailment,disruption-reason.m.a derailment,disruption-reason.e.a derailment,disruption-reason.m.a derailment
+513,This train has been delayed by a derailment within the depot,disruption-reason.e.a derailment,disruption-reason.m.a derailment,disruption-reason.e.a derailment,disruption-reason.m.a derailment
+514,This train has been delayed by a low speed derailment,disruption-reason.e.a derailment,disruption-reason.m.a derailment,disruption-reason.e.a derailment,disruption-reason.m.a derailment
+515,This train has been delayed by a train being involved in an accident,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line
+516,This train has been delayed by trains being involved in an accident,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line
+517,This train has been delayed by a fire at a station,disruption-reason.e.a fire,disruption-reason.m.a fire,disruption-reason.e.a fire,disruption-reason.m.a fire
+518,This train has been delayed by a fire at a station earlier today,disruption-reason.e.a fire,disruption-reason.m.a fire,disruption-reason.e.a fire,disruption-reason.m.a fire
+519,This train has been delayed by a landslip,disruption-reason.e.a landslide,disruption-reason.m.a landslide,disruption-reason.e.a landslide,disruption-reason.m.a landslide
+520,This train has been delayed by a fire next to the track,disruption-reason.e.a lineside fire,disruption-reason.m.a lineside fire,disruption-reason.e.a lineside fire,disruption-reason.m.a lineside fire
+521,This train has been delayed by a fire on a train,disruption-reason.e.a fire,disruption-reason.m.a fire,disruption-reason.e.a fire,disruption-reason.m.a fire
+522,This train has been delayed by a member of on train staff being taken ill,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness
+523,This train has been delayed by a shortage of on train staff,disruption-reason.e.a staff shortage,disruption-reason.m.a staff shortage,disruption-reason.e.a staff shortage,disruption-reason.m.a staff shortage
+524,This train has been delayed by a shortage of train conductors,disruption-reason.e.a staff shortage,disruption-reason.m.a staff shortage,disruption-reason.e.a staff shortage,disruption-reason.m.a staff shortage
+525,This train has been delayed by a shortage of train crew,disruption-reason.e.a staff shortage,disruption-reason.m.a staff shortage,disruption-reason.e.a staff shortage,disruption-reason.m.a staff shortage
+526,This train has been delayed by a shortage of train drivers,disruption-reason.e.a staff shortage,disruption-reason.m.a staff shortage,disruption-reason.e.a staff shortage,disruption-reason.m.a staff shortage
+527,This train has been delayed by a shortage of train guards,disruption-reason.e.a staff shortage,disruption-reason.m.a staff shortage,disruption-reason.e.a staff shortage,disruption-reason.m.a staff shortage
+528,This train has been delayed by a shortage of train managers,disruption-reason.e.a staff shortage,disruption-reason.m.a staff shortage,disruption-reason.e.a staff shortage,disruption-reason.m.a staff shortage
+529,This train has been delayed by severe weather preventing train crew getting to work,"disruption-reason.m.awaiting a member of train crew,disruption-reason.e.who in turn has been delayed by the current disruption",,"disruption-reason.m.awaiting a member of train crew,disruption-reason.e.who in turn has been delayed by the current disruption",
+530,This train has been delayed by the train conductor being taken ill,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness
+531,This train has been delayed by the train driver being taken ill,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness
+532,This train has been delayed by the train guard being taken ill,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness
+533,This train has been delayed by the train manager being taken ill,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness
+534,This train has been delayed by a passenger being taken ill at a station,disruption-reason.e.passenger illness,disruption-reason.m.passenger illness,disruption-reason.e.passenger illness,disruption-reason.m.passenger illness
+535,This train has been delayed by a passenger being taken ill on a train,disruption-reason.e.a passenger having been taken ill on a preceding train,disruption-reason.m.a passenger having been taken ill on a preceding train,disruption-reason.e.a passenger having been taken ill on a preceding train,disruption-reason.m.a passenger having been taken ill on a preceding train
+536,This train has been delayed by a passenger being taken ill on this train,disruption-reason.e.a passenger having been taken ill on this train,disruption-reason.m.a passenger having been taken ill on this train,disruption-reason.e.a passenger having been taken ill on this train,disruption-reason.m.a passenger having been taken ill on this train
+537,This train has been delayed by a passenger being taken ill at a station earlier today,disruption-reason.e.passenger illness,disruption-reason.m.passenger illness,disruption-reason.e.passenger illness,disruption-reason.m.passenger illness
+538,This train has been delayed by a passenger being taken ill on a train earlier today,disruption-reason.e.a passenger having been taken ill on a preceding train,disruption-reason.m.a passenger having been taken ill on a preceding train,disruption-reason.e.a passenger having been taken ill on a preceding train,disruption-reason.m.a passenger having been taken ill on a preceding train
+539,This train has been delayed by a passenger being taken ill on this train earlier in its journey,disruption-reason.e.a passenger having been taken ill on this train,disruption-reason.m.a passenger having been taken ill on this train,disruption-reason.e.a passenger having been taken ill on this train,disruption-reason.m.a passenger having been taken ill on this train
+540,This train has been delayed by a person being hit by a train,disruption-reason.e.a suspected fatality,disruption-reason.m.a suspected fatality,disruption-reason.e.a suspected fatality,disruption-reason.m.a suspected fatality
+541,This train has been delayed by a person being hit by a train earlier today,disruption-reason.e.an earlier fatality,disruption-reason.m.an earlier fatality,disruption-reason.e.an earlier fatality,disruption-reason.m.an earlier fatality
+542,This train has been delayed by a collision at a level crossing,disruption-reason.e.an accident on a level crossing,disruption-reason.m.an accident on a level crossing,disruption-reason.e.an accident on a level crossing,disruption-reason.m.an accident on a level crossing
+543,This train has been delayed by a fault with barriers at a level crossing,disruption-reason.e.a failure of level crossing apparatus-2,disruption-reason.m.a failure of level crossing apparatus-2,disruption-reason.e.a failure of level crossing apparatus-2,disruption-reason.m.a failure of level crossing apparatus-2
+544,This train has been delayed by a road accident at a level crossing,disruption-reason.e.an accident on a level crossing,disruption-reason.m.an accident on a level crossing,disruption-reason.e.an accident on a level crossing,disruption-reason.m.an accident on a level crossing
+545,This train has been delayed by a road vehicle colliding with level crossing barriers,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing
+546,This train has been delayed by a road vehicle damaging track at a level crossing,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing
+547,This train has been delayed by a problem currently under investigation,disruption-reason.e.a currently unidentified reason which is under investigation,disruption-reason.m.a currently unidentified reason which is under investigation,disruption-reason.e.a currently unidentified reason which is under investigation,disruption-reason.m.a currently unidentified reason which is under investigation
+548,This train has been delayed by a burst water main near the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway
+549,This train has been delayed by a chemical spillage near the railway,disruption-reason.e.a chemical spillage,disruption-reason.m.a chemical spillage,disruption-reason.e.a chemical spillage,disruption-reason.m.a chemical spillage
+550,This train has been delayed by a fire near the railway involving gas cylinders,disruption-reason.e.a fire,disruption-reason.m.a fire,disruption-reason.e.a fire,disruption-reason.m.a fire
+551,This train has been delayed by a fire near the railway suspected to involve gas cylinders,disruption-reason.e.a fire,disruption-reason.m.a fire,disruption-reason.e.a fire,disruption-reason.m.a fire
+552,This train has been delayed by a fire on property near the railway,disruption-reason.e.a fire,disruption-reason.m.a fire,disruption-reason.e.a fire,disruption-reason.m.a fire
+553,This train has been delayed by a gas leak near the railway,disruption-reason.e.a gas leak in the area,disruption-reason.m.a gas leak in the area,disruption-reason.e.a gas leak in the area,disruption-reason.m.a gas leak in the area
+554,This train has been delayed by a road accident near the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway
+555,This train has been delayed by a wartime bomb near the railway,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+556,This train has been delayed by ambulance service dealing with an incident near the railway,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services
+557,This train has been delayed by emergency services dealing with an incident near the railway,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services
+558,This train has been delayed by fire brigade dealing with an incident near the railway,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services
+559,This train has been delayed by police dealing with an incident near the railway,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services
+560,This train has been delayed by a boat colliding with a bridge,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge
+561,This train has been delayed by a fault with a swing bridge over a river,disruption-reason.e.a fault on trackside equipment,disruption-reason.m.a fault on trackside equipment,disruption-reason.e.a fault on trackside equipment,disruption-reason.m.a fault on trackside equipment
+562,This train has been delayed by a problem with a river bridge,disruption-reason.e.a fault on trackside equipment,disruption-reason.m.a fault on trackside equipment,disruption-reason.e.a fault on trackside equipment,disruption-reason.m.a fault on trackside equipment
+563,This train has been delayed by a problem with line-side equipment,disruption-reason.e.a fault on trackside equipment,disruption-reason.m.a fault on trackside equipment,disruption-reason.e.a fault on trackside equipment,disruption-reason.m.a fault on trackside equipment
+564,This train has been delayed by a security alert at a station,disruption-reason.e.a security alert,disruption-reason.m.a security alert,disruption-reason.e.a security alert,disruption-reason.m.a security alert
+565,This train has been delayed by a security alert on another train,disruption-reason.e.a security alert,disruption-reason.m.a security alert,disruption-reason.e.a security alert,disruption-reason.m.a security alert
+566,This train has been delayed by a security alert on this train,disruption-reason.e.a security alert,disruption-reason.m.a security alert,disruption-reason.e.a security alert,disruption-reason.m.a security alert
+567,This train has been delayed by a train derailment earlier today,disruption-reason.e.a derailment,disruption-reason.m.a derailment,disruption-reason.e.a derailment,disruption-reason.m.a derailment
+568,This train has been delayed by a train derailment yesterday,disruption-reason.e.a derailment,disruption-reason.m.a derailment,disruption-reason.e.a derailment,disruption-reason.m.a derailment
+569,This train has been delayed by a fault occurring when attaching a part of a train,disruption-reason.e.a fault that has occurred whilst attaching coaches to this train,disruption-reason.m.a fault that has occurred whilst attaching coaches to this train,disruption-reason.e.a fault that has occurred whilst attaching coaches to this train,disruption-reason.m.a fault that has occurred whilst attaching coaches to this train
+570,This train has been delayed by a fault occurring when attaching a part of this train,disruption-reason.e.an earlier fault that occurred whilst attaching coaches to this train,disruption-reason.m.an earlier fault that occurred whilst attaching coaches to this train,disruption-reason.e.an earlier fault that occurred whilst attaching coaches to this train,disruption-reason.m.an earlier fault that occurred whilst attaching coaches to this train
+571,This train has been delayed by a fault occurring when detaching a part of a train,disruption-reason.e.a fault that has occurred whilst detaching coaches from this train,disruption-reason.m.a fault that has occurred whilst detaching coaches from this train,disruption-reason.e.a fault that has occurred whilst detaching coaches from this train,disruption-reason.m.a fault that has occurred whilst detaching coaches from this train
+572,This train has been delayed by a fault occurring when detaching a part of this train,disruption-reason.e.an earlier fault that occurred whilst detaching coaches from this train,disruption-reason.m.an earlier fault that occurred whilst detaching coaches from this train,disruption-reason.e.an earlier fault that occurred whilst detaching coaches from this train,disruption-reason.m.an earlier fault that occurred whilst detaching coaches from this train
+573,This train has been delayed by a fault on a train in front of this one,disruption-reason.e.a fault on a preceding train,disruption-reason.m.a fault on a preceding train,disruption-reason.e.a fault on a preceding train,disruption-reason.m.a fault on a preceding train
+574,This train has been delayed by a fault on this train,disruption-reason.e.a fault on the train,disruption-reason.m.a fault on the train,disruption-reason.e.a fault on the train,disruption-reason.m.a fault on the train
+575,This train has been delayed by this train being late from the depot,disruption-reason.e.the late arrival of the coaches and train crew to form this service,disruption-reason.m.the late arrival of the coaches and train crew to form this service,disruption-reason.e.the late arrival of the coaches and train crew to form this service,disruption-reason.m.the late arrival of the coaches and train crew to form this service
+576,This train has been delayed by trespassers on the railway,disruption-reason.e.trespassers on the line,disruption-reason.m.trespassers on the line,disruption-reason.e.trespassers on the line,disruption-reason.m.trespassers on the line
+577,This train has been delayed by a bus colliding with a bridge,disruption-reason.e.a road vehicle striking a railway bridge,disruption-reason.m.a road vehicle striking a railway bridge,disruption-reason.e.a road vehicle striking a railway bridge,disruption-reason.m.a road vehicle striking a railway bridge
+578,This train has been delayed by a lorry colliding with a bridge,disruption-reason.e.a road vehicle striking a railway bridge,disruption-reason.m.a road vehicle striking a railway bridge,disruption-reason.e.a road vehicle striking a railway bridge,disruption-reason.m.a road vehicle striking a railway bridge
+579,This train has been delayed by a road vehicle colliding with a bridge,disruption-reason.e.a road vehicle striking a railway bridge,disruption-reason.m.a road vehicle striking a railway bridge,disruption-reason.e.a road vehicle striking a railway bridge,disruption-reason.m.a road vehicle striking a railway bridge
+580,This train has been delayed by a bus colliding with a bridge earlier on this train's journey,disruption-reason.e.an earlier road vehicle striking a railway bridge,disruption-reason.m.an earlier road vehicle striking a railway bridge,disruption-reason.e.an earlier road vehicle striking a railway bridge,disruption-reason.m.an earlier road vehicle striking a railway bridge
+581,This train has been delayed by a bus colliding with a bridge earlier today,disruption-reason.e.a road vehicle striking a railway bridge,disruption-reason.m.a road vehicle striking a railway bridge,disruption-reason.e.a road vehicle striking a railway bridge,disruption-reason.m.a road vehicle striking a railway bridge
+582,This train has been delayed by a lorry colliding with a bridge earlier on this train's journey,disruption-reason.e.an earlier road vehicle striking a railway bridge,disruption-reason.m.an earlier road vehicle striking a railway bridge,disruption-reason.e.an earlier road vehicle striking a railway bridge,disruption-reason.m.an earlier road vehicle striking a railway bridge
+583,This train has been delayed by a lorry colliding with a bridge earlier today,disruption-reason.e.a road vehicle striking a railway bridge,disruption-reason.m.a road vehicle striking a railway bridge,disruption-reason.e.a road vehicle striking a railway bridge,disruption-reason.m.a road vehicle striking a railway bridge
+584,This train has been delayed by a road vehicle colliding with a bridge earlier on this train's journey,disruption-reason.e.an earlier road vehicle striking a railway bridge,disruption-reason.m.an earlier road vehicle striking a railway bridge,disruption-reason.e.an earlier road vehicle striking a railway bridge,disruption-reason.m.an earlier road vehicle striking a railway bridge
+585,This train has been delayed by a road vehicle colliding with a bridge earlier today,disruption-reason.e.a road vehicle striking a railway bridge,disruption-reason.m.a road vehicle striking a railway bridge,disruption-reason.e.a road vehicle striking a railway bridge,disruption-reason.m.a road vehicle striking a railway bridge
+586,This train has been delayed by a broken down train earlier today,disruption-reason.e.an earlier broken down train,disruption-reason.m.an earlier broken down train,disruption-reason.e.an earlier broken down train,disruption-reason.m.an earlier broken down train
+587,This train has been delayed by an earlier landslip,disruption-reason.e.an earlier landslide,disruption-reason.m.an earlier landslide,disruption-reason.e.an earlier landslide,disruption-reason.m.an earlier landslide
+588,This train has been delayed by a fire next to the track earlier today,disruption-reason.e.an earlier lineside fire,disruption-reason.m.an earlier lineside fire,disruption-reason.e.an earlier lineside fire,disruption-reason.m.an earlier lineside fire
+589,This train has been delayed by a fire on a train earlier today,disruption-reason.e.a fire,disruption-reason.m.a fire,disruption-reason.e.a fire,disruption-reason.m.a fire
+590,This train has been delayed by a coach becoming uncoupled on a train earlier in its journey,disruption-reason.e.a fault on the train that has now been rectified,disruption-reason.m.a fault on the train that has now been rectified,disruption-reason.e.a fault on the train that has now been rectified,disruption-reason.m.a fault on the train that has now been rectified
+591,This train has been delayed by a coach becoming uncoupled on a train earlier today,disruption-reason.e.a fault on the train that has now been rectified,disruption-reason.m.a fault on the train that has now been rectified,disruption-reason.e.a fault on the train that has now been rectified,disruption-reason.m.a fault on the train that has now been rectified
+592,This train has been delayed by a coach becoming uncoupled on this train earlier in its journey,disruption-reason.e.a fault on the train that has now been rectified,disruption-reason.m.a fault on the train that has now been rectified,disruption-reason.e.a fault on the train that has now been rectified,disruption-reason.m.a fault on the train that has now been rectified
+593,This train has been delayed by a coach becoming uncoupled on this train earlier today,disruption-reason.e.a fault on the train that has now been rectified,disruption-reason.m.a fault on the train that has now been rectified,disruption-reason.e.a fault on the train that has now been rectified,disruption-reason.m.a fault on the train that has now been rectified
+594,This train has been delayed by a train not stopping at a station it was supposed to earlier in its journey,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+595,This train has been delayed by a train not stopping at a station it was supposed to earlier today,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+596,This train has been delayed by a train not stopping in the correct position at a station earlier in its journey,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+597,This train has been delayed by a train not stopping in the correct position at a station earlier today,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+598,This train has been delayed by a train's automatic braking system being activated earlier in its journey,disruption-reason.e.the emergency cord being pulled on the train,disruption-reason.m.the emergency cord being pulled on the train,disruption-reason.e.the emergency cord being pulled on the train,disruption-reason.m.the emergency cord being pulled on the train
+599,This train has been delayed by a train's automatic braking system being activated earlier today,disruption-reason.e.the emergency cord being pulled on the train,disruption-reason.m.the emergency cord being pulled on the train,disruption-reason.e.the emergency cord being pulled on the train,disruption-reason.m.the emergency cord being pulled on the train
+600,This train has been delayed by an operational incident earlier in its journey,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+601,This train has been delayed by an operational incident earlier today,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+602,This train has been delayed by this train not stopping at a station it was supposed to earlier in its journey,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+603,This train has been delayed by this train not stopping at a station it was supposed to earlier today,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+604,This train has been delayed by this train not stopping in the correct position at a station earlier in its journey,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+605,This train has been delayed by this train not stopping in the correct position at a station earlier today,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+606,This train has been delayed by this train's automatic braking system being activated earlier in its journey,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+607,This train has been delayed by this train's automatic braking system being activated earlier today,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+608,This train has been delayed by a collision at a level crossing earlier today,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing
+609,This train has been delayed by a collision at a level crossing yesterday,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing
+610,This train has been delayed by a fault with barriers at a level crossing earlier today,disruption-reason.e.a failure of level crossing apparatus,disruption-reason.m.a failure of level crossing apparatus,disruption-reason.e.a failure of level crossing apparatus,disruption-reason.m.a failure of level crossing apparatus
+611,This train has been delayed by a fault with barriers at a level crossing yesterday,disruption-reason.e.a failure of level crossing apparatus,disruption-reason.m.a failure of level crossing apparatus,disruption-reason.e.a failure of level crossing apparatus,disruption-reason.m.a failure of level crossing apparatus
+612,This train has been delayed by a road accident at a level crossing earlier today,disruption-reason.e.an accident on a level crossing,disruption-reason.m.an accident on a level crossing,disruption-reason.e.an accident on a level crossing,disruption-reason.m.an accident on a level crossing
+613,This train has been delayed by a road accident at a level crossing yesterday,disruption-reason.e.an accident on a level crossing,disruption-reason.m.an accident on a level crossing,disruption-reason.e.an accident on a level crossing,disruption-reason.m.an accident on a level crossing
+614,This train has been delayed by a road vehicle colliding with level crossing barriers earlier today,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing
+615,This train has been delayed by a road vehicle colliding with level crossing barriers yesterday,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing
+616,This train has been delayed by a road vehicle damaging track at a level crossing earlier today,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing
+617,This train has been delayed by a road vehicle damaging track at a level crossing yesterday,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing,disruption-reason.e.a road vehicle damaging a level crossing,disruption-reason.m.a road vehicle damaging a level crossing
+618,This train has been delayed by a burst water main near the railway earlier today,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway
+619,This train has been delayed by a burst water main near the railway yesterday,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway
+620,This train has been delayed by a chemical spillage near the railway earlier today,disruption-reason.e.a chemical spillage,disruption-reason.m.a chemical spillage,disruption-reason.e.a chemical spillage,disruption-reason.m.a chemical spillage
+621,This train has been delayed by a chemical spillage near the railway yesterday,disruption-reason.e.a chemical spillage,disruption-reason.m.a chemical spillage,disruption-reason.e.a chemical spillage,disruption-reason.m.a chemical spillage
+622,This train has been delayed by a fire near the railway involving gas cylinders earlier today,disruption-reason.e.a fire,disruption-reason.m.a fire,disruption-reason.e.a fire,disruption-reason.m.a fire
+623,This train has been delayed by a fire near the railway involving gas cylinders yesterday,disruption-reason.e.a fire,disruption-reason.m.a fire,disruption-reason.e.a fire,disruption-reason.m.a fire
+624,This train has been delayed by a fire near the railway suspected to involve gas cylinders earlier today,disruption-reason.e.a fire,disruption-reason.m.a fire,disruption-reason.e.a fire,disruption-reason.m.a fire
+625,This train has been delayed by a fire near the railway suspected to involve gas cylinders yesterday,disruption-reason.e.a fire,disruption-reason.m.a fire,disruption-reason.e.a fire,disruption-reason.m.a fire
+626,This train has been delayed by a fire on property near the railway earlier today,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway
+627,This train has been delayed by a fire on property near the railway yesterday,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway
+628,This train has been delayed by a gas leak near the railway earlier today,disruption-reason.e.a gas leak in the area,disruption-reason.m.a gas leak in the area,disruption-reason.e.a gas leak in the area,disruption-reason.m.a gas leak in the area
+629,This train has been delayed by a gas leak near the railway yesterday,disruption-reason.e.a gas leak in the area,disruption-reason.m.a gas leak in the area,disruption-reason.e.a gas leak in the area,disruption-reason.m.a gas leak in the area
+630,This train has been delayed by a road accident near the railway earlier today,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway
+631,This train has been delayed by a road accident near the railway yesterday,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway
+632,This train has been delayed by a wartime bomb near the railway earlier today,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway
+633,This train has been delayed by a wartime bomb near the railway yesterday,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway
+634,This train has been delayed by a wartime bomb which has now been made safe,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway,disruption-reason.e.a problem on property adjacent to the railway,disruption-reason.m.a problem on property adjacent to the railway
+635,This train has been delayed by ambulance service dealing with an incident near the railway earlier today,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services
+636,This train has been delayed by ambulance service dealing with an incident near the railway yesterday,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services
+637,This train has been delayed by emergency services dealing with an incident near the railway earlier today,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services
+638,This train has been delayed by emergency services dealing with an incident near the railway yesterday,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services
+639,This train has been delayed by fire brigade dealing with an incident near the railway earlier today,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services
+640,This train has been delayed by fire brigade dealing with an incident near the railway yesterday,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services
+641,This train has been delayed by police dealing with an incident near the railway earlier today,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+642,This train has been delayed by police dealing with an incident near the railway yesterday,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+643,This train has been delayed by a boat colliding with a bridge earlier today,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge
+644,This train has been delayed by a fault with a swing bridge over a river earlier today,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge
+645,This train has been delayed by a problem with a river bridge earlier today,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge
+646,This train has been delayed by an earlier problem with line-side equipment,disruption-reason.e.an earlier fault with the signalling equipment,disruption-reason.m.an earlier fault with the signalling equipment,disruption-reason.e.an earlier fault with the signalling equipment,disruption-reason.m.an earlier fault with the signalling equipment
+647,This train has been delayed by a security alert earlier today,disruption-reason.e.an earlier security alert,disruption-reason.m.an earlier security alert,disruption-reason.e.an earlier security alert,disruption-reason.m.an earlier security alert
+648,This train has been delayed by a fault on this train which is now fixed,disruption-reason.e.a fault on the train that has now been rectified,disruption-reason.m.a fault on the train that has now been rectified,disruption-reason.e.a fault on the train that has now been rectified,disruption-reason.m.a fault on the train that has now been rectified
+649,This train has been delayed by trespassers on the railway earlier in this train's journey,disruption-reason.e.an earlier trespassing incident,disruption-reason.m.an earlier trespassing incident,disruption-reason.e.an earlier trespassing incident,disruption-reason.m.an earlier trespassing incident
+650,This train has been delayed by trespassers on the railway earlier today,disruption-reason.e.an earlier trespassing incident,disruption-reason.m.an earlier trespassing incident,disruption-reason.e.an earlier trespassing incident,disruption-reason.m.an earlier trespassing incident
+651,This train has been delayed by a bicycle on the track,disruption-reason.e.debris on the line,disruption-reason.m.debris on the line,disruption-reason.e.debris on the line,disruption-reason.m.debris on the line
+652,This train has been delayed by a road vehicle blocking the railway,disruption-reason.e.a road vehicle on the line,disruption-reason.m.a road vehicle on the line,disruption-reason.e.a road vehicle on the line,disruption-reason.m.a road vehicle on the line
+653,This train has been delayed by a supermarket trolley on the track,disruption-reason.e.objects being thrown onto the line,disruption-reason.m.objects being thrown onto the line,disruption-reason.e.objects being thrown onto the line,disruption-reason.m.objects being thrown onto the line
+654,This train has been delayed by a train hitting an obstruction on the line,disruption-reason.e.objects being thrown onto the line,disruption-reason.m.objects being thrown onto the line,disruption-reason.e.objects being thrown onto the line,disruption-reason.m.objects being thrown onto the line
+655,This train has been delayed by a tree blocking the railway,disruption-reason.e.a fallen tree on the line,disruption-reason.m.a fallen tree on the line,disruption-reason.e.a fallen tree on the line,disruption-reason.m.a fallen tree on the line
+656,This train has been delayed by an obstruction on the track,disruption-reason.e.an obstruction on the line,disruption-reason.m.an obstruction on the line,disruption-reason.e.an obstruction on the line,disruption-reason.m.an obstruction on the line
+657,This train has been delayed by checking reports of an obstruction on the line,disruption-reason.e.reports of debris on the line,disruption-reason.m.reports of debris on the line,disruption-reason.e.reports of debris on the line,disruption-reason.m.reports of debris on the line
+658,This train has been delayed by this train hitting an obstruction on the line,disruption-reason.e.an obstruction on the line,disruption-reason.m.an obstruction on the line,disruption-reason.e.an obstruction on the line,disruption-reason.m.an obstruction on the line
+659,This train has been delayed by a bicycle on the track earlier on this train's journey,disruption-reason.e.an obstruction on the line,disruption-reason.m.an obstruction on the line,disruption-reason.e.an obstruction on the line,disruption-reason.m.an obstruction on the line
+660,This train has been delayed by a bicycle on the track earlier today,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line
+661,This train has been delayed by a road vehicle blocking the railway earlier on this train's journey,disruption-reason.e.a road vehicle on the line,disruption-reason.m.a road vehicle on the line,disruption-reason.e.a road vehicle on the line,disruption-reason.m.a road vehicle on the line
+662,This train has been delayed by a road vehicle blocking the railway earlier today,disruption-reason.e.a road vehicle on the line,disruption-reason.m.a road vehicle on the line,disruption-reason.e.a road vehicle on the line,disruption-reason.m.a road vehicle on the line
+663,This train has been delayed by a supermarket trolley on the track earlier on this train's journey,disruption-reason.e.objects being thrown onto the line,disruption-reason.m.objects being thrown onto the line,disruption-reason.e.objects being thrown onto the line,disruption-reason.m.objects being thrown onto the line
+664,This train has been delayed by a supermarket trolley on the track earlier today,disruption-reason.e.objects being thrown onto the line,disruption-reason.m.objects being thrown onto the line,disruption-reason.e.objects being thrown onto the line,disruption-reason.m.objects being thrown onto the line
+665,This train has been delayed by a train hitting an obstruction on the line earlier on this train's journey,disruption-reason.e.an obstruction on the line,disruption-reason.m.an obstruction on the line,disruption-reason.e.an obstruction on the line,disruption-reason.m.an obstruction on the line
+666,This train has been delayed by a train hitting an obstruction on the line earlier today,disruption-reason.e.an obstruction on the line,disruption-reason.m.an obstruction on the line,disruption-reason.e.an obstruction on the line,disruption-reason.m.an obstruction on the line
+667,This train has been delayed by a tree blocking the railway earlier on this train's journey,disruption-reason.e.an earlier fallen tree on the line,disruption-reason.m.an earlier fallen tree on the line,disruption-reason.e.an earlier fallen tree on the line,disruption-reason.m.an earlier fallen tree on the line
+668,This train has been delayed by a tree blocking the railway earlier today,disruption-reason.e.an earlier fallen tree on the line,disruption-reason.m.an earlier fallen tree on the line,disruption-reason.e.an earlier fallen tree on the line,disruption-reason.m.an earlier fallen tree on the line
+669,This train has been delayed by an obstruction on the track earlier on this train's journey,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line
+670,This train has been delayed by an obstruction on the track earlier today,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line
+671,This train has been delayed by checking reports of an obstruction on the line earlier on this train's journey,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line
+672,This train has been delayed by checking reports of an obstruction on the line earlier today,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line
+673,This train has been delayed by this train hitting an obstruction on the line earlier in its journey,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line
+674,This train has been delayed by this train hitting an obstruction on the line earlier on this train's journey,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line
+675,This train has been delayed by this train hitting an obstruction on the line earlier today,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line,disruption-reason.e.earlier reports of debris on the line,disruption-reason.m.earlier reports of debris on the line
+676,This train has been delayed by a coach becoming uncoupled on a train,disruption-reason.e.a fault on the train that has now been rectified,disruption-reason.m.a fault on the train that has now been rectified,disruption-reason.e.a fault on the train that has now been rectified,disruption-reason.m.a fault on the train that has now been rectified
+677,This train has been delayed by a coach becoming uncoupled on this train,disruption-reason.e.a fault on the train that has now been rectified,disruption-reason.m.a fault on the train that has now been rectified,disruption-reason.e.a fault on the train that has now been rectified,disruption-reason.m.a fault on the train that has now been rectified
+678,This train has been delayed by a train not stopping at a station it was supposed to,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+679,This train has been delayed by a train not stopping in the correct position at a station,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+680,This train has been delayed by a train's automatic braking system being activated,disruption-reason.e.the emergency cord being pulled on the train,disruption-reason.m.the emergency cord being pulled on the train,disruption-reason.e.the emergency cord being pulled on the train,disruption-reason.m.the emergency cord being pulled on the train
+681,This train has been delayed by an operational incident,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+682,This train has been delayed by this train not stopping at a station it was supposed to,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+683,This train has been delayed by this train not stopping in the correct position at a station,disruption-reason.e.an incident on the line,disruption-reason.m.an incident on the line,disruption-reason.e.operational problems,disruption-reason.m.operational problems
+684,This train has been delayed by this train's automatic braking system being activated,disruption-reason.e.the emergency cord being pulled on the train,disruption-reason.m.the emergency cord being pulled on the train,disruption-reason.e.the emergency cord being pulled on the train,disruption-reason.m.the emergency cord being pulled on the train
+685,This train has been delayed by overcrowding,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding
+686,This train has been delayed by overcrowding as this train has fewer coaches than normal,disruption-reason.e.overcrowding caused by the short formation of this service today,disruption-reason.m.overcrowding caused by the short formation of this service today,disruption-reason.e.overcrowding caused by the short formation of this service today,disruption-reason.m.overcrowding caused by the short formation of this service today
+687,This train has been delayed by overcrowding because an earlier train had fewer coaches than normal,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding
+688,This train has been delayed by overcrowding because of a concert,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding
+689,This train has been delayed by overcrowding because of a football match,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding
+690,This train has been delayed by overcrowding because of a marathon,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding
+691,This train has been delayed by overcrowding because of a rugby match,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding
+692,This train has been delayed by overcrowding because of a sporting event,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding
+693,This train has been delayed by overcrowding because of an earlier cancellation,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding
+694,This train has been delayed by overcrowding because of an event,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding
+695,This train has been delayed by overcrowding earlier on this train's journey,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding,disruption-reason.e.overcrowding,disruption-reason.m.overcrowding
+696,This train has been delayed by animals on the railway,disruption-reason.e.animals on the railway line,disruption-reason.m.animals on the railway line,disruption-reason.e.animals on the railway line,disruption-reason.m.animals on the railway line
+697,This train has been delayed by cattle on the railway,disruption-reason.e.animals on the railway line,disruption-reason.m.animals on the railway line,disruption-reason.e.animals on the railway line,disruption-reason.m.animals on the railway line
+698,This train has been delayed by horses on the railway,disruption-reason.e.animals on the railway line,disruption-reason.m.animals on the railway line,disruption-reason.e.animals on the railway line,disruption-reason.m.animals on the railway line
+699,This train has been delayed by sheep on the railway,disruption-reason.e.animals on the railway line,disruption-reason.m.animals on the railway line,disruption-reason.e.animals on the railway line,disruption-reason.m.animals on the railway line
+700,This train has been delayed by animals on the railway earlier today,disruption-reason.e.earlier reports of animals on the line,disruption-reason.m.earlier reports of animals on the line,disruption-reason.e.earlier reports of animals on the line,disruption-reason.m.earlier reports of animals on the line
+701,This train has been delayed by cattle on the railway earlier today,disruption-reason.e.earlier reports of animals on the line,disruption-reason.m.earlier reports of animals on the line,disruption-reason.e.earlier reports of animals on the line,disruption-reason.m.earlier reports of animals on the line
+702,This train has been delayed by horses on the railway earlier today,disruption-reason.e.earlier reports of animals on the line,disruption-reason.m.earlier reports of animals on the line,disruption-reason.e.earlier reports of animals on the line,disruption-reason.m.earlier reports of animals on the line
+703,This train has been delayed by sheep on the railway earlier today,disruption-reason.e.earlier reports of animals on the line,disruption-reason.m.earlier reports of animals on the line,disruption-reason.e.earlier reports of animals on the line,disruption-reason.m.earlier reports of animals on the line
+704,This train has been delayed by passengers causing a disturbance on a train,disruption-reason.e.police attending a disturbance on a preceding train,disruption-reason.m.police attending a disturbance on a preceding train,disruption-reason.e.police attending a disturbance on a preceding train,disruption-reason.m.police attending a disturbance on a preceding train
+705,This train has been delayed by passengers causing a disturbance on this train,disruption-reason.e.reports of a disturbance on board this train,disruption-reason.m.reports of a disturbance on board this train,disruption-reason.e.reports of a disturbance on board this train,disruption-reason.m.reports of a disturbance on board this train
+706,This train has been delayed by passengers causing a disturbance earlier in this train's journey,disruption-reason.e.earlier reports of a disturbance on board this train,disruption-reason.m.earlier reports of a disturbance on board this train,disruption-reason.e.earlier reports of a disturbance on board this train,disruption-reason.m.earlier reports of a disturbance on board this train
+707,This train has been delayed by passengers causing a disturbance on a train earlier today,disruption-reason.e.police attending a disturbance on a preceding train,disruption-reason.m.police attending a disturbance on a preceding train,disruption-reason.e.police attending a disturbance on a preceding train,disruption-reason.m.police attending a disturbance on a preceding train
+708,This train has been delayed by a fault with the electric third rail earlier on this train's journey,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems
+709,This train has been delayed by a fault with the electric third rail earlier today,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems
+710,This train has been delayed by damage to the electric third rail earlier on this train's journey,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems
+711,This train has been delayed by damage to the electric third rail earlier today,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems
+712,This train has been delayed by failure of the electricity supply earlier on this train's journey,disruption-reason.e.an earlier electrical power supply problem,disruption-reason.m.an earlier electrical power supply problem,disruption-reason.e.an earlier electrical power supply problem,disruption-reason.m.an earlier electrical power supply problem
+713,This train has been delayed by failure of the electricity supply earlier today,disruption-reason.e.an earlier electrical power supply problem,disruption-reason.m.an earlier electrical power supply problem,disruption-reason.e.an earlier electrical power supply problem,disruption-reason.m.an earlier electrical power supply problem
+714,This train has been delayed by the electricity being switched off for safety reasons earlier on this train's journey,disruption-reason.e.an earlier electrical power supply problem,disruption-reason.m.an earlier electrical power supply problem,disruption-reason.e.an earlier electrical power supply problem,disruption-reason.m.an earlier electrical power supply problem
+715,This train has been delayed by the electricity being switched off for safety reasons earlier today,disruption-reason.e.an earlier electrical power supply problem,disruption-reason.m.an earlier electrical power supply problem,disruption-reason.e.an earlier electrical power supply problem,disruption-reason.m.an earlier electrical power supply problem
+716,This train has been delayed by urgent repairs to a bridge earlier today,disruption-reason.e.earlier emergency track repairs,disruption-reason.m.earlier emergency track repairs,disruption-reason.e.earlier emergency track repairs,disruption-reason.m.earlier emergency track repairs
+717,This train has been delayed by urgent repairs to a tunnel earlier today,disruption-reason.e.earlier emergency track repairs,disruption-reason.m.earlier emergency track repairs,disruption-reason.e.earlier emergency track repairs,disruption-reason.m.earlier emergency track repairs
+718,This train has been delayed by urgent repairs to the railway earlier today,disruption-reason.e.earlier emergency track repairs,disruption-reason.m.earlier emergency track repairs,disruption-reason.e.earlier emergency track repairs,disruption-reason.m.earlier emergency track repairs
+719,This train has been delayed by urgent repairs to the track earlier today,disruption-reason.e.earlier emergency track repairs,disruption-reason.m.earlier emergency track repairs,disruption-reason.e.earlier emergency track repairs,disruption-reason.m.earlier emergency track repairs
+720,This train has been delayed by expected industrial action earlier today,disruption-reason.e.industrial action,disruption-reason.m.industrial action,disruption-reason.e.industrial action,disruption-reason.m.industrial action
+721,This train has been delayed by expected industrial action yesterday,disruption-reason.e.industrial action,disruption-reason.m.industrial action,disruption-reason.e.industrial action,disruption-reason.m.industrial action
+722,This train has been delayed by industrial action earlier today,disruption-reason.e.industrial action,disruption-reason.m.industrial action,disruption-reason.e.industrial action,disruption-reason.m.industrial action
+723,This train has been delayed by industrial action yesterday,disruption-reason.e.industrial action,disruption-reason.m.industrial action,disruption-reason.e.industrial action,disruption-reason.m.industrial action
+724,This train has been delayed by an object being caught on the overhead electric wires earlier on this train's journey,disruption-reason.e.overhead line damage,disruption-reason.m.overhead line damage,disruption-reason.e.overhead line damage,disruption-reason.m.overhead line damage
+725,This train has been delayed by an object being caught on the overhead electric wires earlier today,disruption-reason.e.overhead line damage,disruption-reason.m.overhead line damage,disruption-reason.e.overhead line damage,disruption-reason.m.overhead line damage
+726,This train has been delayed by damage to the overhead electric wires earlier on this train's journey,disruption-reason.e.overhead line damage,disruption-reason.m.overhead line damage,disruption-reason.e.overhead line damage,disruption-reason.m.overhead line damage
+727,This train has been delayed by damage to the overhead electric wires earlier today,disruption-reason.e.overhead line damage,disruption-reason.m.overhead line damage,disruption-reason.e.overhead line damage,disruption-reason.m.overhead line damage
+728,This train has been delayed by earlier engineering works not being finished on time,disruption-reason.e.earlier overrunning engineering work,disruption-reason.m.earlier overrunning engineering work,disruption-reason.e.earlier overrunning engineering work,disruption-reason.m.earlier overrunning engineering work
+729,This train has been delayed by a fault with the on train signalling system earlier on this train's journey,disruption-reason.e.a technical fault on the service,disruption-reason.m.a technical fault on the service,disruption-reason.e.a technical fault on the service,disruption-reason.m.a technical fault on the service
+730,This train has been delayed by a fault with the on train signalling system earlier today,disruption-reason.e.a technical fault on the service,disruption-reason.m.a technical fault on the service,disruption-reason.e.a technical fault on the service,disruption-reason.m.a technical fault on the service
+731,This train has been delayed by a fault with the radio system between the driver and the signaller earlier on this train's journey,disruption-reason.e.a technical fault on the service,disruption-reason.m.a technical fault on the service,disruption-reason.e.a technical fault on the service,disruption-reason.m.a technical fault on the service
+732,This train has been delayed by a fault with the radio system between the driver and the signaller earlier today,disruption-reason.e.a technical fault on the service,disruption-reason.m.a technical fault on the service,disruption-reason.e.a technical fault on the service,disruption-reason.m.a technical fault on the service
+733,This train has been delayed by a fault with the signalling system earlier on this train's journey,disruption-reason.e.an earlier fault with the signalling equipment,disruption-reason.m.an earlier fault with the signalling equipment,disruption-reason.e.an earlier fault with the signalling equipment,disruption-reason.m.an earlier fault with the signalling equipment
+734,This train has been delayed by a fault with the signalling system earlier today,disruption-reason.e.an earlier fault with the signalling equipment,disruption-reason.m.an earlier fault with the signalling equipment,disruption-reason.e.an earlier fault with the signalling equipment,disruption-reason.m.an earlier fault with the signalling equipment
+735,This train has been delayed by signalling staff being taken ill earlier on this train's journey,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness
+736,This train has been delayed by signalling staff being taken ill earlier today,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness
+737,This train has been delayed by the fire alarm sounding in a signalbox earlier on this train's journey,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties
+738,This train has been delayed by the fire alarm sounding in a signalbox earlier today,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties
+739,This train has been delayed by the fire alarm sounding in the signalling centre earlier on this train's journey,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties
+740,This train has been delayed by the fire alarm sounding in the signalling centre earlier today,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties
+741,This train has been delayed by attempted theft of overhead line electrification equipment earlier today,disruption-reason.e.overhead electric line problems,disruption-reason.m.overhead electric line problems,disruption-reason.e.overhead electric line problems,disruption-reason.m.overhead electric line problems
+742,This train has been delayed by attempted theft of overhead line electrification equipment yesterday,disruption-reason.e.overhead electric line problems,disruption-reason.m.overhead electric line problems,disruption-reason.e.overhead electric line problems,disruption-reason.m.overhead electric line problems
+743,This train has been delayed by attempted theft of railway equipment earlier today,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+744,This train has been delayed by attempted theft of railway equipment yesterday,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+745,This train has been delayed by attempted theft of signalling cables earlier today,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+746,This train has been delayed by attempted theft of signalling cables yesterday,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+747,This train has been delayed by attempted theft of third rail electrification equipment earlier today,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+748,This train has been delayed by attempted theft of third rail electrification equipment yesterday,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+749,This train has been delayed by theft of overhead line electrification equipment earlier today,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+750,This train has been delayed by theft of overhead line electrification equipment yesterday,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+751,This train has been delayed by theft of railway equipment earlier today,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+752,This train has been delayed by theft of railway equipment yesterday,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+753,This train has been delayed by theft of signalling cables earlier today,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+754,This train has been delayed by theft of signalling cables yesterday,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+755,This train has been delayed by theft of third rail electrification equipment earlier today,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+756,This train has been delayed by theft of third rail electrification equipment yesterday,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+757,This train has been delayed by vandalism at a station earlier today,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism
+758,This train has been delayed by vandalism at a station yesterday,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism
+759,This train has been delayed by vandalism of railway equipment earlier today,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism
+760,This train has been delayed by vandalism of railway equipment yesterday,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism
+761,This train has been delayed by vandalism on a train earlier today,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism
+762,This train has been delayed by vandalism on a train yesterday,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism
+763,This train has been delayed by vandalism on this train earlier today,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism
+764,This train has been delayed by vandalism on this train yesterday,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism,disruption-reason.e.earlier vandalism,disruption-reason.m.earlier vandalism
+765,This train has been delayed by a fault with the electric third rail,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems
+766,This train has been delayed by damage to the electric third rail,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems
+767,This train has been delayed by failure of the electricity supply,disruption-reason.e.a major electrical power fault,disruption-reason.m.a major electrical power fault,disruption-reason.e.a major electrical power fault,disruption-reason.m.a major electrical power fault
+768,This train has been delayed by the electricity being switched off for safety reasons,disruption-reason.e.an electrical power supply problem,disruption-reason.m.an electrical power supply problem,disruption-reason.e.an electrical power supply problem,disruption-reason.m.an electrical power supply problem
+769,This train has been delayed by urgent repairs to a bridge,disruption-reason.e.emergency track repairs,disruption-reason.m.emergency track repairs,disruption-reason.e.emergency track repairs,disruption-reason.m.emergency track repairs
+770,This train has been delayed by urgent repairs to a tunnel,disruption-reason.e.emergency track repairs,disruption-reason.m.emergency track repairs,disruption-reason.e.emergency track repairs,disruption-reason.m.emergency track repairs
+771,This train has been delayed by urgent repairs to the railway,disruption-reason.e.emergency track repairs,disruption-reason.m.emergency track repairs,disruption-reason.e.emergency track repairs,disruption-reason.m.emergency track repairs
+772,This train has been delayed by urgent repairs to the track,disruption-reason.e.emergency track repairs,disruption-reason.m.emergency track repairs,disruption-reason.e.emergency track repairs,disruption-reason.m.emergency track repairs
+773,This train has been delayed by the emergency services dealing with an incident earlier today,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services
+774,This train has been delayed by ambulance service dealing with an incident,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services
+775,This train has been delayed by fire brigade dealing with an incident,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services
+776,This train has been delayed by police dealing with an incident,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services
+777,This train has been delayed by the emergency services dealing with an incident,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services,disruption-reason.e.the advice of the emergency services,disruption-reason.m.the advice of the emergency services
 778,This train has been delayed by the fire alarm sounding at a station,,,,
 779,This train has been delayed by the fire alarm sounding at a station earlier today,,,,
-780,This train has been delayed by a burst water main flooding the railway,,,,
-781,This train has been delayed by a river flooding the railway,,,,
-782,This train has been delayed by flood water making the railway potentially unsafe,,,,
-783,This train has been delayed by flooding,,,,
-784,This train has been delayed by heavy rain flooding the railway,,,,
-785,This train has been delayed by predicted flooding,,,,
-786,This train has been delayed by the sea flooding the railway,,,,
-787,This train has been delayed by a burst water main flooding the railway earlier today,,,,
-788,This train has been delayed by a river flooding the railway earlier today,,,,
-789,This train has been delayed by flood water making the railway potentially unsafe earlier today,,,,
-790,This train has been delayed by flooding earlier in this train's journey,,,,
-791,This train has been delayed by flooding earlier today,,,,
-792,This train has been delayed by heavy rain flooding the railway earlier today,,,,
-793,This train has been delayed by predicted flooding earlier today,,,,
-794,This train has been delayed by the sea flooding the railway earlier today,,,,
-795,This train has been delayed by thick fog,,,,
-796,This train has been delayed by thick fog earlier in this train's journey,,,,
-797,This train has been delayed by thick fog earlier today,,,,
-798,This train has been delayed by forecasted high winds,,,,
-799,This train has been delayed by high winds,,,,
-800,This train has been delayed by high winds earlier in this train's journey,,,,
-801,This train has been delayed by high winds earlier today,,,,
-802,This train has been delayed by expected industrial action,,,,
-803,This train has been delayed by industrial action,,,,
-804,This train has been delayed by lightning damaging a station,,,,
-805,This train has been delayed by lightning damaging a train,,,,
-806,This train has been delayed by lightning damaging equipment,,,,
-807,This train has been delayed by lightning damaging the electricity supply,,,,
-808,This train has been delayed by lightning damaging the signalling system,,,,
-809,This train has been delayed by lightning damaging this train,,,,
-810,This train has been delayed by an object being caught on the overhead electric wires,,,,
-811,This train has been delayed by damage to the overhead electric wires,,,,
-812,This train has been delayed by engineering works not being finished on time,,,,
-813,This train has been delayed by forecasted slippery rails,,,,
-814,This train has been delayed by ice preventing this train getting electricity from the third rail,,,,
-815,This train has been delayed by ice preventing trains getting electricity from the third rail,,,,
-816,This train has been delayed by slippery rails,,,,
-817,This train has been delayed by slippery rails earlier in this train's journey,,,,
-818,This train has been delayed by slippery rails earlier today,,,,
-819,This train has been delayed by forecasted severe weather,,,,
-820,This train has been delayed by severe weather,,,,
-821,This train has been delayed by severe weather earlier,,,,
-822,This train has been delayed by severe weather earlier in this train's journey,,,,
-823,This train has been delayed by severe weather earlier today,,,,
-824,This train has been delayed by a safety inspection of the track,,,,
-825,This train has been delayed by a safety inspection on a train,,,,
-826,This train has been delayed by a safety inspection on this train,,,,
-827,This train has been delayed by a safety inspection of the track earlier today,,,,
-828,This train has been delayed by a safety inspection on a train earlier today,,,,
-829,This train has been delayed by a safety inspection on this train earlier in its journey,,,,
-830,This train has been delayed by a fault with the on train signalling system,,,,
-831,This train has been delayed by a fault with the radio system between the driver and the signaller,,,,
-832,This train has been delayed by a fault with the signalling system,,,,
-833,This train has been delayed by signalling staff being taken ill,,,,
-834,This train has been delayed by the fire alarm sounding in a signalbox,,,,
-835,This train has been delayed by the fire alarm sounding in the signalling centre,,,,
-836,This train has been delayed by forecasted heavy snow,,,,
-837,This train has been delayed by heavy snow,,,,
-838,This train has been delayed by heavy snow earlier in this train's journey,,,,
-839,This train has been delayed by heavy snow earlier today,,,,
-840,This train has been delayed by heavy snow over recent days,,,,
-841,This train has been delayed by a speed restriction,,,,
-842,This train has been delayed by a speed restriction because of fog,,,,
-843,This train has been delayed by a speed restriction because of fog earlier on this train's journey,,,,
-844,This train has been delayed by a speed restriction because of fog earlier today,,,,
-845,This train has been delayed by a speed restriction because of heavy rain,,,,
-846,This train has been delayed by a speed restriction because of heavy rain earlier on this train's journey,,,,
-847,This train has been delayed by a speed restriction because of heavy rain earlier today,,,,
-848,This train has been delayed by a speed restriction because of high track temperatures,,,,
-849,This train has been delayed by a speed restriction because of high track temperatures earlier on this train's journey,,,,
-850,This train has been delayed by a speed restriction because of high track temperatures earlier today,,,,
-851,This train has been delayed by a speed restriction because of high winds,,,,
-852,This train has been delayed by a speed restriction because of high winds earlier on this train's journey,,,,
-853,This train has been delayed by a speed restriction because of high winds earlier today,,,,
-854,This train has been delayed by a speed restriction because of severe weather,,,,
-855,This train has been delayed by a speed restriction because of severe weather earlier on this train's journey,,,,
-856,This train has been delayed by a speed restriction because of severe weather earlier today,,,,
-857,This train has been delayed by a speed restriction because of snow and ice,,,,
-858,This train has been delayed by a speed restriction because of snow and ice earlier on this train's journey,,,,
-859,This train has been delayed by a speed restriction because of snow and ice earlier today,,,,
-860,This train has been delayed by a speed restriction earlier on this train's journey,,,,
-861,This train has been delayed by a speed restriction earlier today,,,,
-862,This train has been delayed by a speed restriction in a tunnel,,,,
-863,This train has been delayed by a speed restriction in a tunnel earlier on this train's journey,,,,
-864,This train has been delayed by a speed restriction in a tunnel earlier today,,,,
-865,This train has been delayed by a speed restriction over a bridge,,,,
-866,This train has been delayed by a speed restriction over a bridge earlier on this train's journey,,,,
-867,This train has been delayed by a speed restriction over a bridge earlier today,,,,
-868,This train has been delayed by a speed restriction over an embankment,,,,
-869,This train has been delayed by a speed restriction over an embankment earlier on this train's journey,,,,
-870,This train has been delayed by a speed restriction over an embankment earlier today,,,,
-871,This train has been delayed by a speed restriction over defective track,,,,
-872,This train has been delayed by a speed restriction over defective track earlier on this train's journey,,,,
-873,This train has been delayed by a speed restriction over defective track earlier today,,,,
-874,This train has been delayed by attempted theft of overhead line electrification equipment,,,,
-875,This train has been delayed by attempted theft of railway equipment,,,,
-876,This train has been delayed by attempted theft of signalling cables,,,,
-877,This train has been delayed by attempted theft of third rail electrification equipment,,,,
-878,This train has been delayed by theft of overhead line electrification equipment,,,,
-879,This train has been delayed by theft of railway equipment,,,,
-880,This train has been delayed by theft of signalling cables,,,,
-881,This train has been delayed by theft of third rail electrification equipment,,,,
-882,This train has been delayed by vandalism at a station,,,,
-883,This train has been delayed by vandalism of railway equipment,,,,
-884,This train has been delayed by vandalism on a train,,,,
-885,This train has been delayed by vandalism on this train,,,,
-886,This train has been delayed by train crew being delayed,,,,
-887,This train has been delayed by train crew being delayed by service disruption,,,,
-888,This train has been delayed by a bridge being damaged,,,,
-889,This train has been delayed by a bridge being damaged by a boat,,,,
-890,This train has been delayed by a bridge being damaged by a road vehicle,,,,
-891,This train has been delayed by a bridge having collapsed,,,,
-892,This train has been delayed by a broken rail,,,,
-893,This train has been delayed by a late departure while the train was cleaned specially,,,,
-894,This train has been delayed by a late running freight train,,,,
-895,This train has been delayed by a late running train being in front of this one,,,,
-896,This train has been delayed by a points failure,,,,
-897,This train has been delayed by a power cut at the station,,,,
-898,This train has been delayed by a problem with the station lighting,,,,
-899,This train has been delayed by a rail buckling in the heat,,,,
-900,This train has been delayed by a railway embankment being damaged,,,,
-901,This train has been delayed by a shortage of station staff,,,,
-902,This train has been delayed by a tunnel being closed for safety reasons,,,,
-903,This train has been delayed by an incident at the airport,,,,
-904,This train has been delayed by congestion,,,,
-905,This train has been delayed by the communication alarm being activated on a train,,,,
-906,This train has been delayed by the communication alarm being activated on this train,,,,
-907,This train has been delayed by the train departing late to maintain customer connections,,,,
-908,This train has been delayed by the train making extra stops because a train was cancelled,,,,
-909,This train has been delayed by the train making extra stops because of service disruption,,,,
-910,This train has been delayed by waiting for a part of the train to be attached,,,,
-911,This train has been delayed by a fault on a train,,,,
-912,This train has been delayed by a problem with platform equipment,,,,
-913,This train has been delayed by a fault on a train earlier,,,,
-914,This train has been delayed by issues with communication systems,,,,
-915,This train has been delayed by a problem in the depot,,,,
-916,This train has been delayed by signalling staff being unavailable,,,,
-917,This train has been delayed by staff training,,,,
+780,This train has been delayed by a burst water main flooding the railway,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+781,This train has been delayed by a river flooding the railway,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+782,This train has been delayed by flood water making the railway potentially unsafe,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+783,This train has been delayed by flooding,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+784,This train has been delayed by heavy rain flooding the railway,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+785,This train has been delayed by predicted flooding,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+786,This train has been delayed by the sea flooding the railway,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+787,This train has been delayed by a burst water main flooding the railway earlier today,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+788,This train has been delayed by a river flooding the railway earlier today,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+789,This train has been delayed by flood water making the railway potentially unsafe earlier today,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+790,This train has been delayed by flooding earlier in this train's journey,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+791,This train has been delayed by flooding earlier today,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+792,This train has been delayed by heavy rain flooding the railway earlier today,disruption-reason.e.heavy rain,disruption-reason.m.heavy rain,disruption-reason.e.heavy rain,disruption-reason.m.heavy rain
+793,This train has been delayed by predicted flooding earlier today,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+794,This train has been delayed by the sea flooding the railway earlier today,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line,disruption-reason.e.flooding on the line,disruption-reason.m.flooding on the line
+795,This train has been delayed by thick fog,disruption-reason.e.adverse weather conditions,disruption-reason.m.adverse weather conditions,disruption-reason.e.adverse weather conditions,disruption-reason.m.adverse weather conditions
+796,This train has been delayed by thick fog earlier in this train's journey,disruption-reason.e.adverse weather conditions,disruption-reason.m.adverse weather conditions,disruption-reason.e.adverse weather conditions,disruption-reason.m.adverse weather conditions
+797,This train has been delayed by thick fog earlier today,disruption-reason.e.adverse weather conditions,disruption-reason.m.adverse weather conditions,disruption-reason.e.adverse weather conditions,disruption-reason.m.adverse weather conditions
+798,This train has been delayed by forecasted high winds,disruption-reason.e.high winds,disruption-reason.m.high winds,disruption-reason.e.high winds,disruption-reason.m.high winds
+799,This train has been delayed by high winds,disruption-reason.e.high winds,disruption-reason.m.high winds,disruption-reason.e.high winds,disruption-reason.m.high winds
+800,This train has been delayed by high winds earlier in this train's journey,disruption-reason.e.high winds,disruption-reason.m.high winds,disruption-reason.e.high winds,disruption-reason.m.high winds
+801,This train has been delayed by high winds earlier today,disruption-reason.e.high winds,disruption-reason.m.high winds,disruption-reason.e.high winds,disruption-reason.m.high winds
+802,This train has been delayed by expected industrial action,disruption-reason.e.industrial action,disruption-reason.m.industrial action,disruption-reason.e.industrial action,disruption-reason.m.industrial action
+803,This train has been delayed by industrial action,disruption-reason.e.industrial action,disruption-reason.m.industrial action,disruption-reason.e.industrial action,disruption-reason.m.industrial action
+804,This train has been delayed by lightning damaging a station,disruption-reason.e.a lightning strike,disruption-reason.m.a lightning strike,disruption-reason.e.a lightning strike,disruption-reason.m.a lightning strike
+805,This train has been delayed by lightning damaging a train,disruption-reason.e.a lightning strike,disruption-reason.m.a lightning strike,disruption-reason.e.a lightning strike,disruption-reason.m.a lightning strike
+806,This train has been delayed by lightning damaging equipment,disruption-reason.e.a lightning strike affecting the signalling equipment,disruption-reason.m.a lightning strike affecting the signalling equipment,disruption-reason.e.a lightning strike affecting the signalling equipment,disruption-reason.m.a lightning strike affecting the signalling equipment
+807,This train has been delayed by lightning damaging the electricity supply,disruption-reason.e.a lightning strike,disruption-reason.m.a lightning strike,disruption-reason.e.a lightning strike,disruption-reason.m.a lightning strike
+808,This train has been delayed by lightning damaging the signalling system,disruption-reason.e.a lightning strike affecting the signalling equipment,disruption-reason.m.a lightning strike affecting the signalling equipment,disruption-reason.e.a lightning strike affecting the signalling equipment,disruption-reason.m.a lightning strike affecting the signalling equipment
+809,This train has been delayed by lightning damaging this train,disruption-reason.e.a lightning strike,disruption-reason.m.a lightning strike,disruption-reason.e.a lightning strike,disruption-reason.m.a lightning strike
+810,This train has been delayed by an object being caught on the overhead electric wires,disruption-reason.e.overhead electric line problems,disruption-reason.m.overhead electric line problems,disruption-reason.e.overhead electric line problems,disruption-reason.m.overhead electric line problems
+811,This train has been delayed by damage to the overhead electric wires,disruption-reason.e.overhead line damage,disruption-reason.m.overhead line damage,disruption-reason.e.overhead line damage,disruption-reason.m.overhead line damage
+812,This train has been delayed by engineering works not being finished on time,disruption-reason.e.overrunning engineering work,disruption-reason.m.overrunning engineering work,disruption-reason.e.overrunning engineering work,disruption-reason.m.overrunning engineering work
+813,This train has been delayed by forecasted slippery rails,disruption-reason.e.slippery rail conditions,disruption-reason.m.slippery rail conditions,disruption-reason.e.slippery rail conditions,disruption-reason.m.slippery rail conditions
+814,This train has been delayed by ice preventing this train getting electricity from the third rail,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems
+815,This train has been delayed by ice preventing trains getting electricity from the third rail,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems,disruption-reason.e.electric conductor rail problems,disruption-reason.m.electric conductor rail problems
+816,This train has been delayed by slippery rails,disruption-reason.e.slippery rail conditions,disruption-reason.m.slippery rail conditions,disruption-reason.e.slippery rail conditions,disruption-reason.m.slippery rail conditions
+817,This train has been delayed by slippery rails earlier in this train's journey,disruption-reason.e.slippery rail conditions,disruption-reason.m.slippery rail conditions,disruption-reason.e.slippery rail conditions,disruption-reason.m.slippery rail conditions
+818,This train has been delayed by slippery rails earlier today,disruption-reason.e.slippery rail conditions,disruption-reason.m.slippery rail conditions,disruption-reason.e.slippery rail conditions,disruption-reason.m.slippery rail conditions
+819,This train has been delayed by forecasted severe weather,disruption-reason.e.severe weather conditions,disruption-reason.m.severe weather conditions,disruption-reason.e.severe weather conditions,disruption-reason.m.severe weather conditions
+820,This train has been delayed by severe weather,disruption-reason.e.severe weather conditions,disruption-reason.m.severe weather conditions,disruption-reason.e.severe weather conditions,disruption-reason.m.severe weather conditions
+821,This train has been delayed by severe weather earlier,disruption-reason.e.severe weather conditions,disruption-reason.m.severe weather conditions,disruption-reason.e.severe weather conditions,disruption-reason.m.severe weather conditions
+822,This train has been delayed by severe weather earlier in this train's journey,disruption-reason.e.severe weather conditions,disruption-reason.m.severe weather conditions,disruption-reason.e.severe weather conditions,disruption-reason.m.severe weather conditions
+823,This train has been delayed by severe weather earlier today,disruption-reason.e.severe weather conditions,disruption-reason.m.severe weather conditions,disruption-reason.e.severe weather conditions,disruption-reason.m.severe weather conditions
+824,This train has been delayed by a safety inspection of the track,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train
+825,This train has been delayed by a safety inspection on a train,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train
+826,This train has been delayed by a safety inspection on this train,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train
+827,This train has been delayed by a safety inspection of the track earlier today,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train
+828,This train has been delayed by a safety inspection on a train earlier today,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train
+829,This train has been delayed by a safety inspection on this train earlier in its journey,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train,disruption-reason.e.additional safety duties being carried out on board this train,disruption-reason.m.additional safety duties being carried out on board this train
+830,This train has been delayed by a fault with the on train signalling system,disruption-reason.e.a technical fault on the service,disruption-reason.m.a technical fault on the service,disruption-reason.e.a technical fault on the service,disruption-reason.m.a technical fault on the service
+831,This train has been delayed by a fault with the radio system between the driver and the signaller,disruption-reason.e.a technical fault on the service,disruption-reason.m.a technical fault on the service,disruption-reason.e.a technical fault on the service,disruption-reason.m.a technical fault on the service
+832,This train has been delayed by a fault with the signalling system,disruption-reason.e.a technical fault on the service,disruption-reason.m.a technical fault on the service,disruption-reason.e.a technical fault on the service,disruption-reason.m.a technical fault on the service
+833,This train has been delayed by signalling staff being taken ill,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness,disruption-reason.e.staff sickness,disruption-reason.m.staff sickness
+834,This train has been delayed by the fire alarm sounding in a signalbox,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties
+835,This train has been delayed by the fire alarm sounding in the signalling centre,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties
+836,This train has been delayed by forecasted heavy snow,disruption-reason.e.snow,disruption-reason.m.snow,disruption-reason.e.snow,disruption-reason.m.snow
+837,This train has been delayed by heavy snow,disruption-reason.e.snow,disruption-reason.m.snow,disruption-reason.e.snow,disruption-reason.m.snow
+838,This train has been delayed by heavy snow earlier in this train's journey,disruption-reason.e.snow,disruption-reason.m.snow,disruption-reason.e.snow,disruption-reason.m.snow
+839,This train has been delayed by heavy snow earlier today,disruption-reason.e.snow,disruption-reason.m.snow,disruption-reason.e.snow,disruption-reason.m.snow
+840,This train has been delayed by heavy snow over recent days,disruption-reason.e.snow,disruption-reason.m.snow,disruption-reason.e.snow,disruption-reason.m.snow
+841,This train has been delayed by a speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+842,This train has been delayed by a speed restriction because of fog,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+843,This train has been delayed by a speed restriction because of fog earlier on this train's journey,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+844,This train has been delayed by a speed restriction because of fog earlier today,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+845,This train has been delayed by a speed restriction because of heavy rain,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+846,This train has been delayed by a speed restriction because of heavy rain earlier on this train's journey,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+847,This train has been delayed by a speed restriction because of heavy rain earlier today,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+848,This train has been delayed by a speed restriction because of high track temperatures,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+849,This train has been delayed by a speed restriction because of high track temperatures earlier on this train's journey,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+850,This train has been delayed by a speed restriction because of high track temperatures earlier today,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+851,This train has been delayed by a speed restriction because of high winds,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+852,This train has been delayed by a speed restriction because of high winds earlier on this train's journey,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+853,This train has been delayed by a speed restriction because of high winds earlier today,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+854,This train has been delayed by a speed restriction because of severe weather,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+855,This train has been delayed by a speed restriction because of severe weather earlier on this train's journey,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+856,This train has been delayed by a speed restriction because of severe weather earlier today,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+857,This train has been delayed by a speed restriction because of snow and ice,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+858,This train has been delayed by a speed restriction because of snow and ice earlier on this train's journey,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+859,This train has been delayed by a speed restriction because of snow and ice earlier today,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+860,This train has been delayed by a speed restriction earlier on this train's journey,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+861,This train has been delayed by a speed restriction earlier today,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+862,This train has been delayed by a speed restriction in a tunnel,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+863,This train has been delayed by a speed restriction in a tunnel earlier on this train's journey,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+864,This train has been delayed by a speed restriction in a tunnel earlier today,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+865,This train has been delayed by a speed restriction over a bridge,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+866,This train has been delayed by a speed restriction over a bridge earlier on this train's journey,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+867,This train has been delayed by a speed restriction over a bridge earlier today,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+868,This train has been delayed by a speed restriction over an embankment,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+869,This train has been delayed by a speed restriction over an embankment earlier on this train's journey,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+870,This train has been delayed by a speed restriction over an embankment earlier today,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction,disruption-reason.e.a temporary speed restriction,disruption-reason.m.a temporary speed restriction
+871,This train has been delayed by a speed restriction over defective track,disruption-reason.e.a temporary speed restriction because of track repairs,disruption-reason.m.a temporary speed restriction because of track repairs,disruption-reason.e.a temporary speed restriction because of track repairs,disruption-reason.m.a temporary speed restriction because of track repairs
+872,This train has been delayed by a speed restriction over defective track earlier on this train's journey,disruption-reason.e.a temporary speed restriction because of track repairs,disruption-reason.m.a temporary speed restriction because of track repairs,disruption-reason.e.a temporary speed restriction because of track repairs,disruption-reason.m.a temporary speed restriction because of track repairs
+873,This train has been delayed by a speed restriction over defective track earlier today,disruption-reason.e.a temporary speed restriction because of track repairs,disruption-reason.m.a temporary speed restriction because of track repairs,disruption-reason.e.a temporary speed restriction because of track repairs,disruption-reason.m.a temporary speed restriction because of track repairs
+874,This train has been delayed by attempted theft of overhead line electrification equipment,disruption-reason.e.overhead electric line problems,disruption-reason.m.overhead electric line problems,disruption-reason.e.overhead electric line problems,disruption-reason.m.overhead electric line problems
+875,This train has been delayed by attempted theft of railway equipment,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+876,This train has been delayed by attempted theft of signalling cables,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+877,This train has been delayed by attempted theft of third rail electrification equipment,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+878,This train has been delayed by theft of overhead line electrification equipment,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+879,This train has been delayed by theft of railway equipment,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+880,This train has been delayed by theft of signalling cables,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+881,This train has been delayed by theft of third rail electrification equipment,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line,disruption-reason.e.police activity on the line,disruption-reason.m.police activity on the line
+882,This train has been delayed by vandalism at a station,disruption-reason.e.vandalism,disruption-reason.m.vandalism,disruption-reason.e.vandalism,disruption-reason.m.vandalism
+883,This train has been delayed by vandalism of railway equipment,disruption-reason.e.vandalism,disruption-reason.m.vandalism,disruption-reason.e.vandalism,disruption-reason.m.vandalism
+884,This train has been delayed by vandalism on a train,disruption-reason.e.vandalism,disruption-reason.m.vandalism,disruption-reason.e.vandalism,disruption-reason.m.vandalism
+885,This train has been delayed by vandalism on this train,disruption-reason.e.an act of vandalism on this train,disruption-reason.m.an act of vandalism on this train,disruption-reason.e.an act of vandalism on this train,disruption-reason.m.an act of vandalism on this train
+886,This train has been delayed by train crew being delayed,disruption-reason.e.awaiting a member of train crew,disruption-reason.m.awaiting a member of train crew,disruption-reason.e.awaiting a member of train crew,disruption-reason.m.awaiting a member of train crew
+887,This train has been delayed by train crew being delayed by service disruption,"disruption-reason.m.awaiting a member of train crew,disruption-reason.e.who in turn has been delayed by the current disruption",,"disruption-reason.m.awaiting a member of train crew,disruption-reason.e.who in turn has been delayed by the current disruption",
+888,This train has been delayed by a bridge being damaged,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge
+889,This train has been delayed by a bridge being damaged by a boat,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge
+890,This train has been delayed by a bridge being damaged by a road vehicle,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge
+891,This train has been delayed by a bridge having collapsed,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge,disruption-reason.e.suspected damage to a railway bridge,disruption-reason.m.suspected damage to a railway bridge
+892,This train has been delayed by a broken rail,disruption-reason.e.a broken rail,disruption-reason.m.a broken rail,disruption-reason.e.a broken rail,disruption-reason.m.a broken rail
+893,This train has been delayed by a late departure while the train was cleaned specially,disruption-reason.e.additional cleaning duties,disruption-reason.m.additional cleaning duties,disruption-reason.e.additional cleaning duties,disruption-reason.m.additional cleaning duties
+894,This train has been delayed by a late running freight train,disruption-reason.e.a slow-running preceding freight train running behind schedule,disruption-reason.m.a slow-running preceding freight train running behind schedule,disruption-reason.e.a slow-running preceding freight train running behind schedule,disruption-reason.m.a slow-running preceding freight train running behind schedule
+895,This train has been delayed by a late running train being in front of this one,disruption-reason.e.a slow-running preceding freight train running behind schedule,disruption-reason.m.a slow-running preceding freight train running behind schedule,disruption-reason.e.a slow-running preceding freight train running behind schedule,disruption-reason.m.a slow-running preceding freight train running behind schedule
+896,This train has been delayed by a points failure,disruption-reason.e.a points failure,disruption-reason.m.a points failure,disruption-reason.e.a points failure,disruption-reason.m.a points failure
+897,This train has been delayed by a power cut at the station,disruption-reason.e.an electrical power supply problem,disruption-reason.m.an electrical power supply problem,disruption-reason.e.an electrical power supply problem,disruption-reason.m.an electrical power supply problem
+898,This train has been delayed by a problem with the station lighting,disruption-reason.e.a temporary fault on the station lighting,disruption-reason.m.a temporary fault on the station lighting,disruption-reason.e.a temporary fault on the station lighting,disruption-reason.m.a temporary fault on the station lighting
+899,This train has been delayed by a rail buckling in the heat,disruption-reason.e.the extreme heat,disruption-reason.m.the extreme heat,disruption-reason.e.the extreme heat,disruption-reason.m.the extreme heat
+900,This train has been delayed by a railway embankment being damaged,disruption-reason.e.a landslip,disruption-reason.m.a landslip,disruption-reason.e.a landslip,disruption-reason.m.a landslip
+901,This train has been delayed by a shortage of station staff,disruption-reason.e.a shortage of train dispatch staff,disruption-reason.m.a shortage of train dispatch staff,disruption-reason.e.a shortage of train dispatch staff,disruption-reason.m.a shortage of train dispatch staff
+902,This train has been delayed by a tunnel being closed for safety reasons,disruption-reason.e.damaged track,disruption-reason.m.damaged track,disruption-reason.e.damaged track,disruption-reason.m.damaged track
+903,This train has been delayed by an incident at the airport,disruption-reason.e.a security alert,disruption-reason.m.a security alert,disruption-reason.e.a security alert,disruption-reason.m.a security alert
+904,This train has been delayed by congestion,disruption-reason.e.congestion,disruption-reason.m.congestion,disruption-reason.e.congestion,disruption-reason.m.congestion
+905,This train has been delayed by the communication alarm being activated on a train,disruption-reason.e.the emergency communication cord being activated,disruption-reason.m.the emergency communication cord being activated,disruption-reason.e.the emergency communication cord being activated,disruption-reason.m.the emergency communication cord being activated
+906,This train has been delayed by the communication alarm being activated on this train,disruption-reason.e.the emergency communication cord being activated on this train,disruption-reason.m.the emergency communication cord being activated on this train,disruption-reason.e.the emergency communication cord being activated on this train,disruption-reason.m.the emergency communication cord being activated on this train
+907,This train has been delayed by the train departing late to maintain customer connections,disruption-reason.e.being held awaiting a late running connection,disruption-reason.m.being held awaiting a late running connection,disruption-reason.e.being held awaiting a late running connection,disruption-reason.m.being held awaiting a late running connection
+908,This train has been delayed by the train making extra stops because a train was cancelled,disruption-reason.e.this train making additional stops on its journey,disruption-reason.m.this train making additional stops on its journey,disruption-reason.e.this train making additional stops on its journey,disruption-reason.m.this train making additional stops on its journey
+909,This train has been delayed by the train making extra stops because of service disruption,disruption-reason.e.this train making additional stops on its journey,disruption-reason.m.this train making additional stops on its journey,disruption-reason.e.this train making additional stops on its journey,disruption-reason.m.this train making additional stops on its journey
+910,This train has been delayed by waiting for a part of the train to be attached,disruption-reason.e.additional coaches being attached to this train,disruption-reason.m.additional coaches being attached to this train,disruption-reason.e.additional coaches being attached to this train,disruption-reason.m.additional coaches being attached to this train
+911,This train has been delayed by a fault on a train,disruption-reason.e.a fault on a preceding train,disruption-reason.m.a fault on a preceding train,disruption-reason.e.a fault on a preceding train,disruption-reason.m.a fault on a preceding train
+912,This train has been delayed by a problem with platform equipment,disruption-reason.e.a temporary fault on the station lighting,disruption-reason.m.a temporary fault on the station lighting,disruption-reason.e.a temporary fault on the station lighting,disruption-reason.m.a temporary fault on the station lighting
+913,This train has been delayed by a fault on a train earlier,disruption-reason.e.a fault on a preceding train that has now been rectified,disruption-reason.m.a fault on a preceding train that has now been rectified,disruption-reason.e.a fault on a preceding train that has now been rectified,disruption-reason.m.a fault on a preceding train that has now been rectified
+914,This train has been delayed by issues with communication systems,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties
+915,This train has been delayed by a problem in the depot,"disruption-reason.m.the late arrival of the coaches and train crew to form this service,disruption-reason.e.caused by servicing problems in the depot",,"disruption-reason.m.the late arrival of the coaches and train crew to form this service,disruption-reason.e.caused by servicing problems in the depot",
+916,This train has been delayed by signalling staff being unavailable,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties,disruption-reason.e.signalling difficulties,disruption-reason.m.signalling difficulties
+917,This train has been delayed by staff training,disruption-reason.e.a staff shortage,disruption-reason.m.a staff shortage,disruption-reason.e.a staff shortage,disruption-reason.m.a staff shortage
 918,This train has been delayed by a short-notice change to the timetable,,,,
 919,This train has been delayed by misuse of a level crossing,,,,
