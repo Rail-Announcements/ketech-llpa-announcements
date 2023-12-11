@@ -30,7 +30,7 @@ id,script,inflection,comment,type,suppress
 28,minutes,e,,,
 29,we apologise for the inconvenience caused,w,,,
 30,please listen for further announcements (old),w,,,
-31,due to,m,,,
+31,due to (old),m,,,
 32,a staff shortage,e,,disruption-reason,
 33,a points failure,e,,disruption-reason,
 34,signalling difficulties,e,,disruption-reason,
