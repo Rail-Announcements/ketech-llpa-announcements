@@ -122,16 +122,16 @@ Some of these stations have been bodged by combining clips from other snippets t
 | Abercynon                      | ACY      | ❌ 0/2  |
 | Alloa                          | ALO      | ❌ 0/2  |
 | Apperley Bridge                | APY      | ✅ 2/2  |
-| Ashfield                       | ASF      | ❌ 0/2  |
-| Aylesbury Vale Parkway         | AVP      | ❌ 0/2  |
+| Ashfield                       | ASF      | ✅ 2/2  |
+| Aylesbury Vale Parkway         | AVP      | ✅ 2/2  |
 | Barking Riverside              | BGV      | ✅ 2/2  |
-| Barry Links                    | BYL      | ❌ 0/2  |
+| Barry Links                    | BYL      | ✅ 2/2  |
 | Bearley                        | BER      | ❌ 0/2  |
 | Belfast Central                | BFC      | ❌ 0/2  |
 | Bermuda Park                   | BEP      | ❌ 0/2  |
 | Bicester Village               | BIT      | ❌ 0/2  |
 | Blackridge                     | BKR      | ❌ 0/2  |
-| Bow Street                     | BOW      | ❌ 0/2  |
+| Bow Street                     | BOW      | ✅ 2/2  |
 | Braintree Freeport             | BTP      | ❌ 0/2  |
 | Brent Cross West               | BCZ      | ✅ 2/2  |
 | Brunstane                      | BSU      | ❌ 0/2  |
