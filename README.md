@@ -117,301 +117,301 @@ Some of these stations have been bodged by combining clips from other snippets t
 
 ### Missing stations for Male1 (131)
 
-| Station name                   | CRS code |
-| ------------------------------ | -------- |
-| Abercynon                      | ACY      |
-| Alloa                          | ALO      |
-| Apperley Bridge                | APY      |
-| Ashfield                       | ASF      |
-| Aylesbury Vale Parkway         | AVP      |
-| Barking Riverside              | BGV      |
-| Barry Links                    | BYL      |
-| Bearley                        | BER      |
-| Belfast Central                | BFC      |
-| Bermuda Park                   | BEP      |
-| Bicester Village               | BIT      |
-| Blackridge                     | BKR      |
-| Bow Street                     | BOW      |
-| Braintree Freeport             | BTP      |
-| Brent Cross West               | BCZ      |
-| Brunstane                      | BSU      |
-| Buckshaw Parkway               | BSV      |
-| Caldercruix                    | CAC      |
-| Cambridge North                | CMB      |
-| Capenhurst                     | CPU      |
-| Cardiff International Airport  | XCF      |
-| Castleton                      | CAS      |
-| Chapleton                      | CPN      |
-| Chatelherault                  | CTE      |
-| Clacton-On-Sea                 | CLT      |
-| Coatdyke                       | COA      |
-| Conon Bridge                   | CBD      |
-| Coombe                         | COE      |
-| Corby                          | COR      |
-| Coulsdon Town                  | CDN      |
-| Coventry Arena                 | CAA      |
-| Cranbrook (Devon)              | CBK      |
-| Creswell (Derbys)              | CWD      |
-| Crosskeys                      | CKY      |
-| Cynghordy                      | CYN      |
-| Dagenham East L.T.             | ZDE      |
-| Dereham Market Place           | DEB      |
-| Dinas Rhondda                  | DMG      |
-| Drayton Manor                  | DRY      |
-| Dunfermline Queen Margaret     | DFL      |
-| Dunfermline City               | DFE      |
-| Dunoon                         | DUO      |
-| Duns                           | DUU      |
-| Ealing Common                  | ZEC      |
-| Earl's Court L.T.              | ZET      |
-| East Linton                    | ELT      |
-| Ebbsfleet International        | EBD      |
-| Ebbw Vale Parkway              | EBV      |
-| Ebbw Vale Town                 | EBB      |
-| Edinburgh Gateway              | EGY      |
-| Energlyn & Churchill Park      | ECP      |
-| Eskbank                        | EKB      |
-| Exhibition Centre              | EXG      |
-| Fellgate                       | FEG      |
-| Fishguard & Goodwick           | FGW      |
-| Frinton-On-Sea                 | FRI      |
-| Gartcosh                       | GRH      |
-| Garve                          | GVE      |
-| Gilshochill                    | GSC      |
-| Gorebridge                     | GBG      |
-| Gourock Pier                   | GXX      |
-| Hayle                          | HYL      |
-| Headbolt Lane                  | HBL      |
-| Heathrow Terminal 4 Rail       | HAF      |
-| Heathrow Terminal 5 Rail       | HWV      |
-| Heathrow Terminals 1-2-3 Rail  | HXX      |
-| Horden                         | HRE      |
-| Ilkeston                       | ILN      |
-| Imperial Wharf                 | IMW      |
-| Inverness Airport              | IVA      |
-| James Cook University Hospital | JCH      |
-| Kelvindale                     | KVD      |
-| Kenilworth                     | KNW      |
-| Kintore                        | KTR      |
-| Kirkstall Forge                | KLF      |
-| Langwith - Whaley Thorns       | LAG      |
-| Larkhall                       | LRH      |
-| Laurencekirk                   | LAU      |
-| Lea Bridge                     | LEB      |
-| Lea Green                      | LEG      |
-| Llanharan                      | LLR      |
-| Llanhilleth                    | LTH      |
-| Llantwit Major                 | LWM      |
-| Maghull North                  | MNS      |
-| Marsh Barton                   | MBT      |
-| Meridian Water                 | MRW      |
-| Merryton                       | MEY      |
-| Newbridge                      | NBE      |
-| Newbury Park                   | ZNP      |
-| Newcastle Airport              | APN      |
-| Newcastle Central (Metro)      | NCZ      |
-| Newcourt                       | NCO      |
-| Newcraighall                   | NEW      |
-| Newton Heath and Moston        | NMM      |
-| Newtongrange                   | NEG      |
-| North Fambridge                | NFA      |
-| Oxford Parkway                 | OXP      |
-| Pickering Eastgate             | PIZ      |
-| Portway Park & Ride            | PRI      |
-| Pye Corner                     | PYE      |
-| Reading Green Park             | RGP      |
-| Reston                         | RSN      |
-| Rhoose Cardiff Airport         | RIA      |
-| Risca & Pontymister            | RCA      |
-| Robroyston                     | RRN      |
-| Rogerstone                     | ROR      |
-| Shawfair                       | SFI      |
-| Shirebrook                     | SHB      |
-| Shoreditch High Street         | SDC      |
-| Smallbrook Junction            | SAB      |
-| Soham                          | SOJ      |
-| South Woodham Ferrers          | SOF      |
-| Southampton Town Quay          | STQ      |
-| St Peters                      | STZ      |
-| Stadium of Light               | STI      |
-| Stow                           | SOI      |
-| Stratford-upon-Avon Parkway    | STY      |
-| Tan-Y-Bwlch                    | TYB      |
-| Thanet Parkway                 | THP      |
-| Tottenham Court Road           | TCR      |
-| Tweedbank                      | TWB      |
-| Warrington West                | WAW      |
-| Waterloo (Merseyside)          | WLO      |
-| Wavertree Technology Park      | WAV      |
-| Wedgwood Lane                  | WER      |
-| Wells Next The Sea             | WEN      |
-| Westcliff                      | WCF      |
-| Westerton                      | WES      |
-| Whitwell                       | WWL      |
-| Woolwich                       | WWC      |
-| Worcestershire Parkway         | WOP      |
+| Station name                   | CRS code | Bodged? |
+| ------------------------------ | -------- | ------- |
+| Abercynon                      | ACY      | ❌ 0/2  |
+| Alloa                          | ALO      | ❌ 0/2  |
+| Apperley Bridge                | APY      | ✅ 2/2  |
+| Ashfield                       | ASF      | ❌ 0/2  |
+| Aylesbury Vale Parkway         | AVP      | ❌ 0/2  |
+| Barking Riverside              | BGV      | ✅ 2/2  |
+| Barry Links                    | BYL      | ❌ 0/2  |
+| Bearley                        | BER      | ❌ 0/2  |
+| Belfast Central                | BFC      | ❌ 0/2  |
+| Bermuda Park                   | BEP      | ❌ 0/2  |
+| Bicester Village               | BIT      | ❌ 0/2  |
+| Blackridge                     | BKR      | ❌ 0/2  |
+| Bow Street                     | BOW      | ❌ 0/2  |
+| Braintree Freeport             | BTP      | ❌ 0/2  |
+| Brent Cross West               | BCZ      | ✅ 2/2  |
+| Brunstane                      | BSU      | ❌ 0/2  |
+| Buckshaw Parkway               | BSV      | ❌ 0/2  |
+| Caldercruix                    | CAC      | ❌ 0/2  |
+| Cambridge North                | CMB      | ❌ 0/2  |
+| Capenhurst                     | CPU      | ❌ 0/2  |
+| Cardiff International Airport  | XCF      | ❌ 0/2  |
+| Castleton                      | CAS      | ❌ 0/2  |
+| Chapleton                      | CPN      | ❌ 0/2  |
+| Chatelherault                  | CTE      | ❌ 0/2  |
+| Clacton-On-Sea                 | CLT      | ✅ 2/2  |
+| Coatdyke                       | COA      | ❌ 0/2  |
+| Conon Bridge                   | CBD      | ❌ 0/2  |
+| Coombe                         | COE      | ❌ 0/2  |
+| Corby                          | COR      | ❌ 0/2  |
+| Coulsdon Town                  | CDN      | ❌ 0/2  |
+| Coventry Arena                 | CAA      | ❌ 0/2  |
+| Cranbrook (Devon)              | CBK      | ❌ 0/2  |
+| Creswell (Derbys)              | CWD      | ✅ 2/2  |
+| Crosskeys                      | CKY      | ❌ 0/2  |
+| Cynghordy                      | CYN      | ❌ 0/2  |
+| Dagenham East L.T.             | ZDE      | ❌ 0/2  |
+| Dereham Market Place           | DEB      | ❌ 0/2  |
+| Dinas Rhondda                  | DMG      | ❌ 0/2  |
+| Drayton Manor                  | DRY      | ❌ 0/2  |
+| Dunfermline Queen Margaret     | DFL      | ❌ 0/2  |
+| Dunfermline City               | DFE      | ❌ 0/2  |
+| Dunoon                         | DUO      | ❌ 0/2  |
+| Duns                           | DUU      | ❌ 0/2  |
+| Ealing Common                  | ZEC      | ❌ 0/2  |
+| Earl's Court L.T.              | ZET      | ❌ 0/2  |
+| East Linton                    | ELT      | ❌ 0/2  |
+| Ebbsfleet International        | EBD      | ❌ 0/2  |
+| Ebbw Vale Parkway              | EBV      | ❌ 0/2  |
+| Ebbw Vale Town                 | EBB      | ❌ 0/2  |
+| Edinburgh Gateway              | EGY      | ❌ 0/2  |
+| Energlyn & Churchill Park      | ECP      | ❌ 0/2  |
+| Eskbank                        | EKB      | ❌ 0/2  |
+| Exhibition Centre              | EXG      | ❌ 0/2  |
+| Fellgate                       | FEG      | ❌ 0/2  |
+| Fishguard & Goodwick           | FGW      | ❌ 0/2  |
+| Frinton-On-Sea                 | FRI      | ✅ 2/2  |
+| Gartcosh                       | GRH      | ❌ 0/2  |
+| Garve                          | GVE      | ❌ 0/2  |
+| Gilshochill                    | GSC      | ❌ 0/2  |
+| Gorebridge                     | GBG      | ❌ 0/2  |
+| Gourock Pier                   | GXX      | ❌ 0/2  |
+| Hayle                          | HYL      | ❌ 0/2  |
+| Headbolt Lane                  | HBL      | ❌ 0/2  |
+| Heathrow Terminal 4 Rail       | HAF      | ❌ 0/2  |
+| Heathrow Terminal 5 Rail       | HWV      | ❌ 0/2  |
+| Heathrow Terminals 1-2-3 Rail  | HXX      | ❌ 0/2  |
+| Horden                         | HRE      | ❌ 0/2  |
+| Ilkeston                       | ILN      | ❌ 0/2  |
+| Imperial Wharf                 | IMW      | ❌ 0/2  |
+| Inverness Airport              | IVA      | ❌ 0/2  |
+| James Cook University Hospital | JCH      | ❌ 0/2  |
+| Kelvindale                     | KVD      | ❌ 0/2  |
+| Kenilworth                     | KNW      | ❌ 0/2  |
+| Kintore                        | KTR      | ❌ 0/2  |
+| Kirkstall Forge                | KLF      | ❌ 0/2  |
+| Langwith - Whaley Thorns       | LAG      | ✅ 2/2  |
+| Larkhall                       | LRH      | ❌ 0/2  |
+| Laurencekirk                   | LAU      | ❌ 0/2  |
+| Lea Bridge                     | LEB      | ✅ 2/2  |
+| Lea Green                      | LEG      | ❌ 0/2  |
+| Llanharan                      | LLR      | ❌ 0/2  |
+| Llanhilleth                    | LTH      | ❌ 0/2  |
+| Llantwit Major                 | LWM      | ❌ 0/2  |
+| Maghull North                  | MNS      | ❌ 0/2  |
+| Marsh Barton                   | MBT      | ❌ 0/2  |
+| Meridian Water                 | MRW      | ❌ 0/2  |
+| Merryton                       | MEY      | ❌ 0/2  |
+| Newbridge                      | NBE      | ❌ 0/2  |
+| Newbury Park                   | ZNP      | ❌ 0/2  |
+| Newcastle Airport              | APN      | ❌ 0/2  |
+| Newcastle Central (Metro)      | NCZ      | ❌ 0/2  |
+| Newcourt                       | NCO      | ❌ 0/2  |
+| Newcraighall                   | NEW      | ❌ 0/2  |
+| Newton Heath and Moston        | NMM      | ❌ 0/2  |
+| Newtongrange                   | NEG      | ❌ 0/2  |
+| North Fambridge                | NFA      | ✅ 2/2  |
+| Oxford Parkway                 | OXP      | ❌ 0/2  |
+| Pickering Eastgate             | PIZ      | ❌ 0/2  |
+| Portway Park & Ride            | PRI      | ❌ 0/2  |
+| Pye Corner                     | PYE      | ❌ 0/2  |
+| Reading Green Park             | RGP      | ✅ 2/2  |
+| Reston                         | RSN      | ❌ 0/2  |
+| Rhoose Cardiff Airport         | RIA      | ❌ 0/2  |
+| Risca & Pontymister            | RCA      | ❌ 0/2  |
+| Robroyston                     | RRN      | ❌ 0/2  |
+| Rogerstone                     | ROR      | ❌ 0/2  |
+| Shawfair                       | SFI      | ❌ 0/2  |
+| Shirebrook                     | SHB      | ✅ 2/2  |
+| Shoreditch High Street         | SDC      | ✅ 2/2  |
+| Smallbrook Junction            | SAB      | ❌ 0/2  |
+| Soham                          | SOJ      | ❌ 0/2  |
+| South Woodham Ferrers          | SOF      | ✅ 2/2  |
+| Southampton Town Quay          | STQ      | ❌ 0/2  |
+| St Peters                      | STZ      | ❌ 0/2  |
+| Stadium of Light               | STI      | ❌ 0/2  |
+| Stow                           | SOI      | ❌ 0/2  |
+| Stratford-upon-Avon Parkway    | STY      | ❌ 0/2  |
+| Tan-Y-Bwlch                    | TYB      | ❌ 0/2  |
+| Thanet Parkway                 | THP      | ❌ 0/2  |
+| Tottenham Court Road           | TCR      | ✅ 2/2  |
+| Tweedbank                      | TWB      | ❌ 0/2  |
+| Warrington West                | WAW      | ❌ 0/2  |
+| Waterloo (Merseyside)          | WLO      | ❌ 0/2  |
+| Wavertree Technology Park      | WAV      | ❌ 0/2  |
+| Wedgwood Lane                  | WER      | ❌ 0/2  |
+| Wells Next The Sea             | WEN      | ❌ 0/2  |
+| Westcliff                      | WCF      | ✅ 2/2  |
+| Westerton                      | WES      | ❌ 0/2  |
+| Whitwell                       | WWL      | ❌ 0/2  |
+| Woolwich                       | WWC      | ✅ 2/2  |
+| Worcestershire Parkway         | WOP      | ✅ 2/2  |
 
 ### Missing stations for Female1 (160)
 
-| Station name                   | CRS code |
-| ------------------------------ | -------- |
-| Abercynon                      | ACY      |
-| Alloa                          | ALO      |
-| Apperley Bridge                | APY      |
-| Aylesbury Vale Parkway         | AVP      |
-| Balloch Central                | BHC      |
-| Barking Riverside              | BGV      |
-| Barry Links                    | BYL      |
-| Bearley                        | BER      |
-| Belfast Central                | BFC      |
-| Bermuda Park                   | BEP      |
-| Bicester Village               | BIT      |
-| Blackridge                     | BKR      |
-| Bond Street                    | BDS      |
-| Bolton-On-Dearne               | BTD      |
-| Bow Street                     | BOW      |
-| Braintree Freeport             | BTP      |
-| Brent Cross West               | BCZ      |
-| Brighouse                      | BGH      |
-| Brunstane                      | BSU      |
-| Buckshaw Parkway               | BSV      |
-| Burneside                      | BUD      |
-| Burnside                       | BUI      |
-| Burscough Bridge               | BCB      |
-| Caldercruix                    | CAC      |
-| Cambridge North                | CMB      |
-| Canary Wharf                   | CWX      |
-| Cardiff International Airport  | XCF      |
-| Cark                           | CAK      |
-| Cartsdyke                      | CDY      |
-| Chapleton                      | CPN      |
-| Chatelherault                  | CTE      |
-| Chorley                        | CRL      |
-| Clacton-On-Sea                 | CLT      |
-| Conon Bridge                   | CBD      |
-| Coombe                         | COE      |
-| Corby                          | COR      |
-| Cottingham                     | CGM      |
-| Coulsdon Town                  | CDN      |
-| Coventry Arena                 | CAA      |
-| Cranbrook (Devon)              | CBK      |
-| Creswell (Derbys)              | CWD      |
-| Crosskeys                      | CKY      |
-| Croy                           | CRO      |
-| Cynghordy                      | CYN      |
-| Dagenham East L.T.             | ZDE      |
-| Dereham Market Place           | DEB      |
-| Dinas Rhondda                  | DMG      |
-| Drayton Manor                  | DRY      |
-| Dunfermline Queen Margaret     | DFL      |
-| Dunfermline City               | DFE      |
-| Dunoon                         | DUO      |
-| Duns                           | DUU      |
-| Ealing Common                  | ZEC      |
-| Earl's Court L.T.              | ZET      |
-| East Linton                    | ELT      |
-| Eastrington                    | EGN      |
-| Ebbsfleet International        | EBD      |
-| Ebbw Vale Parkway              | EBV      |
-| Ebbw Vale Town                 | EBB      |
-| Edinburgh Gateway              | EGY      |
-| Edinburgh Park                 | EDP      |
-| Energlyn & Churchill Park      | ECP      |
-| Eskbank                        | EKB      |
-| Exhibition Centre              | EXG      |
-| Falkirk Grahamston             | FKG      |
-| Fellgate                       | FEG      |
-| Fishguard & Goodwick           | FGW      |
-| Frinton-On-Sea                 | FRI      |
-| Gartcosh                       | GRH      |
-| Garve                          | GVE      |
-| Gathurst                       | GST      |
-| Gatley                         | GTY      |
-| Giggleswick                    | GIG      |
-| Gilberdyke                     | GBD      |
-| Gilshochill                    | GSC      |
-| Glasshoughton                  | GLH      |
-| Golf Street                    | GOF      |
-| Gorebridge                     | GBG      |
-| Gourock Pier                   | GXX      |
-| Haltwhistle                    | HWH      |
-| Hayle                          | HYL      |
-| Headbolt Lane                  | HBL      |
-| Heathrow Terminal 4 Rail       | HAF      |
-| Heathrow Terminal 5 Rail       | HWV      |
-| Heathrow Terminals 1-2-3 Rail  | HXX      |
-| Horden                         | HRE      |
-| Ilkeston                       | ILN      |
-| Imperial Wharf                 | IMW      |
-| Inverness Airport              | IVA      |
-| James Cook University Hospital | JCH      |
-| Kelvindale                     | KVD      |
-| Kenilworth                     | KNW      |
-| Kingsknowe                     | KGE      |
-| Kingussie                      | KIN      |
-| Kintore                        | KTR      |
-| Kirk Sandall                   | KKS      |
-| Kirkby                         | KIR      |
-| Kirkstall Forge                | KLF      |
-| Langwith - Whaley Thorns       | LAG      |
-| Larkhall                       | LRH      |
-| Laurencekirk                   | LAU      |
-| Layton                         | LAY      |
-| Lea Bridge                     | LEB      |
-| Lea Green                      | LEG      |
-| Llanharan                      | LLR      |
-| Llanhilleth                    | LTH      |
-| Llantwit Major                 | LWM      |
-| Lockwood                       | LCK      |
-| Maghull North                  | MNS      |
-| Marsh Barton                   | MBT      |
-| Meridian Water                 | MRW      |
-| Merryton                       | MEY      |
-| Milngavie                      | MLN      |
-| Newbridge                      | NBE      |
-| Newbury Park                   | ZNP      |
-| Newcastle Airport              | APN      |
-| Newcastle Central (Metro)      | NCZ      |
-| Newcourt                       | NCO      |
-| Newcraighall                   | NEW      |
-| Newton Heath and Moston        | NMM      |
-| Newtongrange                   | NEG      |
-| North Fambridge                | NFA      |
-| Outwood                        | OUT      |
-| Oxford Parkway                 | OXP      |
-| Pickering Eastgate             | PIZ      |
-| Portway Park & Ride            | PRI      |
-| Pye Corner                     | PYE      |
-| Reading Green Park             | RGP      |
-| Reston                         | RSN      |
-| Rhoose Cardiff Airport         | RIA      |
-| Ribblehead                     | RHD      |
-| Risca & Pontymister            | RCA      |
-| Robroyston                     | RRN      |
-| Rogerstone                     | ROR      |
-| Selkirk                        | SKK      |
-| Shawfair                       | SFI      |
-| Shepley                        | SPY      |
-| Shirebrook                     | SHB      |
-| Shoreditch High Street         | SDC      |
-| Snaith                         | SNI      |
-| Soham                          | SOJ      |
-| South Woodham Ferrers          | SOF      |
-| Southampton Town Quay          | STQ      |
-| St Peters                      | STZ      |
-| Stadium of Light               | STI      |
-| Stow                           | SOI      |
-| Stratford-upon-Avon Parkway    | STY      |
-| Tan-Y-Bwlch                    | TYB      |
-| Thanet Parkway                 | THP      |
-| Tottenham Court Road           | TCR      |
-| Tweedbank                      | TWB      |
-| Warrington West                | WAW      |
-| Waterloo (Merseyside)          | WLO      |
-| Wavertree Technology Park      | WAV      |
-| Wedgwood Lane                  | WER      |
-| Wells Next The Sea             | WEN      |
-| Westcliff                      | WCF      |
-| Whitwell                       | WWL      |
-| Woolwich                       | WWC      |
-| Worcestershire Parkway         | WOP      |
+| Station name                   | CRS code | Bodged? |
+| ------------------------------ | -------- | ------- |
+| Abercynon                      | ACY      | ❌ 0/2  |
+| Alloa                          | ALO      | ❌ 0/2  |
+| Apperley Bridge                | APY      | ❌ 0/2  |
+| Aylesbury Vale Parkway         | AVP      | ❌ 0/2  |
+| Balloch Central                | BHC      | ❌ 0/2  |
+| Barking Riverside              | BGV      | ❌ 0/2  |
+| Barry Links                    | BYL      | ❌ 0/2  |
+| Bearley                        | BER      | ❌ 0/2  |
+| Belfast Central                | BFC      | ❌ 0/2  |
+| Bermuda Park                   | BEP      | ❌ 0/2  |
+| Bicester Village               | BIT      | ❌ 0/2  |
+| Blackridge                     | BKR      | ❌ 0/2  |
+| Bond Street                    | BDS      | ❌ 0/2  |
+| Bolton-On-Dearne               | BTD      | ❌ 0/2  |
+| Bow Street                     | BOW      | ❌ 0/2  |
+| Braintree Freeport             | BTP      | ❌ 0/2  |
+| Brent Cross West               | BCZ      | ❌ 0/2  |
+| Brighouse                      | BGH      | ❌ 0/2  |
+| Brunstane                      | BSU      | ❌ 0/2  |
+| Buckshaw Parkway               | BSV      | ❌ 0/2  |
+| Burneside                      | BUD      | ❌ 0/2  |
+| Burnside                       | BUI      | ❌ 0/2  |
+| Burscough Bridge               | BCB      | ❌ 0/2  |
+| Caldercruix                    | CAC      | ❌ 0/2  |
+| Cambridge North                | CMB      | ❌ 0/2  |
+| Canary Wharf                   | CWX      | ❌ 0/2  |
+| Cardiff International Airport  | XCF      | ❌ 0/2  |
+| Cark                           | CAK      | ❌ 0/2  |
+| Cartsdyke                      | CDY      | ❌ 0/2  |
+| Chapleton                      | CPN      | ❌ 0/2  |
+| Chatelherault                  | CTE      | ❌ 0/2  |
+| Chorley                        | CRL      | ❌ 0/2  |
+| Clacton-On-Sea                 | CLT      | ❌ 0/2  |
+| Conon Bridge                   | CBD      | ❌ 0/2  |
+| Coombe                         | COE      | ❌ 0/2  |
+| Corby                          | COR      | ❌ 0/2  |
+| Cottingham                     | CGM      | ❌ 0/2  |
+| Coulsdon Town                  | CDN      | ❌ 0/2  |
+| Coventry Arena                 | CAA      | ❌ 0/2  |
+| Cranbrook (Devon)              | CBK      | ❌ 0/2  |
+| Creswell (Derbys)              | CWD      | ❌ 0/2  |
+| Crosskeys                      | CKY      | ❌ 0/2  |
+| Croy                           | CRO      | ❌ 0/2  |
+| Cynghordy                      | CYN      | ❌ 0/2  |
+| Dagenham East L.T.             | ZDE      | ❌ 0/2  |
+| Dereham Market Place           | DEB      | ❌ 0/2  |
+| Dinas Rhondda                  | DMG      | ❌ 0/2  |
+| Drayton Manor                  | DRY      | ❌ 0/2  |
+| Dunfermline Queen Margaret     | DFL      | ❌ 0/2  |
+| Dunfermline City               | DFE      | ❌ 0/2  |
+| Dunoon                         | DUO      | ❌ 0/2  |
+| Duns                           | DUU      | ❌ 0/2  |
+| Ealing Common                  | ZEC      | ❌ 0/2  |
+| Earl's Court L.T.              | ZET      | ❌ 0/2  |
+| East Linton                    | ELT      | ❌ 0/2  |
+| Eastrington                    | EGN      | ❌ 0/2  |
+| Ebbsfleet International        | EBD      | ❌ 0/2  |
+| Ebbw Vale Parkway              | EBV      | ❌ 0/2  |
+| Ebbw Vale Town                 | EBB      | ❌ 0/2  |
+| Edinburgh Gateway              | EGY      | ❌ 0/2  |
+| Edinburgh Park                 | EDP      | ❌ 0/2  |
+| Energlyn & Churchill Park      | ECP      | ❌ 0/2  |
+| Eskbank                        | EKB      | ❌ 0/2  |
+| Exhibition Centre              | EXG      | ❌ 0/2  |
+| Falkirk Grahamston             | FKG      | ❌ 0/2  |
+| Fellgate                       | FEG      | ❌ 0/2  |
+| Fishguard & Goodwick           | FGW      | ❌ 0/2  |
+| Frinton-On-Sea                 | FRI      | ❌ 0/2  |
+| Gartcosh                       | GRH      | ❌ 0/2  |
+| Garve                          | GVE      | ❌ 0/2  |
+| Gathurst                       | GST      | ❌ 0/2  |
+| Gatley                         | GTY      | ❌ 0/2  |
+| Giggleswick                    | GIG      | ❌ 0/2  |
+| Gilberdyke                     | GBD      | ❌ 0/2  |
+| Gilshochill                    | GSC      | ❌ 0/2  |
+| Glasshoughton                  | GLH      | ❌ 0/2  |
+| Golf Street                    | GOF      | ❌ 0/2  |
+| Gorebridge                     | GBG      | ❌ 0/2  |
+| Gourock Pier                   | GXX      | ❌ 0/2  |
+| Haltwhistle                    | HWH      | ❌ 0/2  |
+| Hayle                          | HYL      | ❌ 0/2  |
+| Headbolt Lane                  | HBL      | ❌ 0/2  |
+| Heathrow Terminal 4 Rail       | HAF      | ❌ 0/2  |
+| Heathrow Terminal 5 Rail       | HWV      | ❌ 0/2  |
+| Heathrow Terminals 1-2-3 Rail  | HXX      | ❌ 0/2  |
+| Horden                         | HRE      | ❌ 0/2  |
+| Ilkeston                       | ILN      | ❌ 0/2  |
+| Imperial Wharf                 | IMW      | ❌ 0/2  |
+| Inverness Airport              | IVA      | ❌ 0/2  |
+| James Cook University Hospital | JCH      | ❌ 0/2  |
+| Kelvindale                     | KVD      | ❌ 0/2  |
+| Kenilworth                     | KNW      | ❌ 0/2  |
+| Kingsknowe                     | KGE      | ❌ 0/2  |
+| Kingussie                      | KIN      | ❌ 0/2  |
+| Kintore                        | KTR      | ❌ 0/2  |
+| Kirk Sandall                   | KKS      | ❌ 0/2  |
+| Kirkby                         | KIR      | ❌ 0/2  |
+| Kirkstall Forge                | KLF      | ❌ 0/2  |
+| Langwith - Whaley Thorns       | LAG      | ❌ 0/2  |
+| Larkhall                       | LRH      | ❌ 0/2  |
+| Laurencekirk                   | LAU      | ❌ 0/2  |
+| Layton                         | LAY      | ❌ 0/2  |
+| Lea Bridge                     | LEB      | ❌ 0/2  |
+| Lea Green                      | LEG      | ❌ 0/2  |
+| Llanharan                      | LLR      | ❌ 0/2  |
+| Llanhilleth                    | LTH      | ❌ 0/2  |
+| Llantwit Major                 | LWM      | ❌ 0/2  |
+| Lockwood                       | LCK      | ❌ 0/2  |
+| Maghull North                  | MNS      | ❌ 0/2  |
+| Marsh Barton                   | MBT      | ❌ 0/2  |
+| Meridian Water                 | MRW      | ❌ 0/2  |
+| Merryton                       | MEY      | ❌ 0/2  |
+| Milngavie                      | MLN      | ❌ 0/2  |
+| Newbridge                      | NBE      | ❌ 0/2  |
+| Newbury Park                   | ZNP      | ❌ 0/2  |
+| Newcastle Airport              | APN      | ❌ 0/2  |
+| Newcastle Central (Metro)      | NCZ      | ❌ 0/2  |
+| Newcourt                       | NCO      | ❌ 0/2  |
+| Newcraighall                   | NEW      | ❌ 0/2  |
+| Newton Heath and Moston        | NMM      | ❌ 0/2  |
+| Newtongrange                   | NEG      | ❌ 0/2  |
+| North Fambridge                | NFA      | ❌ 0/2  |
+| Outwood                        | OUT      | ❌ 0/2  |
+| Oxford Parkway                 | OXP      | ❌ 0/2  |
+| Pickering Eastgate             | PIZ      | ❌ 0/2  |
+| Portway Park & Ride            | PRI      | ❌ 0/2  |
+| Pye Corner                     | PYE      | ❌ 0/2  |
+| Reading Green Park             | RGP      | ❌ 0/2  |
+| Reston                         | RSN      | ❌ 0/2  |
+| Rhoose Cardiff Airport         | RIA      | ❌ 0/2  |
+| Ribblehead                     | RHD      | ❌ 0/2  |
+| Risca & Pontymister            | RCA      | ❌ 0/2  |
+| Robroyston                     | RRN      | ❌ 0/2  |
+| Rogerstone                     | ROR      | ❌ 0/2  |
+| Selkirk                        | SKK      | ❌ 0/2  |
+| Shawfair                       | SFI      | ❌ 0/2  |
+| Shepley                        | SPY      | ❌ 0/2  |
+| Shirebrook                     | SHB      | ❌ 0/2  |
+| Shoreditch High Street         | SDC      | ❌ 0/2  |
+| Snaith                         | SNI      | ❌ 0/2  |
+| Soham                          | SOJ      | ❌ 0/2  |
+| South Woodham Ferrers          | SOF      | ❌ 0/2  |
+| Southampton Town Quay          | STQ      | ❌ 0/2  |
+| St Peters                      | STZ      | ❌ 0/2  |
+| Stadium of Light               | STI      | ❌ 0/2  |
+| Stow                           | SOI      | ❌ 0/2  |
+| Stratford-upon-Avon Parkway    | STY      | ❌ 0/2  |
+| Tan-Y-Bwlch                    | TYB      | ❌ 0/2  |
+| Thanet Parkway                 | THP      | ❌ 0/2  |
+| Tottenham Court Road           | TCR      | ❌ 0/2  |
+| Tweedbank                      | TWB      | ❌ 0/2  |
+| Warrington West                | WAW      | ❌ 0/2  |
+| Waterloo (Merseyside)          | WLO      | ❌ 0/2  |
+| Wavertree Technology Park      | WAV      | ❌ 0/2  |
+| Wedgwood Lane                  | WER      | ❌ 0/2  |
+| Wells Next The Sea             | WEN      | ❌ 0/2  |
+| Westcliff                      | WCF      | ❌ 0/2  |
+| Whitwell                       | WWL      | ❌ 0/2  |
+| Woolwich                       | WWC      | ❌ 0/2  |
+| Worcestershire Parkway         | WOP      | ❌ 0/2  |
