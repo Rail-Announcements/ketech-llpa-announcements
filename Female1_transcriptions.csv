@@ -1941,7 +1941,7 @@ id,script,inflection,comment,type,suppress
 2325,00 - hundred-hours,e,time - mins,mins,
 2335,services,m,,,
 2337,connex south central,m,,toc,
-2340,croydon tramlink,m,,,
+2340,croydon tramlink,m,,toc,
 2342,london underground,m,,,
 2344,diverted,m,,,
 2345,racecourse special,m,,toc,
